@@ -1,10 +1,8 @@
 ---
 type: page
-type: page
 title: "Privacy Policy"
 date: 2024-12-13
 ---
-type: page
 
 **Privacy Policy for Decadent Serpent (DS)**
 

@@ -1,10 +1,8 @@
 ---
 type: page
-type: page
 title: "Submissions"
 date: 2024-09-14
 ---
-type: page
 
 1. [LITERATURE](https://decadentserpent.com/submissions/#literature)
 2. [ART](https://decadentserpent.com/submissions/#art)

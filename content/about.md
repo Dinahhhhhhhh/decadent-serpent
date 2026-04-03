@@ -1,10 +1,8 @@
 ---
 type: page
-type: page
 title: "About"
 date: 2024-09-14
 ---
-type: page
 
 ## What makes us different?
 

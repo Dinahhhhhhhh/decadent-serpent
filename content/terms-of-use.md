@@ -1,10 +1,8 @@
 ---
 type: page
-type: page
 title: "Terms of Use"
 date: 2024-12-13
 ---
-type: page
 
 **Terms of Use for Decadent Serpent (DS)**
 
