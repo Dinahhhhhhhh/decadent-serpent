@@ -1,0 +1,82 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: static/images/uploads
+public_folder: /images/uploads
+
+site_url: https://decadentserpent.com
+display_url: https://decadentserpent.com
+
+collections:
+  - name: posts
+    label: Posts
+    label_singular: Post
+    folder: content/posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: posts/{{slug}}
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Date
+        name: date
+        widget: datetime
+        date_format: YYYY-MM-DD
+        time_format: false
+      - label: Cover Image URL
+        name: image
+        widget: string
+        required: false
+        hint: "Paste a full image URL (e.g. from Unsplash or WordPress media). Images are not hosted here."
+      - label: Categories
+        name: categories
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - { label: Literature, value: literature }
+          - { label: Film, value: film }
+          - { label: Film Reviews, value: film-reviews }
+          - { label: Film Features, value: film-features }
+          - { label: Art, value: art }
+          - { label: Art Features, value: art-features }
+          - { label: Art Reviews, value: art-exhibition-reviews }
+          - { label: Music, value: music }
+          - { label: Album Reviews, value: album-reviews }
+          - { label: Concert Reviews, value: concert-reviews }
+          - { label: Music Features, value: music-features }
+          - { label: History, value: history }
+          - { label: Ideas & Culture, value: ideas-culture }
+          - { label: Creative Writing, value: creative-writing }
+          - { label: Book Reviews, value: book-reviews }
+          - { label: Features, value: features }
+          - { label: Poetry, value: poetry }
+          - { label: Events, value: events }
+      - label: Tags
+        name: tags
+        widget: list
+        required: false
+        hint: "Comma-separated tags e.g. modernism, poetry, scotland"
+      - label: Draft
+        name: draft
+        widget: boolean
+        default: false
+        required: false
+      - label: Body
+        name: body
+        widget: markdown
+
+  - name: pages
+    label: Pages
+    label_singular: Page
+    folder: content/pages
+    create: false
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown

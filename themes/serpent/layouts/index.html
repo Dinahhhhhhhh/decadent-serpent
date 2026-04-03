@@ -1,0 +1,135 @@
+{{ define "main" }}
+
+{{/* ── Carousel ── */}}
+{{ $featured := where .Site.RegularPages "Section" "posts" }}
+{{ $featured = first 5 $featured }}
+<section class="carousel">
+  <div class="carousel-track">
+    {{ range $featured }}
+    <div class="carousel-slide">
+      <a href="{{ .RelPermalink }}">
+        {{ with .Params.image }}
+        <img class="carousel-img" src="{{ . }}" alt="{{ $.Title }}" loading="eager">
+        {{ else }}
+        <div class="carousel-placeholder"></div>
+        {{ end }}
+        <div class="carousel-caption">
+          {{ with .Params.categories }}
+          <span class="carousel-cat">{{ index . 0 | humanize }}</span>
+          {{ end }}
+          <h2 class="carousel-title">{{ .Title }}</h2>
+        </div>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+  <button class="carousel-btn prev" aria-label="Previous">&#8592;</button>
+  <button class="carousel-btn next" aria-label="Next">&#8594;</button>
+  <div class="carousel-dots">
+    {{ range $i, $_ := $featured }}
+    <button class="carousel-dot{{ if eq $i 0 }} active{{ end }}" aria-label="Slide {{ add $i 1 }}"></button>
+    {{ end }}
+  </div>
+</section>
+
+{{/* ── Section Grid ── */}}
+{{ $allPosts := where .Site.RegularPages "Section" "posts" }}
+<section class="section-grid">
+  <div class="section-grid-inner">
+
+    {{ $litPosts := where $allPosts ".Params.categories" "intersect" (slice "literature") }}
+    <a href="/categories/literature/" class="section-card">
+      {{ range first 1 $litPosts }}{{ with .Params.image }}<img src="{{ . }}" alt="Literature" loading="lazy">{{ end }}{{ end }}
+      <div class="section-label"><span>Literature</span></div>
+    </a>
+
+    {{ $filmPosts := where $allPosts ".Params.categories" "intersect" (slice "film") }}
+    <a href="/categories/film/" class="section-card">
+      {{ range first 1 $filmPosts }}{{ with .Params.image }}<img src="{{ . }}" alt="Film" loading="lazy">{{ end }}{{ end }}
+      <div class="section-label"><span>Film</span></div>
+    </a>
+
+    {{ $artPosts := where $allPosts ".Params.categories" "intersect" (slice "art") }}
+    <a href="/categories/art/" class="section-card">
+      {{ range first 1 $artPosts }}{{ with .Params.image }}<img src="{{ . }}" alt="Art" loading="lazy">{{ end }}{{ end }}
+      <div class="section-label"><span>Art</span></div>
+    </a>
+
+    {{ $musicPosts := where $allPosts ".Params.categories" "intersect" (slice "music") }}
+    <a href="/categories/music/" class="section-card">
+      {{ range first 1 $musicPosts }}{{ with .Params.image }}<img src="{{ . }}" alt="Music" loading="lazy">{{ end }}{{ end }}
+      <div class="section-label"><span>Music</span></div>
+    </a>
+
+    {{ $histPosts := where $allPosts ".Params.categories" "intersect" (slice "history") }}
+    <a href="/categories/history/" class="section-card">
+      {{ range first 1 $histPosts }}{{ with .Params.image }}<img src="{{ . }}" alt="History" loading="lazy">{{ end }}{{ end }}
+      <div class="section-label"><span>History</span></div>
+    </a>
+
+    {{ $ideaPosts := where $allPosts ".Params.categories" "intersect" (slice "ideas-culture") }}
+    <a href="/categories/ideas-culture/" class="section-card">
+      {{ range first 1 $ideaPosts }}{{ with .Params.image }}<img src="{{ . }}" alt="Ideas &amp; Culture" loading="lazy">{{ end }}{{ end }}
+      <div class="section-label"><span>Ideas &amp; Culture</span></div>
+    </a>
+
+  </div>
+</section>
+
+<hr class="section-divider">
+
+{{/* ── Latest + Sidebar ── */}}
+<div class="homepage-body">
+  <div>
+    <h2 class="latest-heading">Latest</h2>
+    <div class="post-list">
+      {{ range first 16 $allPosts }}
+      <a href="{{ .RelPermalink }}" class="post-card">
+        {{ with .Params.image }}
+        <img class="post-thumb" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+        {{ else }}
+        <div class="post-thumb-placeholder"></div>
+        {{ end }}
+        <div class="post-card-body">
+          {{ with .Params.categories }}
+          <span class="post-card-cat">{{ index . 0 | humanize }}</span>
+          {{ end }}
+          <h3 class="post-card-title">{{ .Title }}</h3>
+          <span class="post-card-date">{{ .Date.Format "2 January 2006" }}</span>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+  <aside class="sidebar">
+    <div class="sidebar-block">
+      <h3 class="sidebar-heading">Sections</h3>
+      <div class="sidebar-links">
+        <a href="/categories/literature/">Literature</a>
+        <a href="/categories/film/">Film</a>
+        <a href="/categories/art/">Art</a>
+        <a href="/categories/music/">Music</a>
+        <a href="/categories/history/">History</a>
+        <a href="/categories/ideas-culture/">Ideas &amp; Culture</a>
+        <a href="/categories/creative-writing/">Creative Writing</a>
+        <a href="/categories/events/">What's On</a>
+      </div>
+    </div>
+    <div class="sidebar-block">
+      <h3 class="sidebar-heading">Subscribe</h3>
+      <div class="subscribe-box">
+        <p>Don't miss new updates from Decadent Serpent.</p>
+        <form class="subscribe-form" action="https://buttondown.email/api/emails/embed-subscribe/decadentserpent" method="POST" target="popupwindow">
+          <input type="email" name="email" placeholder="Your email address" required>
+          <button type="submit">Subscribe</button>
+        </form>
+      </div>
+    </div>
+    <div class="sidebar-block">
+      <h3 class="sidebar-heading">Support Us</h3>
+      <p style="font-size:0.8rem;color:var(--mid);line-height:1.55;margin-bottom:0.9rem;">Decadent Serpent is volunteer-run. Your support keeps us going.</p>
+      <a href="{{ .Site.Params.donateURL }}" target="_blank" rel="noopener" style="display:inline-block;font-size:0.68rem;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;border:1px solid var(--black);padding:0.5rem 1rem;transition:all 0.2s;">Donate</a>
+    </div>
+  </aside>
+</div>
+{{ end }}

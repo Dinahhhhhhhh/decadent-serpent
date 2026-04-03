@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="list-header">
+  <h1 class="list-title">{{ .Title | humanize }}</h1>
+</div>
+<div class="list-grid">
+  {{ range .Pages }}
+  <a href="{{ .RelPermalink }}" class="list-card">
+    {{ with .Params.image }}
+    <img class="list-card-img" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+    {{ else }}
+    <div class="list-card-placeholder"></div>
+    {{ end }}
+    <h2 class="list-card-title">{{ .Title }}</h2>
+    <span class="list-card-date">{{ .Date.Format "2 January 2006" }}</span>
+  </a>
+  {{ end }}
+</div>
+{{ end }}

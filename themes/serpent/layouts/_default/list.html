@@ -1,0 +1,44 @@
+{{ define "main" }}
+<div class="list-header">
+  <h1 class="list-title">{{ .Title | humanize }}</h1>
+  <p class="list-count">{{ len .Pages }} articles</p>
+</div>
+<div class="list-grid">
+  {{ range .Paginator.Pages }}
+  <a href="{{ .RelPermalink }}" class="list-card">
+    {{ with .Params.image }}
+    <img class="list-card-img" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+    {{ else }}
+    <div class="list-card-placeholder"></div>
+    {{ end }}
+    {{ with .Params.categories }}
+    <span class="list-card-cat">{{ index . 0 | humanize }}</span>
+    {{ end }}
+    <h2 class="list-card-title">{{ .Title }}</h2>
+    <span class="list-card-date">{{ .Date.Format "2 January 2006" }}</span>
+  </a>
+  {{ end }}
+</div>
+{{ template "pagination" . }}
+{{ end }}
+
+{{ define "pagination" }}
+{{ $paginator := .Paginator }}
+{{ if gt $paginator.TotalPages 1 }}
+<div class="pagination">
+  {{ if $paginator.HasPrev }}
+  <a href="{{ $paginator.Prev.URL }}">&larr; Newer</a>
+  {{ end }}
+  {{ range $paginator.Pagers }}
+  {{ if eq . $paginator }}
+  <span class="current">{{ .PageNumber }}</span>
+  {{ else }}
+  <a href="{{ .URL }}">{{ .PageNumber }}</a>
+  {{ end }}
+  {{ end }}
+  {{ if $paginator.HasNext }}
+  <a href="{{ $paginator.Next.URL }}">Older &rarr;</a>
+  {{ end }}
+</div>
+{{ end }}
+{{ end }}

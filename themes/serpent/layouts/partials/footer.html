@@ -1,0 +1,50 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <a href="/" class="site-title">Decadent Serpent</a>
+      <p class="footer-tagline">The One Place for All Things Culture.<br>Published from Edinburgh.</p>
+      <div class="footer-social" style="margin-top:1rem;">
+        <a href="{{ .Site.Params.instagramURL }}" target="_blank" rel="noopener">Instagram</a>
+        <a href="{{ .Site.Params.twitterURL }}" target="_blank" rel="noopener">X / Twitter</a>
+        <a href="{{ .Site.Params.donateURL }}" target="_blank" rel="noopener">Support Us</a>
+      </div>
+    </div>
+    <div>
+      <p class="footer-col-heading">Sections</p>
+      <div class="footer-links">
+        <a href="/categories/literature/">Literature</a>
+        <a href="/categories/film/">Film</a>
+        <a href="/categories/art/">Art</a>
+        <a href="/categories/music/">Music</a>
+        <a href="/categories/history/">History</a>
+        <a href="/categories/ideas-culture/">Ideas &amp; Culture</a>
+      </div>
+    </div>
+    <div>
+      <p class="footer-col-heading">About</p>
+      <div class="footer-links">
+        <a href="/about/">About Us</a>
+        <a href="/submissions/">Submissions</a>
+        <a href="/categories/events/">What's On</a>
+        <a href="/privacy-policy/">Privacy Policy</a>
+        <a href="/terms-of-use/">Terms of Use</a>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>&copy; {{ now.Year }} Decadent Serpent. All rights reserved.</p>
+    <p>Built with <a href="https://gohugo.io">Hugo</a>. Hosted on <a href="https://netlify.com">Netlify</a>.</p>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>

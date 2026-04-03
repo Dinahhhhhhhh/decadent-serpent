@@ -1,0 +1,6 @@
+name = "Serpent"
+license = "MIT"
+licenselink = ""
+description = "Custom theme for Decadent Serpent literary magazine"
+homepage = "https://decadentserpent.com"
+min_version = "0.110.0"

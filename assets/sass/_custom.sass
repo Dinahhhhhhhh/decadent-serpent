@@ -1,0 +1,66 @@
+// ─── Decadent Serpent — Custom Typography & Style Overrides ───────────────────
+
+// Font variables
+$garamond-heading: 'Cormorant Garamond', 'EB Garamond', Georgia, serif
+$garamond-body: 'EB Garamond', Georgia, serif
+
+// Override the theme's base font variable
+html
+  --font: #{$garamond-body}
+  --font-heading: #{$garamond-heading}
+  --theme: #8b0000  // deep crimson — keeps the 'decadent' feel without being garish
+  font-size: 18px   // Garamond reads better slightly larger
+
+// ─── Body & base ────────────────────────────────────────────────────────────
+body
+  font-family: var(--font)
+  font-size: 1.05rem
+  line-height: 1.75
+  letter-spacing: 0.01em
+
+// ─── Headings ───────────────────────────────────────────────────────────────
+h1, h2, h3, h4, h5, h6
+  font-family: $garamond-heading
+  font-weight: 600
+  letter-spacing: 0.02em
+  line-height: 1.2
+
+// Site title in nav
+.brand, .site-title, nav .logo-text
+  font-family: $garamond-heading
+  font-weight: 700
+  font-size: 1.5rem
+  letter-spacing: 0.05em
+  text-transform: uppercase
+
+// ─── Post cards ─────────────────────────────────────────────────────────────
+.post
+  h2
+    font-family: $garamond-heading
+    font-weight: 600
+
+  // Article body text
+  p
+    font-family: $garamond-body
+    font-size: 1.1rem
+    line-height: 1.85
+
+  // Pull quotes feel properly editorial
+  blockquote p
+    font-family: $garamond-heading
+    font-style: italic
+    font-size: 1.25rem !important
+    line-height: 1.6
+
+// ─── Post list titles ───────────────────────────────────────────────────────
+.posts a h2, .posts a h3, .posts a h1
+  font-family: $garamond-heading
+  font-weight: 600
+  letter-spacing: 0.01em
+
+// ─── Accent colour — crimson on links & theme elements ──────────────────────
+a:hover
+  color: var(--theme)
+
+nav a:hover
+  color: var(--theme)

@@ -1,0 +1,24 @@
+baseURL = "https://decadentserpent.com/"
+languageCode = "en-gb"
+title = "Decadent Serpent"
+theme = "serpent"
+paginate = 12
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "The One Place for All Things Culture"
+  donateURL = "https://buymeacoffee.com/decadentserpent"
+  instagramURL = "https://www.instagram.com/decadentserpent"
+  twitterURL = "https://www.x.com/decadentserpent"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 3
