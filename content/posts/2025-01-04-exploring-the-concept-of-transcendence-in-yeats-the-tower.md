@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2025/01/thoorballyleeriver.jpg?w=1024"
+image: "/images/uploads/2025/01/thoorballyleeriver.jpg"
 title: "Exploring the Concept of Transcendence in Yeats' 'The Tower'"
 date: 2025-01-04
 categories: 
@@ -23,7 +23,7 @@ In 1928, the career of William Butler Yeats had reached a pinnacle. The internat
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2025/01/thoorballyleeriver.jpg?w=1024)
+![](/images/uploads/2025/01/thoorballyleeriver.jpg)
 
 <figcaption>
 

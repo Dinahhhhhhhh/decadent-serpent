@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/11/picture-1.png?w=904"
+image: "/images/uploads/2024/11/picture-1.png"
 title: "Alicudi: Witches, Shapeshifters, and Hallucinogenic Bread"
 date: 2024-11-03
 categories: 
@@ -34,7 +34,7 @@ Some residents would firmly deny anything unusual, while others would absolutely
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/picture-1.png?w=904)
+![](/images/uploads/2024/11/picture-1.png)
 
 <figcaption>
 
@@ -60,7 +60,7 @@ Ergotism is the effect of long-term [ergot poisoning](https://en.wikipedia.org/w
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/picture-2.png?w=720)
+![](/images/uploads/2024/11/picture-2.png)
 
 <figcaption>
 
@@ -86,7 +86,7 @@ For example, it is believed that between the 20th and 24th of August, the days d
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/picture-3.jpg?w=904)
+![](/images/uploads/2024/11/picture-3.jpg)
 
 <figcaption>
 

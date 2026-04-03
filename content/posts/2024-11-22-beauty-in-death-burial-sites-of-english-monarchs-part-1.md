@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/11/abbaye_aux_hommes_caen.jpg?w=1024"
+image: "/images/uploads/2024/11/abbaye_aux_hommes_caen.jpg"
 title: "Beauty in Death: Burial Sites of English Monarchs - Part 1"
 date: 2024-11-22
 categories: 
@@ -24,7 +24,7 @@ Throughout the centuries, we have seen numerous monarchs. From William the Conqu
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/abbaye_aux_hommes_caen.jpg?w=1024)
+![](/images/uploads/2024/11/abbaye_aux_hommes_caen.jpg)
 
 <figcaption>
 
@@ -40,7 +40,7 @@ William I (or the Conqueror) died in 1087. The Abbey of Saint-Étienne was found
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/mortuary-chest-on-presbytery-screen.jpeg?w=561)
+![](/images/uploads/2024/11/mortuary-chest-on-presbytery-screen.jpeg)
 
 <figcaption>
 
@@ -56,7 +56,7 @@ William II (or William Rufus) died in 1100. He was buried at Winchester Cathedra
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/reading_abbey_interior.jpg?w=720)
+![](/images/uploads/2024/11/reading_abbey_interior.jpg)
 
 <figcaption>
 
@@ -72,7 +72,7 @@ Henry I died in 1135. He was buried close to the high altar at Reading Abbey. Un
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/queen_matildas_grave_in_the_womens_abbey_at_caen.jpg?w=1024)
+![](/images/uploads/2024/11/queen_matildas_grave_in_the_womens_abbey_at_caen.jpg)
 
 <figcaption>
 
@@ -88,7 +88,7 @@ Matilda, the disputed Queen of England, died in 1167, after unofficially ceding 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/1950_120259528842.jpg?w=583)
+![](/images/uploads/2024/11/1950_120259528842.jpg)
 
 <figcaption>
 
@@ -104,7 +104,7 @@ Stephen died in 1154, a year after he officially named Matilda’s son Henry as 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/tomb-of-henry-ii-of-england-eleanor-of-aquitane-11539.jpg?w=1024)
+![](/images/uploads/2024/11/tomb-of-henry-ii-of-england-eleanor-of-aquitane-11539.jpg)
 
 <figcaption>
 
@@ -120,7 +120,7 @@ Henry II died in 1189. He was buried at Fontevraud Abbey in France due to its lo
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/11553.jpg?w=683)
+![](/images/uploads/2024/11/11553.jpg)
 
 <figcaption>
 
@@ -136,7 +136,7 @@ Henry the Young King, crowned by his father but without power, died in 1183. His
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/tomb-of-richard-i-of-england-fontevraud-abbey-11541.jpg?w=1024)
+![](/images/uploads/2024/11/tomb-of-richard-i-of-england-fontevraud-abbey-11541.jpg)
 
 <figcaption>
 
@@ -152,7 +152,7 @@ Richard I (or the Lionheart) died in 1199, having barely spent any of his life i
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/king_johns_tomb_large.jpg?w=800)
+![](/images/uploads/2024/11/king_johns_tomb_large.jpg)
 
 <figcaption>
 
@@ -168,7 +168,7 @@ John died in 1216. He is buried at Worcester Cathedral in a tomb not quite as in
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/tombofhenryiii.jpg?w=1024)
+![](/images/uploads/2024/11/tombofhenryiii.jpg)
 
 <figcaption>
 
@@ -184,7 +184,7 @@ Henry III died in 1272. His tomb in Westminster Abbey sits high atop a raised pl
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/edward-i-tomb-north-side.jpeg?w=750)
+![](/images/uploads/2024/11/edward-i-tomb-north-side.jpeg)
 
 <figcaption>
 
@@ -200,7 +200,7 @@ Edward I died in 1307. He is buried at Westminster Abbey in a very plain, simple
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/edward-ii-tomb.jpg?w=1024)
+![](/images/uploads/2024/11/edward-ii-tomb.jpg)
 
 <figcaption>
 
@@ -216,7 +216,7 @@ Edward II died in 1327. He is buried in Gloucester Cathedral. His tomb lays upon
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/dsc_0031.a.jpg?w=869)
+![](/images/uploads/2024/11/dsc_0031.a.jpg)
 
 <figcaption>
 
@@ -232,7 +232,7 @@ Edward III died in 1377. He is buried at Westminster Abbey. His tomb is marble a
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/tomb_of_king_richard_ii_of_england.jpg?w=880)
+![](/images/uploads/2024/11/tomb_of_king_richard_ii_of_england.jpg)
 
 <figcaption>
 
@@ -248,7 +248,7 @@ Richard II died in 1400. He was initially buried at a Dominican Friary in Hertfo
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/tomb-of-henry-iv-of-england-joan-of-navarre-11726.jpg?w=1024)
+![](/images/uploads/2024/11/tomb-of-henry-iv-of-england-joan-of-navarre-11726.jpg)
 
 <figcaption>
 
@@ -264,7 +264,7 @@ Henry VI died in 1413. He is buried in Canterbury Cathedral, as he was at pains 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/henry-v-tomb.webp?w=400)
+![](/images/uploads/2024/11/henry-v-tomb.webp)
 
 <figcaption>
 
@@ -280,7 +280,7 @@ Henry V died in 1422. He was buried in Westminster Abbey in a silver tomb with a
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/tomb-st-georges-windsor-henry-vi.jpg?w=640)
+![](/images/uploads/2024/11/tomb-st-georges-windsor-henry-vi.jpg)
 
 <figcaption>
 
@@ -296,7 +296,7 @@ Henry VI died in 1471. He was initially buried in Surrey, but rival Richard III 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/tomb_of_king_edward_iv.jpg?w=774)
+![](/images/uploads/2024/11/tomb_of_king_edward_iv.jpg)
 
 <figcaption>
 
@@ -312,7 +312,7 @@ Edward IV died in 1483 and is buried at St. George’s Chapel, Windsor Castle. A
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/grab_edward_v.jpg?w=534)
+![](/images/uploads/2024/11/grab_edward_v.jpg)
 
 <figcaption>
 
@@ -328,7 +328,7 @@ Edward V is believed to have died around 1483. He and his younger brother Richar
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/fig1richard-iii-procession-19-2000x1376-1.jpg?w=1024)
+![](/images/uploads/2024/11/fig1richard-iii-procession-19-2000x1376-1.jpg)
 
 <figcaption>
 
@@ -344,7 +344,7 @@ Richard III died in 1485. He was initially hurriedly buried in Greyfriars Church
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/henry_vii_and_elizabeth_of_york_tomb_westminster_abbey_1512-18.jpg?w=1021)
+![](/images/uploads/2024/11/henry_vii_and_elizabeth_of_york_tomb_westminster_abbey_1512-18.jpg)
 
 <figcaption>
 
@@ -360,7 +360,7 @@ Henry VII died in 1509. He was buried at Westminster Abbey in a grand chapel he�
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/182498-henryviiislab.png?w=600)
+![](/images/uploads/2024/11/182498-henryviiislab.png)
 
 <figcaption>
 

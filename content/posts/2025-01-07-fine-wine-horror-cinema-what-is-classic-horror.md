@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2025/01/mv5bmtywotu4mdc4nv5bml5banbnxkftztgwotm5njiwmje40._v1_.jpg?w=1024"
+image: "/images/uploads/2025/01/mv5bmtywotu4mdc4nv5bml5banbnxkftztgwotm5njiwmje40._v1_.jpg"
 title: "Fine Wine Horror Cinema: What is Classic Horror?"
 date: 2025-01-07
 categories: 
@@ -30,7 +30,7 @@ This makes me question: What is Classic Horror? My father considers Brian De Pal
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2025/01/mv5bmtywotu4mdc4nv5bml5banbnxkftztgwotm5njiwmje40._v1_.jpg?w=1024)
+![](/images/uploads/2025/01/mv5bmtywotu4mdc4nv5bml5banbnxkftztgwotm5njiwmje40._v1_.jpg)
 
 <figcaption>
 
@@ -62,7 +62,7 @@ Then **1922** the first horror film of its type was made. It was the first vampi
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2025/01/mv5bmjmyndizntqyov5bml5banbnxkftztgwmjgzmjyzmze40._v1_.jpg?w=1000)
+![](/images/uploads/2025/01/mv5bmjmyndizntqyov5bml5banbnxkftztgwmjgzmjyzmze40._v1_.jpg)
 
 <figcaption>
 
@@ -76,7 +76,7 @@ Nosferatu (1922). Source: IMDb
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2025/01/mv5bmja1nzi1nzc5ml5bml5banbnxkftztywnjawmzq3._v1_.jpg?w=393)
+![](/images/uploads/2025/01/mv5bmja1nzi1nzc5ml5bml5banbnxkftztywnjawmzq3._v1_.jpg)
 
 <figcaption>
 
@@ -94,7 +94,7 @@ Horror was starting to spread more and more into the cinematic visions. Sequels 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2025/01/mv5bntq2mtbinzgtnjk1yy00mmy4lwiwyzmtmzjjodcxzmfimdi4xkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2025/01/mv5bntq2mtbinzgtnjk1yy00mmy4lwiwyzmtmzjjodcxzmfimdi4xkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -110,7 +110,7 @@ Horror began to explode into the world of Science Fiction. Aliens, space invader
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2025/01/mv5bndjjn2zizwqtnji4mc00nmu5lwixnjatzgyxyzaymtezyzbkxkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2025/01/mv5bndjjn2zizwqtnji4mc00nmu5lwixnjatzgyxyzaymtezyzbkxkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -128,7 +128,7 @@ However, some films were still just too close to the bone to be shown to the gen
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2025/01/mv5bmjm0otuznduzof5bml5banbnxkftztgwmzy3ndu5mte40._v1_.jpg?w=1024)
+![](/images/uploads/2025/01/mv5bmjm0otuznduzof5bml5banbnxkftztgwmzy3ndu5mte40._v1_.jpg)
 
 <figcaption>
 
@@ -146,7 +146,7 @@ But then on Boxing Day 1973, a horror film was released that changed the face of
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2025/01/mv5bzgnhzdrlzditndgwmy00ywfiltgwytatmwuzngy4odu5otc2xkeyxkfqcgc40._v1_.jpg?w=813)
+![](/images/uploads/2025/01/mv5bzgnhzdrlzditndgwmy00ywfiltgwytatmwuzngy4odu5otc2xkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -160,7 +160,7 @@ This was followed by a great wave of horror films that were now taking bigger an
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2025/01/mv5boddkzji3nwytyzk1nc00yjuyltk0yzutzwvizdkyztqxymzixkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2025/01/mv5boddkzji3nwytyzk1nc00yjuyltk0yzutzwvizdkyztqxymzixkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -180,7 +180,7 @@ This led to the unpopular video nasties movement, causing many horror films to b
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2025/01/mv5bmze0mje1mmqtzjy5yy00ymy3lwizzdqtmmmxyjfjzjgxmtexxkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2025/01/mv5bmze0mje1mmqtzjy5yy00ymy3lwizzdqtmmmxyjfjzjgxmtexxkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -196,7 +196,7 @@ Horror cinema wasn’t at its strongest in this decade. Many films were being ma
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2025/01/mv5bmzq4y2iwytgtm2fhzc00ota2ltkynzmty2ixmtmzmddhmwm4xkeyxkfqcgc40._v1_.jpg?w=720)
+![](/images/uploads/2025/01/mv5bmzq4y2iwytgtm2fhzc00ota2ltkynzmty2ixmtmzmddhmwm4xkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -214,7 +214,7 @@ Now that I've gotten that out of the way, in 2017 Anna Biller had just released 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2025/01/mv5bmmzmoguxnzetyzezzi00mgy5lwi4m2etodbmzmewowu3zgmyxkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2025/01/mv5bmmzmoguxnzetyzezzi00mgy5lwi4m2etodbmzmewowu3zgmyxkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 

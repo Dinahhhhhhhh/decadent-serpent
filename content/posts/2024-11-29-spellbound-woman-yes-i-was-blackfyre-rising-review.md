@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/11/img_0872.jpg?w=705"
+image: "/images/uploads/2024/11/img_0872.jpg"
 title: "‘Spellbound Woman’? Yes, I was – Blackfyre Rising Review"
 date: 2024-11-29
 categories: 
@@ -26,7 +26,7 @@ When Blackfyre Rising joined the stage, it was as if a wild tiger had entered th
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/img_0872.jpg?w=705)
+![](/images/uploads/2024/11/img_0872.jpg)
 
 <figcaption>
 
@@ -48,7 +48,7 @@ Blackfyre Rising was the headliner for the event organised by Scotland Rocks Rad
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/img_0870.jpg?w=1024)
+![](/images/uploads/2024/11/img_0870.jpg)
 
 <figcaption>
 
@@ -64,7 +64,7 @@ Blackfyre Rising formed back in 2018 in Edinburgh, Scotland and they quote their
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/img_0875.jpg?w=683)
+![](/images/uploads/2024/11/img_0875.jpg)
 
 <figcaption>
 
@@ -80,7 +80,7 @@ BR took longer than usual to prepare – they seemed to have a lot of tech issue
 
 <figure>
 
-[![](https://decadentserpent.com/wp-content/uploads/2024/11/img_0874.jpg?w=1024)](https://scotlandrocksradio.com/)
+[![](/images/uploads/2024/11/img_0874.jpg)](https://scotlandrocksradio.com/)
 
 <figcaption>
 

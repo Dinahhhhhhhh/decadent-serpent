@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/09/picture-1-1.jpg?w=904"
+image: "/images/uploads/2024/09/picture-1-1.jpg"
 title: "The Eerie Stories from the World Folklore - Part 1 - Lucida Mansi"
 date: 2024-09-29
 categories: 
@@ -29,7 +29,7 @@ A rich and beautiful noblewoman, both her life and death are shrouded in mystery
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/09/picture-1-1.jpg?w=904)
+![](/images/uploads/2024/09/picture-1-1.jpg)
 
 <figcaption>
 
@@ -65,7 +65,7 @@ The wedded life with Gaspare wasn’t happy for the couple: Lucida certainly lov
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/09/picture-2.jpg?w=294)
+![](/images/uploads/2024/09/picture-2.jpg)
 
 <figcaption>
 
@@ -85,7 +85,7 @@ Years passed when Lucida’s worst nightmare started becoming reality: the small
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/09/picture-3.jpg?w=904)
+![](/images/uploads/2024/09/picture-3.jpg)
 
 <figcaption>
 
@@ -109,7 +109,7 @@ Lucida kept on living the best life possible for the next 30 years, continuing t
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/09/lucca_torre_delle_ore.jpeg?w=1024)
+![](/images/uploads/2024/09/lucca_torre_delle_ore.jpeg)
 
 <figcaption>
 
@@ -125,7 +125,7 @@ Another version of the story is that at the end of the 30 years, Lucida didn’t
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/09/picture-4.jpg?w=378)
+![](/images/uploads/2024/09/picture-4.jpg)
 
 <figcaption>
 

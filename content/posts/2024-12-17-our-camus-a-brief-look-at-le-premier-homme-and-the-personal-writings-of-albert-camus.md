@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/12/camus.jpg?w=600"
+image: "/images/uploads/2024/12/camus.jpg"
 title: "Bridging the Personal and Philosophical: An Intimate Portrait of Albert Camus"
 date: 2024-12-17
 categories: 
@@ -21,7 +21,7 @@ In her introductory note to Camus’ _Le Premier homme_ (‘The First Man’) Ca
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/camus.jpg?w=600)
+![](/images/uploads/2024/12/camus.jpg)
 
 <figcaption>
 
@@ -37,7 +37,7 @@ Given his popularity, Camus’ legacy becomes a particularly hard one to define.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/camus-2.png?w=904)
+![](/images/uploads/2024/12/camus-2.png)
 
 <figcaption>
 
@@ -55,7 +55,7 @@ In discussing the personal aspect of Camus' writings, none of his major works of
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/camus-3.jpg?w=748)
+![](/images/uploads/2024/12/camus-3.jpg)
 
 <figcaption>
 
@@ -69,7 +69,7 @@ _Le Premier homme_ is essential reading for anyone of interest in Camus, not onl
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/camus-4-1.jpg?w=700)
+![](/images/uploads/2024/12/camus-4-1.jpg)
 
 <figcaption>
 

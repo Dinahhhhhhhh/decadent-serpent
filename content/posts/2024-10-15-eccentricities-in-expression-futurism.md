@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/10/gino_severini_1912_dynamic_hieroglyphic_of_the_bal_tabarin_oil_on_canvas_with_sequins_161.6_x_156.2_cm_63.6_x_61.5_in._museum_of_modern_art_new_york.jpg?w=998"
+image: "/images/uploads/2024/10/gino_severini_1912_dynamic_hieroglyphic_of_the_bal_tabarin_oil_on_canvas_with_sequins_161.6_x_156.2_cm_63.6_x_61.5_in._museum_of_modern_art_new_york.jpg"
 title: "Eccentricities in Expression: Futurism"
 date: 2024-10-15
 categories: 
@@ -35,7 +35,7 @@ Founded by F.T. Marinetti, it proved to offer interesting ideas that excited a m
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/gino_severini_1912_dynamic_hieroglyphic_of_the_bal_tabarin_oil_on_canvas_with_sequins_161.6_x_156.2_cm_63.6_x_61.5_in._museum_of_modern_art_new_york.jpg?w=998)
+![](/images/uploads/2024/10/gino_severini_1912_dynamic_hieroglyphic_of_the_bal_tabarin_oil_on_canvas_with_sequins_161.6_x_156.2_cm_63.6_x_61.5_in._museum_of_modern_art_new_york.jpg)
 
 <figcaption>
 
@@ -63,7 +63,7 @@ Safe to say – there was a lot of chaos in futurist literature!
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/umberto_boccioni_1913_dynamism_of_a_cyclist_dinamismo_di_un_ciclista_oil_on_canvas_70_x_95_cm_gianni_mattioli_collection_on_long-term_loan_to_the_peggy_guggenheim_collection_venice.jpg?w=1024)
+![](/images/uploads/2024/10/umberto_boccioni_1913_dynamism_of_a_cyclist_dinamismo_di_un_ciclista_oil_on_canvas_70_x_95_cm_gianni_mattioli_collection_on_long-term_loan_to_the_peggy_guggenheim_collection_venice.jpg)
 
 <figcaption>
 
@@ -81,7 +81,7 @@ The art was focused on speed, dynamic imagery, and technology. It focused on bea
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/luigi-russolo-luigi-russolo-ugo-piatti-and-the-intonarumori-1913-trivium-art-history.jpg?w=1024)
+![](/images/uploads/2024/10/luigi-russolo-luigi-russolo-ugo-piatti-and-the-intonarumori-1913-trivium-art-history.jpg)
 
 <figcaption>
 
@@ -101,7 +101,7 @@ I still maintain that Marinetti would have loved Death Grips.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/giacomo-balla-futurist-suit.jpeg?w=626)
+![](/images/uploads/2024/10/giacomo-balla-futurist-suit.jpeg)
 
 <figcaption>
 
@@ -125,7 +125,7 @@ One of my favourite elements that came out of Futurist fashion, however, was the
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/in-italy-futuristic-noodle-revolution-basta-with-the-pasta-1.jpg?w=640)
+![](/images/uploads/2024/10/in-italy-futuristic-noodle-revolution-basta-with-the-pasta-1.jpg)
 
 <figcaption>
 
@@ -147,7 +147,7 @@ The futurist cookbook offers the most eclectic collection of sensory experiences
 
 ## **INTERNATIONAL FUTURISM**
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/hqdefault.jpg?w=480)
+![](/images/uploads/2024/10/hqdefault.jpg)
 
 Interestingly, futurism has reached many surprising places, such as Japan and Poland. Polish futurism, however, was influenced by Russian Futurism which was often communist in nature, rather than Marinetti’s flirtation with fascism. Russian futurism was perhaps one of the biggest offshoots of Italian futurism. This impacted the style and content of the works that permeated Polish futurism. As at the time, Poland was not as developed and struggled – the calls for technological progress were met positively. It also inspired formism, which focused on geometrical figures and high contrast. It even reached South America in Chile and Brazil.
 

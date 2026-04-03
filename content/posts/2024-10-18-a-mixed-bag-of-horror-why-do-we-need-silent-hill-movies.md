@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/10/silent-hill-origins-600x338-1.png?w=600"
+image: "/images/uploads/2024/10/silent-hill-origins-600x338-1.png"
 title: "A Mixed Bag of Horror: Why Do We Need Silent Hill Movies"
 date: 2024-10-18
 categories: 
@@ -24,7 +24,7 @@ With Silent Hill 2 Remaster’s release and October being in full swing, it seem
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/silent-hill-origins-600x338-1.png?w=600)
+![](/images/uploads/2024/10/silent-hill-origins-600x338-1.png)
 
 <figcaption>
 
@@ -44,7 +44,7 @@ There is still one redeeming factor of the first movie that I have only briefly 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/silenthill_5.webp?w=620)
+![](/images/uploads/2024/10/silenthill_5.webp)
 
 <figcaption>
 
@@ -60,7 +60,7 @@ Exposition: Sharon was rescued by Rose, who stayed in Silent Hill instead. Reuni
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/silent_hill_revelation_3d_studio_photo_06.webp?w=600)
+![](/images/uploads/2024/10/silent_hill_revelation_3d_studio_photo_06.webp)
 
 <figcaption>
 

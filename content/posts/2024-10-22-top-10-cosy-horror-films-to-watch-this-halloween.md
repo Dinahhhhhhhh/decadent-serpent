@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/10/changeling-2.jpeg?w=1024"
+image: "/images/uploads/2024/10/changeling-2.jpeg"
 title: "Top 10 Cosy Horror Films to Watch This Halloween"
 date: 2024-10-22
 categories: 
@@ -24,7 +24,7 @@ I figured I would gracefully stop storing my favourite cosy films in my head and
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/changeling-2.jpeg?w=1024)
+![](/images/uploads/2024/10/changeling-2.jpeg)
 
 <figcaption>
 
@@ -40,7 +40,7 @@ It was a cold night when I met my best friend for a film night. He's been puttin
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/theothers.jpg?w=1000)
+![](/images/uploads/2024/10/theothers.jpg)
 
 <figcaption>
 
@@ -56,7 +56,7 @@ This was the first horror film I have ever seen and I burned my popcorn while wa
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/johnny-depp-sleepy-hollow.avif?w=1024)
+![](/images/uploads/2024/10/johnny-depp-sleepy-hollow.avif)
 
 <figcaption>
 
@@ -72,7 +72,7 @@ Can this list ever be complete without Sleepy Hollow? We all love it and if you 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/crimson-peak-trailer.webp?w=660)
+![](/images/uploads/2024/10/crimson-peak-trailer.webp)
 
 <figcaption>
 
@@ -88,7 +88,7 @@ It's actually been years since I've seen this one but it's a gorgeous film. Ever
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/vlcsnap-2015-01-04-22h37m51s36.png?w=853)
+![](/images/uploads/2024/10/vlcsnap-2015-01-04-22h37m51s36.png)
 
 <figcaption>
 
@@ -104,7 +104,7 @@ I remember speaking to my friend at some point and she mentioned The Ninth Gate 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/womaninblack.jpg?w=1024)
+![](/images/uploads/2024/10/womaninblack.jpg)
 
 <figcaption>
 
@@ -120,7 +120,7 @@ A vengeful ghost, terrorised locals, everything you want from a cosy Halloween f
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/image-w1280.jpg?w=1024)
+![](/images/uploads/2024/10/image-w1280.jpg)
 
 <figcaption>
 
@@ -136,7 +136,7 @@ This one is a no-brainer. It's a beautiful, beautiful film with gorgeous colours
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/image-asset.png?w=1024)
+![](/images/uploads/2024/10/image-asset.png)
 
 <figcaption>
 
@@ -152,7 +152,7 @@ I don't know how I feel about this recommendation - I haven't actually seen this
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/1_kulwvddg4bypzocw9o7enw.jpg?w=1024)
+![](/images/uploads/2024/10/1_kulwvddg4bypzocw9o7enw.jpg)
 
 <figcaption>
 
@@ -168,7 +168,7 @@ Give me a cosier viewing than villagers singing folk songs while a man is burnin
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/6a0168ea36d6b2970c0240a4a39241200b-800wi.jpg?w=700)
+![](/images/uploads/2024/10/6a0168ea36d6b2970c0240a4a39241200b-800wi.jpg)
 
 <figcaption>
 

@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/10/robert-aickman.jpg?w=620"
+image: "/images/uploads/2024/10/robert-aickman.jpg"
 title: "Robert Aickman and the Technological Uncanny"
 date: 2024-10-13
 categories: 
@@ -28,7 +28,7 @@ Robert Aickman, a brilliant English writer of “strange stories” (his own des
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/robert-aickman.jpg?w=620)
+![](/images/uploads/2024/10/robert-aickman.jpg)
 
 <figcaption>
 
@@ -91,7 +91,7 @@ The rest of the I.W.A.’s story need not detain us too long. Suffice to say, Ai
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/picture-1.png?w=774)
+![](/images/uploads/2024/10/picture-1.png)
 
 <figcaption>
 

@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/12/marcel_duchamp_1917_fountain_photograph_by_alfred_stieglitz.jpg?w=784"
+image: "/images/uploads/2024/12/marcel_duchamp_1917_fountain_photograph_by_alfred_stieglitz.jpg"
 title: "Perennial Artistry: Fantasy Art is Superior to Contemporary Art"
 date: 2024-12-01
 categories: 
@@ -24,7 +24,7 @@ Concisely, the power of art lies within its effect upon us. When we encounter a 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/marcel_duchamp_1917_fountain_photograph_by_alfred_stieglitz.jpg?w=784)
+![](/images/uploads/2024/12/marcel_duchamp_1917_fountain_photograph_by_alfred_stieglitz.jpg)
 
 <figcaption>
 
@@ -40,7 +40,7 @@ As someone who has grown up around this guff, I would question the value of this
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/qmg1932qbpo71-1.jpeg?w=812)
+![](/images/uploads/2024/12/qmg1932qbpo71-1.jpeg)
 
 <figcaption>
 

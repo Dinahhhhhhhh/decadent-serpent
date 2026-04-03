@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/11/screenshot-2024-11-08-at-18.33.50.png?w=1024"
+image: "/images/uploads/2024/11/screenshot-2024-11-08-at-18.33.50.png"
 title: "'The Dark Knight Returns' Interrogates Us All"
 date: 2024-11-09
 categories: 
@@ -30,7 +30,7 @@ The same pattern is seen with the Joker. Since the disappearance of the Batman, 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/screenshot-2024-11-08-at-18.33.50.png?w=1024)
+![](/images/uploads/2024/11/screenshot-2024-11-08-at-18.33.50.png)
 
 <figcaption>
 
@@ -48,7 +48,7 @@ Despite top-of-the-range psychiatric treatment paid for by Bruce Wayne, Harvey D
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/screenshot-2024-11-08-at-18.39.52.png?w=1024)
+![](/images/uploads/2024/11/screenshot-2024-11-08-at-18.39.52.png)
 
 <figcaption>
 

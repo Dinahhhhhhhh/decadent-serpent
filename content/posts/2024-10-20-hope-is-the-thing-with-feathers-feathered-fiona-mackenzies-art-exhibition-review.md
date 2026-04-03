@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/10/img_7237-3.jpg?w=768"
+image: "/images/uploads/2024/10/img_7237-3.jpg"
 title: "'Hope is the thing with feathers' - 'Feathered Souls’ Fiona MacKenzie's Art Exhibition Review"
 date: 2024-10-20
 categories: 
@@ -27,7 +27,7 @@ We can see this in one of the central pieces in the gallery, which was the black
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/img_7237-3.jpg?w=768)
+![](/images/uploads/2024/10/img_7237-3.jpg)
 
 <figcaption>
 
@@ -43,7 +43,7 @@ But there was also a large collection of wood engravings and etchings. They are 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/img_7249-3-1701857056-e1729424083458.jpg?w=796)
+![](/images/uploads/2024/10/img_7249-3-1701857056-e1729424083458.jpg)
 
 <figcaption>
 
@@ -59,7 +59,7 @@ As per the interview with Fiona which will be released next week, she often sees
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/img_7235-3.jpg?w=768)
+![](/images/uploads/2024/10/img_7235-3.jpg)
 
 <figcaption>
 

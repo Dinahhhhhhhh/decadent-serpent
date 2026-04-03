@@ -43,7 +43,7 @@ All these depictions hold versions where they are represented as old, white hair
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2025/01/image.png?w=748)
+![](/images/uploads/2025/01/image.png)
 
 <figcaption>
 

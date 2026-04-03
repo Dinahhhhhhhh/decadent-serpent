@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/09/dallc2b7e-2024-09-29-09.28.56-a-classical-realism-style-landscape-of-a-ship-battling-a-stormy-sea.-the-scene-features-dark-towering-waves-crashing-violently-against-the-ship-whic.webp?w=1024"
+image: "/images/uploads/2024/09/dallc2b7e-2024-09-29-09.28.56-a-classical-realism-style-landscape-of-a-ship-battling-a-stormy-sea.-the-scene-features-dark-towering-waves-crashing-violently-against-the-ship-whic.webp"
 title: "The Future of Art: Balancing Tradition and Innovation"
 date: 2024-09-29
 categories: 
@@ -27,7 +27,7 @@ One possible solution offered to us is the potential of AI art. The power of tec
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/09/dallc2b7e-2024-09-29-09.28.56-a-classical-realism-style-landscape-of-a-ship-battling-a-stormy-sea.-the-scene-features-dark-towering-waves-crashing-violently-against-the-ship-whic.webp?w=1024)
+![](/images/uploads/2024/09/dallc2b7e-2024-09-29-09.28.56-a-classical-realism-style-landscape-of-a-ship-battling-a-stormy-sea.-the-scene-features-dark-towering-waves-crashing-violently-against-the-ship-whic.webp)
 
 <figcaption>
 
@@ -53,10 +53,10 @@ The only way forward must be the way of design. Design is the conscious and skil
 
 It is imperative therefore that we allow artists to play with the principles of design, with the proviso that these principles are grounded in standards of quality learnt from past cultures and civilization. AI art sacrifices this to the algorithm, Classical Realism imprisons it into the cage of 19th-century academicism. Thankfully there are artists working with a freedom appropriate for our age but are grounding their work in tradition. The work of Matthew Fall Mckenzie and Fen de Villiers exemplify this way of working in painting and sculpture respectively, as well as the designer Ferro in textiles. The efforts of the humble author of this article try to exemplify this as well as he is able. There are many outside the plastic arts too that take a similar stance but in the world of verse, such as Columba and Panama Hat.
 
-![](https://decadentserpent.com/wp-content/uploads/2024/09/momentum-small-600x600-1.jpg)
-![](https://decadentserpent.com/wp-content/uploads/2024/09/wa9tfg7_.jpeg)
+![](/images/uploads/2024/09/momentum-small-600x600-1.jpg)
+![](/images/uploads/2024/09/wa9tfg7_.jpeg)
 
-![](https://decadentserpent.com/wp-content/uploads/2024/09/vncszagr.jpeg)
+![](/images/uploads/2024/09/vncszagr.jpeg)
 
 _Top left: Fen de Villiers, Momentum, bottom left: Matthew Fall McKenzie, Momentum (Homage to Russolo) I, right: Samuel Wild_, _Prometheus_
 

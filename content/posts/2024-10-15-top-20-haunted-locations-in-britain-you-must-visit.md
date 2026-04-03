@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/10/pendle_hill_and_the_ribble_valley_-_geograph.org_.uk_-_72304.jpg?w=640"
+image: "/images/uploads/2024/10/pendle_hill_and_the_ribble_valley_-_geograph.org_.uk_-_72304.jpg"
 title: "Top 20 Haunted Locations in Britain You Must Visit"
 date: 2024-10-15
 categories: 
@@ -28,7 +28,7 @@ Britain is home to a wealth of allegedly haunted locations, ranging from castles
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/pendle_hill_and_the_ribble_valley_-_geograph.org_.uk_-_72304.jpg?w=640)
+![](/images/uploads/2024/10/pendle_hill_and_the_ribble_valley_-_geograph.org_.uk_-_72304.jpg)
 
 <figcaption>
 
@@ -50,7 +50,7 @@ Visitors are welcome to explore the area.
 
 <figure>
 
-![By Andrew Mathewson, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=11793668](https://decadentserpent.com/wp-content/uploads/2024/10/samlesbury_-_geograph.org_.uk_-_1758296.jpg?w=1024)
+![By Andrew Mathewson, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=11793668](/images/uploads/2024/10/samlesbury_-_geograph.org_.uk_-_1758296.jpg)
 
 <figcaption>
 
@@ -70,7 +70,7 @@ The hall is open every day apart from Saturdays.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/ram_inn_potters_pond_wotton_under_edge_-_geograph.org_.uk_-_775516.jpg?w=640)
+![](/images/uploads/2024/10/ram_inn_potters_pond_wotton_under_edge_-_geograph.org_.uk_-_775516.jpg)
 
 <figcaption>
 
@@ -112,7 +112,7 @@ The long-time owner, John Humphries, experienced paranormal activity, including 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/tower_of_london_from_the_shard_8515883950.jpg?w=1024)
+![](/images/uploads/2024/10/tower_of_london_from_the_shard_8515883950.jpg)
 
 <figcaption>
 
@@ -162,7 +162,7 @@ The Tower of London is a popular tourist attraction.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/great_gate_hampton_court_palace.jpg?w=1024)
+![](/images/uploads/2024/10/great_gate_hampton_court_palace.jpg)
 
 <figcaption>
 
@@ -186,7 +186,7 @@ Hampton Court Palace is open to the public.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/borleyrectory1892.jpg?w=447)
+![](/images/uploads/2024/10/borleyrectory1892.jpg)
 
 <figcaption>
 
@@ -210,7 +210,7 @@ You can visit the churchyard.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/st_nicholas_pluckley_1.jpg?w=1024)
+![](/images/uploads/2024/10/st_nicholas_pluckley_1.jpg)
 
 <figcaption>
 
@@ -246,7 +246,7 @@ Pluckley is open to visitors who have lots of courage.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/chillingham_castle_north_front.jpg?w=1024)
+![](/images/uploads/2024/10/chillingham_castle_north_front.jpg)
 
 <figcaption>
 
@@ -268,7 +268,7 @@ You can visit the castle and stay over.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/whitby_abbey_geograph_7249897.jpg?w=1024)
+![](/images/uploads/2024/10/whitby_abbey_geograph_7249897.jpg)
 
 <figcaption>
 
@@ -290,7 +290,7 @@ You can visit Whitby Abbey.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/jamaica_inn_-_geograph.org_.uk_-_308879.jpg?w=1024)
+![](/images/uploads/2024/10/jamaica_inn_-_geograph.org_.uk_-_308879.jpg)
 
 <figcaption>
 
@@ -312,7 +312,7 @@ One can visit the Jamaica Inn.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/berry_pomeroy_castle_-_geograph.org_.uk_-_411651.jpg?w=656)
+![](/images/uploads/2024/10/berry_pomeroy_castle_-_geograph.org_.uk_-_411651.jpg)
 
 <figcaption>
 
@@ -334,7 +334,7 @@ The castle is open for exploration.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/blickling_hall_-_south-west_facade.jpg?w=1024)
+![](/images/uploads/2024/10/blickling_hall_-_south-west_facade.jpg)
 
 <figcaption>
 
@@ -356,7 +356,7 @@ You can visit the house.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/corfe_castle_dorset.jpg?w=1024)
+![](/images/uploads/2024/10/corfe_castle_dorset.jpg)
 
 <figcaption>
 
@@ -376,7 +376,7 @@ Ghosts include a terrifying but harmless headless White Lady.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/cardiff-castle-1536x970-1.jpg?w=1024)
+![](/images/uploads/2024/10/cardiff-castle-1536x970-1.jpg)
 
 <figcaption>
 
@@ -410,7 +410,7 @@ You can visit Cardiff Castle.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/boleskine_house.png?w=1024)
+![](/images/uploads/2024/10/boleskine_house.png)
 
 <figcaption>
 
@@ -432,7 +432,7 @@ The home is closed to visitors.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/glamis_castle_01.jpg?w=1024)
+![](/images/uploads/2024/10/glamis_castle_01.jpg)
 
 <figcaption>
 
@@ -454,7 +454,7 @@ The castle is open to the public.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/stirling_castle_john_slezer.jpg?w=1024)
+![](/images/uploads/2024/10/stirling_castle_john_slezer.jpg)
 
 <figcaption>
 
@@ -476,7 +476,7 @@ You can visit the castle.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/glencoevillage.jpg?w=1024)
+![](/images/uploads/2024/10/glencoevillage.jpg)
 
 <figcaption>
 
@@ -498,7 +498,7 @@ One can visit the area.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/marykingsclose006.jpg?w=282)
+![](/images/uploads/2024/10/marykingsclose006.jpg)
 
 <figcaption>
 
@@ -520,7 +520,7 @@ It’s easy to visit.
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/img_3746_original-2.jpg?w=768)
+![](/images/uploads/2024/10/img_3746_original-2.jpg)
 
 <figcaption>
 

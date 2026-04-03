@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/11/the-road-1536x812-1.jpg?w=1024"
+image: "/images/uploads/2024/11/the-road-1536x812-1.jpg"
 title: "Exploring The Frontier Myth in 'The Walking Dead'"
 date: 2024-11-21
 categories: 
@@ -27,7 +27,7 @@ However, the world of _The Walking Dead_ is not one of despair. This is clearly 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/the-road-1536x812-1.jpg?w=1024)
+![](/images/uploads/2024/11/the-road-1536x812-1.jpg)
 
 <figcaption>
 
@@ -43,7 +43,7 @@ The positive vision that permeates the narrative of _The Walking Dead_ draws upo
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/embarkation_of_the_pilgrims.jpg?w=1024)
+![](/images/uploads/2024/11/embarkation_of_the_pilgrims.jpg)
 
 <figcaption>
 
@@ -59,7 +59,7 @@ The Frontier Myth channels the desire for discovery. This is what Oswald Spengle
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/caspar_david_friedrich_-_wanderer_above_the_sea_of_fog.jpeg?w=798)
+![](/images/uploads/2024/11/caspar_david_friedrich_-_wanderer_above_the_sea_of_fog.jpeg)
 
 <figcaption>
 
@@ -83,7 +83,7 @@ Punctuating these landscapes of danger are places of respite. The player can go 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/zmk3lcot6qa81.jpeg?w=1024)
+![](/images/uploads/2024/11/zmk3lcot6qa81.jpeg)
 
 <figcaption>
 
@@ -103,7 +103,7 @@ By contrast, Rick’s group illustrates what it would be like to live in a place
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/ezgif-5-8f8f97775d.jpeg?w=1024)
+![](/images/uploads/2024/11/ezgif-5-8f8f97775d.jpeg)
 
 <figcaption>
 
@@ -119,7 +119,7 @@ Turner goes on to argue that the individualism of the Frontier heroes was the fo
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/the_bermuda_group_dean_berkeley_and_his_entourage_by_john_smibert.jpeg.jpeg?w=1024)
+![](/images/uploads/2024/11/the_bermuda_group_dean_berkeley_and_his_entourage_by_john_smibert.jpeg.jpeg)
 
 <figcaption>
 

@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/12/screenshot-2024-12-19-at-11.02.57.png?w=1024"
+image: "/images/uploads/2024/12/screenshot-2024-12-19-at-11.02.57.png"
 title: "Classics From Conflict – Diamonds Under Pressure: Exploring the works of The Beatles, Pink Floyd, and Bob Dylan"
 date: 2024-12-19
 tags: 
@@ -26,7 +26,7 @@ John Lennon described The Beatles to be “bigger than Jesus Christ” upon thei
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/screenshot-2024-12-19-at-11.02.57.png?w=1024)
+![](/images/uploads/2024/12/screenshot-2024-12-19-at-11.02.57.png)
 
 <figcaption>
 
@@ -46,7 +46,7 @@ So, we’ve established that the fuel for this exceptional run of projects was h
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/rock_concert._from_the_sites_exhibition._for_other_images_in_this_assignment_see_fiche_numbers_42_97._-_nara_-_553890.jpg?w=1024)
+![](/images/uploads/2024/12/rock_concert._from_the_sites_exhibition._for_other_images_in_this_assignment_see_fiche_numbers_42_97._-_nara_-_553890.jpg)
 
 <figcaption>
 
@@ -66,7 +66,7 @@ When writing this article, I had the aim of discussing three separate examples t
 
 <figure>
 
-[![](https://decadentserpent.com/wp-content/uploads/2024/12/bob_dylan_1978.jpg?w=683)](<https://www.flickr.com/photos/chris_hakkens/5109375515/in/photostream/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=15831775>)
+[![](/images/uploads/2024/12/bob_dylan_1978.jpg)](<https://www.flickr.com/photos/chris_hakkens/5109375515/in/photostream/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=15831775>)
 
 <figcaption>
 

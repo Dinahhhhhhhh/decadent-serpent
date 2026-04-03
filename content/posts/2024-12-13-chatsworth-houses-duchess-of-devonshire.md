@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/12/thomas_gainsborough_lady_georgiana_cavendish.jpg?w=653"
+image: "/images/uploads/2024/12/thomas_gainsborough_lady_georgiana_cavendish.jpg"
 title: "Chatsworth House’s Duchesses of Devonshire"
 date: 2024-12-13
 categories: 
@@ -33,7 +33,7 @@ Georgiana Cavendish, wife of the 5th Duke of Devonshire, enjoys some famous desc
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/thomas_gainsborough_lady_georgiana_cavendish.jpg?w=653)
+![](/images/uploads/2024/12/thomas_gainsborough_lady_georgiana_cavendish.jpg)
 
 <figcaption>
 
@@ -77,7 +77,7 @@ Elizabeth Cavendish’s children may have never become Dukes, but she had her ow
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/bess_foster.jpg?w=589)
+![](/images/uploads/2024/12/bess_foster.jpg)
 
 <figcaption>
 
@@ -117,7 +117,7 @@ Luise, Countess Von Alten was born on the 15th of June 1832 in what was then the
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/louise_montagu_duchess_of_manchester_1832-1911_later_duchess_of_devonshire.jpg?w=765)
+![](/images/uploads/2024/12/louise_montagu_duchess_of_manchester_1832-1911_later_duchess_of_devonshire.jpg)
 
 <figcaption>
 
@@ -153,7 +153,7 @@ Evelyn Cavendish was Duchess of Devonshire for thirty years, during which she ov
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/duchess_of_devonshire_lccn2014685742.jpg?w=668)
+![](/images/uploads/2024/12/duchess_of_devonshire_lccn2014685742.jpg)
 
 <figcaption>
 
@@ -195,7 +195,7 @@ Mary Cavendish was the matriarch of perhaps the most famous generation of the fa
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mary_cavendish_duchess_of_devonshire.jpg?w=155)
+![](/images/uploads/2024/12/mary_cavendish_duchess_of_devonshire.jpg)
 
 <figcaption>
 
@@ -255,7 +255,7 @@ The Kennedy upbringing was very strict. At the dinner table, the children were e
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/lady_hartington.jpg?w=423)
+![](/images/uploads/2024/12/lady_hartington.jpg)
 
 <figcaption>
 
@@ -279,13 +279,13 @@ On the 13th May 1948, the Earl and Dowager Marchioness headed to Paris to meet J
 
 The Dowager was buried near Chatsworth at St. Peter’s Churchyard, the burial ground of many Cavendishes. John F. Kennedy visited in June 1963. A plaque marks his visit. I’ve added some photos from my visit in June:
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/picture-5.jpg)
+![](/images/uploads/2024/12/picture-5.jpg)
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/picture-4.jpg)
+![](/images/uploads/2024/12/picture-4.jpg)
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/picture-3-1.jpg)
+![](/images/uploads/2024/12/picture-3-1.jpg)
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/picture-2-1.jpg)
+![](/images/uploads/2024/12/picture-2-1.jpg)
 
 ## Deborah Cavendish, Duchess of Devonshire- born The Honourable Deborah Freeman-Mitford
 
@@ -313,7 +313,7 @@ I highly recommend ‘The Mitford Girls: The Biography of an Extraordinary Famil
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/duchess_deborah_1952_1.jpg?w=1024)
+![](/images/uploads/2024/12/duchess_deborah_1952_1.jpg)
 
 <figcaption>
 

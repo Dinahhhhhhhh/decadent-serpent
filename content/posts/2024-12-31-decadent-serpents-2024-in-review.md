@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/12/img_5401.jpeg?w=804"
+image: "/images/uploads/2024/12/img_5401.jpeg"
 title: "Decadent Serpent's 2024 in Review"
 date: 2024-12-31
 tags: 
@@ -26,7 +26,7 @@ This exhibition was an enormous opportunity to view the excellent work of artist
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/img_5401.jpeg?w=804)
+![](/images/uploads/2024/12/img_5401.jpeg)
 
 <figcaption>
 
@@ -36,13 +36,13 @@ Crag, Barbara Peffers
 
 </figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/img_5388.jpg?w=768)
+![](/images/uploads/2024/12/img_5388.jpg)
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/img_5411-1.jpg?w=768)
+![](/images/uploads/2024/12/img_5411-1.jpg)
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/img_1752.jpg?w=1024)
+![](/images/uploads/2024/12/img_1752.jpg)
 
 <figcaption>
 
@@ -58,27 +58,27 @@ Fiona Mackenzie, The Ravens Bringing the Storm
 
 We reviewed the exhibition [here](https://decadentserpent.com/2024/10/20/hope-is-the-thing-with-feathers-feathered-fiona-mackenzies-art-exhibition-review/) and we had a fantastic time looking at the various ways of presenting birds - through drawings, paintings, as well as wood engravings. A lot of the birds are still available for sale and if you would like to enquire, you can email **art.gairloch@googlemail.com**.
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/img_7237-3.jpg?w=768)
+![](/images/uploads/2024/10/img_7237-3.jpg)
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/img_7235-3.jpg?w=768)
+![](/images/uploads/2024/10/img_7235-3.jpg)
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/img_7249-3-1701857056-e1729424083458.jpg?w=796)
+![](/images/uploads/2024/10/img_7249-3-1701857056-e1729424083458.jpg)
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/screenshot-2024-10-20-at-12.28.23.png?w=1024)
+![](/images/uploads/2024/10/screenshot-2024-10-20-at-12.28.23.png)
 
 ### Daniel Soares - December 2024
 
 Seeing Daniel's work was absolutely striking and I am entering the new year with one of his works soon hanging in my living room. Daniel's art is truly showcasing a skill and commitment to the respect of the form and Old Masters which makes his art come alive with quality.
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/img_1185.jpg?w=1024)
+![](/images/uploads/2024/12/img_1185.jpg)
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/img_1198.jpg?w=1024)
+![](/images/uploads/2024/12/img_1198.jpg)
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/img_1186.jpg?w=1024)
+![](/images/uploads/2024/12/img_1186.jpg)
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/img_1206.jpg?w=768)
+![](/images/uploads/2024/12/img_1206.jpg)
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/img_1193.jpg?w=1024)
+![](/images/uploads/2024/12/img_1193.jpg)
 
 ## FILM
 
@@ -86,7 +86,7 @@ Seeing Daniel's work was absolutely striking and I am entering the new year with
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/thesubstance2024.png?w=723)
+![](/images/uploads/2024/10/thesubstance2024.png)
 
 <figcaption>
 
@@ -102,7 +102,7 @@ Most certainly one of the top films of 2024, which we reviewed [here](https://de
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mv5bnjq0njqxymetnwjizc00yjfklwiwnwmtyjlimgy0zjrjmgqxxkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2024/12/mv5bnjq0njqxymetnwjizc00yjfklwiwnwmtyjlimgy0zjrjmgqxxkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -128,7 +128,7 @@ We reviewed the concert [here](https://decadentserpent.com/2024/11/29/spellbound
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/img_0876-1.jpg?w=723)
+![](/images/uploads/2024/11/img_0876-1.jpg)
 
 <figcaption>
 
@@ -148,7 +148,7 @@ Our Chief Ideas & Culture Columnist, Giulia Prodiguerra (known for her whole fol
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/barns-courtney-the-struts-whs-1-medium.jpg?w=844)
+![](/images/uploads/2024/12/barns-courtney-the-struts-whs-1-medium.jpg)
 
 <figcaption>
 
@@ -162,7 +162,7 @@ Our Chief Ideas & Culture Columnist, Giulia Prodiguerra (known for her whole fol
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mv5boddkzwu5nzetnjqyys00zdgyltg1nmytnmqzy2u4y2nkyty2xkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2024/12/mv5boddkzwu5nzetnjqyys00zdgyltg1nmytnmqzy2u4y2nkyty2xkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -176,7 +176,7 @@ Source: IMDb
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mv5bztjmmdu2ytctmwy3nc00yzblltkxnjmtmdq0mgy3zgy4otm5xkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2024/12/mv5bztjmmdu2ytctmwy3nc00yzblltkxnjmtmdq0mgy3zgy4otm5xkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -190,7 +190,7 @@ Source: IMDb
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mv5bzdflotnjmtitnzfkzi00m2uxltlkndgtzdixyzyyy2eyngexxkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2024/12/mv5bzdflotnjmtitnzfkzi00m2uxltlkndgtzdixyzyyy2eyngexxkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -202,7 +202,7 @@ Source: IMDb
 
 ### LITERATURE/GRAPHIC NOVELS: The Road (Graphic Novel)
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/711wyzepjel._ac_uf8941000_ql80_.jpg?w=793)
+![](/images/uploads/2024/12/711wyzepjel._ac_uf8941000_ql80_.jpg)
 
 ### Chief Literature Columnist - Eva McFarlane
 
@@ -212,7 +212,7 @@ Eva is known for absolute creative writing gems this year, such as Crimson Reign
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mv5by2q1zmyznmytyte2nc00yzezlwjhyjqtmjc4mwzjmju2ztnhxkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2024/12/mv5by2q1zmyznmytyte2nc00yzezlwjhyjqtmjc4mwzjmju2ztnhxkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -224,7 +224,7 @@ Source: IMDb
 
 ### Literature: The Specimens by Mairi Kidd
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/61cr7tcqsll._sl1250_.jpg?w=669)
+![](/images/uploads/2024/12/61cr7tcqsll._sl1250_.jpg)
 
 You can buy a copy here [https://amzn.eu/d/ctv8LQP](https://amzn.eu/d/ctv8LQP)
 
@@ -234,7 +234,7 @@ You can already find out Jack's best films of 2024 [here](https://decadentserpen
 
 ### The Brutalist (2024)
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mv5byjmxoddlndetnzu3ni00owu0ltlmntqtogu1mdvmnjmyndm0xkeyxkfqcgc40._v1_.jpg?w=723)
+![](/images/uploads/2024/12/mv5byjmxoddlndetnzu3ni00owu0ltlmntqtogu1mdvmnjmyndm0xkeyxkfqcgc40._v1_.jpg)
 
 ### Chief Music Columnist - Adam Gorecki
 
@@ -242,11 +242,11 @@ Adam started strong with us with his beautiful review of the Dead Zebras and a g
 
 ### MUSIC: Young Fathers, Albert Hall, April 2024
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/young-fathers-brits-rc402000x1270.jpg?w=1024)
+![](/images/uploads/2024/12/young-fathers-brits-rc402000x1270.jpg)
 
 ### ALBUM: Mahashmashana by Father John Misty 
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/father_john_misty_-_mahashmashana.jpg?w=316)
+![](/images/uploads/2024/12/father_john_misty_-_mahashmashana.jpg)
 
 ### Chief History Columnist - Gavin Duffy
 
@@ -256,7 +256,7 @@ Gavin is known for absolute bombshell pieces on history, including his fascinati
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/yoshida-curators-talk-thumb.jpg?w=600)
+![](/images/uploads/2024/12/yoshida-curators-talk-thumb.jpg)
 
 <figcaption>
 
@@ -270,7 +270,7 @@ Gavin is known for absolute bombshell pieces on history, including his fascinati
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/laverybanner2-1.jpg?w=1024)
+![](/images/uploads/2024/12/laverybanner2-1.jpg)
 
 <figcaption>
 
@@ -282,7 +282,7 @@ Gavin is known for absolute bombshell pieces on history, including his fascinati
 
 ### Discovering Degas at the Burrell Collection in Glasgow
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/a-group-of-dancers-edgar-degas-c-national-galleries-of-scotland.jpg?w=728)
+![](/images/uploads/2024/12/a-group-of-dancers-edgar-degas-c-national-galleries-of-scotland.jpg)
 
 ### Staff Writer - Daniel Harding
 
@@ -290,7 +290,7 @@ Our Staff Writer, Daniel Harding is the author of our excellent piece on Camus (
 
 ### Hak Baker - 20th July, London
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/unnamed-1.jpg?w=512)
+![](/images/uploads/2024/12/unnamed-1.jpg)
 
 ### Tool - 3rd of June, London
 
@@ -298,7 +298,7 @@ Another pick from Daniel was Tool, an extremely memorable gig which Daniel calle
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/afsfd.jpg?w=1024)
+![](/images/uploads/2024/12/afsfd.jpg)
 
 <figcaption>
 

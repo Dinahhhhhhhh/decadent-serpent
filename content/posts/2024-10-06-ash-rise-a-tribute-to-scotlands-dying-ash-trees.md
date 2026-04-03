@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/10/img_6826.jpg?w=1024"
+image: "/images/uploads/2024/10/img_6826.jpg"
 title: "Ash Rise: A Tribute to Scotland's Dying Ash Trees"
 date: 2024-10-06
 categories: 
@@ -31,7 +31,7 @@ The exhibition can be found at the Royal Botanic Gardens Edinburgh. It’s a med
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/img_6826.jpg?w=1024)
+![](/images/uploads/2024/10/img_6826.jpg)
 
 <figcaption>
 

@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/11/dragon-age-inquisition-on-steam-deck-1536x864-1.jpg?w=1024"
+image: "/images/uploads/2024/11/dragon-age-inquisition-on-steam-deck-1536x864-1.jpg"
 title: "Is Dragon Age: The Veilguard Worth Playing? A Candid Review"
 date: 2024-11-05
 categories: 
@@ -48,7 +48,7 @@ Now let’s talk about the elephant in the room - the plot and the writing. To u
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/dragon-age-inquisition-on-steam-deck-1536x864-1.jpg?w=1024)
+![](/images/uploads/2024/11/dragon-age-inquisition-on-steam-deck-1536x864-1.jpg)
 
 <figcaption>
 
@@ -62,7 +62,7 @@ There’s an observation that keeps on reappearing pretty frequently - that BioW
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/dragon-age-origins-worth-playing-2023.avif?w=1024)
+![](/images/uploads/2024/11/dragon-age-origins-worth-playing-2023.avif)
 
 <figcaption>
 
@@ -82,7 +82,7 @@ This, in turn, however, results in changes that sometimes can be baffling. Under
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/dragon-age-2-qunari.avif?w=825)
+![](/images/uploads/2024/11/dragon-age-2-qunari.avif)
 
 <figcaption>
 
@@ -96,7 +96,7 @@ Another byproduct of simplification is that the characters suffer from heavy-han
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/d513f630-0ae4-4778-9232-1c66011ac966-1.jpg?w=1024)
+![](/images/uploads/2024/11/d513f630-0ae4-4778-9232-1c66011ac966-1.jpg)
 
 <figcaption>
 

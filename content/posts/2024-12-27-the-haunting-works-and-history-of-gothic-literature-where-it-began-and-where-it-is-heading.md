@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/12/otranto-front1.jpeg?w=1000"
+image: "/images/uploads/2024/12/otranto-front1.jpeg"
 title: "The Haunting Works and History of Gothic Literature: Where it Began and Where it is Heading"
 date: 2024-12-27
 categories: 
@@ -25,7 +25,7 @@ We begin our journey in the late 18th century when a creation is born. This 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/otranto-front1.jpeg?w=1000)
+![](/images/uploads/2024/12/otranto-front1.jpeg)
 
 <figcaption>
 
@@ -39,7 +39,7 @@ As a lover of medieval history, he infused his knowledge into the story, even 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/6fc0d6_9b2f1baf1c1f404da60d8a82177ee98fmv2.jpeg?w=1024)
+![](/images/uploads/2024/12/6fc0d6_9b2f1baf1c1f404da60d8a82177ee98fmv2.jpeg)
 
 <figcaption>
 
@@ -59,7 +59,7 @@ Mary Shelley’s _Frankenstein_ (1818) sought to revive Gothic literature to it
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/shelley-poster-image-678x1024-1.png?w=678)
+![](/images/uploads/2024/12/shelley-poster-image-678x1024-1.png)
 
 <figcaption>
 
@@ -81,7 +81,7 @@ To appeal to younger audiences, movies, and TV shows have ensured the genre has 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/p02m5tw0.jpg?w=976)
+![](/images/uploads/2024/12/p02m5tw0.jpg)
 
 <figcaption>
 
@@ -99,7 +99,7 @@ Another notable example of Gothic literature that has been adapted in recent
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/netflix-haunting-of-hill-house-screenshots-6.jpg?w=800)
+![](/images/uploads/2024/12/netflix-haunting-of-hill-house-screenshots-6.jpg)
 
 <figcaption>
 

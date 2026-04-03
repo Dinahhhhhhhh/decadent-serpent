@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/11/g2-denzel2.webp?w=1024"
+image: "/images/uploads/2024/11/g2-denzel2.webp"
 title: "Gladiator II Review: Action-Packed Legacy Sequel"
 date: 2024-11-18
 categories: 
@@ -30,7 +30,7 @@ Paul Mescal’s performance is reasonable throughout the narrative, although he 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/g2-denzel2.webp?w=1024)
+![](/images/uploads/2024/11/g2-denzel2.webp)
 
 <figcaption>
 
@@ -44,7 +44,7 @@ Pedro Pascal is also in the film but much more sparingly than advertised. Howeve
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/meet-gladiator-iis-new-joint-roman-emperors-1720739347.webp?w=780)
+![](/images/uploads/2024/11/meet-gladiator-iis-new-joint-roman-emperors-1720739347.webp)
 
 <figcaption>
 
@@ -58,7 +58,7 @@ The film does deliver the action scenes expected from a big-screen blockbuster. 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/gladiatorii1.png?w=1024)
+![](/images/uploads/2024/11/gladiatorii1.png)
 
 <figcaption>
 

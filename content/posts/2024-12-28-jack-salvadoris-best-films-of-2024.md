@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/12/mv5bogu5ymfjy2mtytvloc00yzayltgxnjitntljmwq0njy2ntk5xkeyxkfqcgc40._v1_.jpg?w=1024"
+image: "/images/uploads/2024/12/mv5bogu5ymfjy2mtytvloc00yzayltgxnjitntljmwq0njy2ntk5xkeyxkfqcgc40._v1_.jpg"
 title: "Jack Salvadori's Best Films of 2024"
 date: 2024-12-28
 categories: 
@@ -26,7 +26,7 @@ So, pop your kernels, dust off your watchlists, and in the spirit of this annual
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mv5bogu5ymfjy2mtytvloc00yzayltgxnjitntljmwq0njy2ntk5xkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2024/12/mv5bogu5ymfjy2mtytvloc00yzayltgxnjitntljmwq0njy2ntk5xkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -42,7 +42,7 @@ Photo Credit: IMBD
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mv5bmdhkmmqxytetnzfmzi00zdjklwi0zjktnte1ote0zmjhzdu2xkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2024/12/mv5bmdhkmmqxytetnzfmzi00zdjklwi0zjktnte1ote0zmjhzdu2xkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -58,7 +58,7 @@ Here’s another film that effortlessly shifts genre in a dazzling fashion. Jér
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mv5byja1ymzhnjgtowzkzs00ythjltlloduty2q2m2qyotjhzdnhxkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2024/12/mv5byja1ymzhnjgtowzkzs00ythjltlloduty2q2m2qyotjhzdnhxkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -74,7 +74,7 @@ Chilean director Pablo Larraín is the master of unconventional biopics, forgoin
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mv5byju5odk1ytatmtk5zc00mjhllwfjztetytqxntm4ytbhognmxkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2024/12/mv5byju5odk1ytatmtk5zc00mjhllwfjztetytqxntm4ytbhognmxkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -90,7 +90,7 @@ Sean Baker is back with his signature downbeat vision of America, this time thro
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mv5bntu2ndu3mzetmtcznc00zde3lwizmwitzmvlzgy1zmviyza1xkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2024/12/mv5bntu2ndu3mzetmtcznc00zde3lwizmwitzmvlzgy1zmviyza1xkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -106,7 +106,7 @@ The exception to my rule: technically it premiered in some festivals in 2022-202
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mv5bzdzimjc0nzatmdu2os00ntu1lwfmnwutmme5njg3yjrlotg2xkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2024/12/mv5bzdzimjc0nzatmdu2os00ntu1lwfmnwutmme5njg3yjrlotg2xkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -122,7 +122,7 @@ This film is a delightful surprise, serving up a wildly original cocktail of cul
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mv5bzjc3ztlintatmmy0mi00mtbiltg1odyty2rhm2zknwq4mmjlxkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2024/12/mv5bzjc3ztlintatmmy0mi00mtbiltg1odyty2rhm2zknwq4mmjlxkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -138,7 +138,7 @@ Jacques Audiard goes full throttle, delivering a pop opera that never loses its 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mv5by2uxy2qwzmetownhzi00zjdhltlhowmtzgvhmdy1odu3zgmzxkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2024/12/mv5by2uxy2qwzmetownhzi00zjdhltlhowmtzgvhmdy1odu3zgmzxkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -154,7 +154,7 @@ This was, without a doubt, the biggest surprise of the year for me. I walked in 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mv5bntnlyte2n2utzdazns00ywu5lwfkztqtnzyxzdywotnimthhxkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2024/12/mv5bntnlyte2n2utzdazns00ywu5lwfkztqtnzyxzdywotnimthhxkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -170,7 +170,7 @@ Few films transport us to another dimension, and Miguel Gomes’ transcendental 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/mv5byjmxoddlndetnzu3ni00owu0ltlmntqtogu1mdvmnjmyndm0xkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2024/12/mv5byjmxoddlndetnzu3ni00owu0ltlmntqtogu1mdvmnjmyndm0xkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 

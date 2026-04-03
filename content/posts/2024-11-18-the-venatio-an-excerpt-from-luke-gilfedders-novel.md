@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/11/venatio-the-edge-3.jpeg?w=1024"
+image: "/images/uploads/2024/11/venatio-the-edge-3.jpeg"
 title: "The Venatio - an excerpt from Luke Gilfedder's novel"
 date: 2024-11-18
 categories: 
@@ -26,7 +26,7 @@ But as Edan races to gather evidence against his old friend, he begins to questi
 
 Inspired by Colin Wilson's thriller Necessary Doubt, The Venatio is the first book of a planned trilogy, to be followed by Sophomaw and The Phoenix Feasters. 
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/venatio-the-edge-3.jpeg?w=1024)
+![](/images/uploads/2024/11/venatio-the-edge-3.jpeg)
 
 ## **CHAPTER ONE: THE START OF THE HUNT**
 

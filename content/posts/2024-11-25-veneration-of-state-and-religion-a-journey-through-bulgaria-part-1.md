@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/11/img_7455.jpg?w=1024"
+image: "/images/uploads/2024/11/img_7455.jpg"
 title: "Veneration of State and Religion: A Journey Through Bulgaria - Part 1"
 date: 2024-11-25
 categories: 
@@ -29,7 +29,7 @@ Sofia was a baffling place, to say the least – gorgeous governmental buildings
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/img_7455.jpg?w=1024)
+![](/images/uploads/2024/11/img_7455.jpg)
 
 <figcaption>
 
@@ -53,7 +53,7 @@ The next day, we got up relatively early and made our way to our first destinati
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/8aa21ccc-07car0e-4a6b-9849-cb28323c49d3.jpg?w=1024)
+![](/images/uploads/2024/11/8aa21ccc-07car0e-4a6b-9849-cb28323c49d3.jpg)
 
 <figcaption>
 
@@ -71,7 +71,7 @@ Eventually, the scenery changed into a forested route, winding and winding upwar
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/img_8336.jpg?w=1024)
+![](/images/uploads/2024/11/img_8336.jpg)
 
 <figcaption>
 
@@ -91,7 +91,7 @@ Finally, after a windy drive up the mountain, we eventually saw the Rila Monaste
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/img_8380.jpg?w=768)
+![](/images/uploads/2024/11/img_8380.jpg)
 
 <figcaption>
 
@@ -109,7 +109,7 @@ As we continued down, we noticed a large icon on the side of the road alongside 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/img_8460.jpg?w=768)
+![](/images/uploads/2024/11/img_8460.jpg)
 
 <figcaption>
 
@@ -165,7 +165,7 @@ However, eventually, our excitement was unmatched as the salty air coming from t
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/11/img_9099.jpg?w=1024)
+![](/images/uploads/2024/11/img_9099.jpg)
 
 <figcaption>
 

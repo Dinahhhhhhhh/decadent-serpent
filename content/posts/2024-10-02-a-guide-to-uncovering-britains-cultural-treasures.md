@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/10/ur-nassiriyah.jpg"
+image: "/images/uploads/2024/10/ur-nassiriyah.jpg"
 title: "A Guide to Uncovering Britain's Cultural Treasures"
 date: 2024-10-02
 categories: 
@@ -26,7 +26,7 @@ This museum, Ennigaldi-Nanna's, was dated to around 530 BCE and created by a Neo
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/ur-nassiriyah.jpg)
+![](/images/uploads/2024/10/ur-nassiriyah.jpg)
 
 <figcaption>
 
@@ -52,7 +52,7 @@ The Royal Armouries in Leeds recently went viral after their 65 y/o curator was 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/royal_armouries_leeds_20171025_102601_49306744288.jpg)
+![](/images/uploads/2024/10/royal_armouries_leeds_20171025_102601_49306744288.jpg)
 
 <figcaption>
 
@@ -68,15 +68,15 @@ A hidden gem in Liverpool was suggested to us by the hotel receptionist. A littl
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/image2.jpeg?w=768)
+![](/images/uploads/2024/10/image2.jpeg)
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/image1.jpeg?w=768)
+![](/images/uploads/2024/10/image1.jpeg)
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/image0.jpeg?w=768)
+![](/images/uploads/2024/10/image0.jpeg)
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/rsam4591-1.webp?w=1024)
+![](/images/uploads/2024/10/rsam4591-1.webp)
 
 <figcaption>
 
@@ -94,7 +94,7 @@ The World Museum is exactly what it says on the tin, with artefacts and exhibits
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/world_museum_liverpool_-_2014-11-16_2.jpg)
+![](/images/uploads/2024/10/world_museum_liverpool_-_2014-11-16_2.jpg)
 
 <figcaption>
 
@@ -110,7 +110,7 @@ If you’re looking for something a bit more cultural, the British Music Experie
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/britishmusicexperience_1945-62_timeline.jpg)
+![](/images/uploads/2024/10/britishmusicexperience_1945-62_timeline.jpg)
 
 <figcaption>
 
@@ -126,7 +126,7 @@ York is one of the most historic cities in the UK, and the Castle Museum is real
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/10/york_castle_museum.jpg)
+![](/images/uploads/2024/10/york_castle_museum.jpg)
 
 <figcaption>
 

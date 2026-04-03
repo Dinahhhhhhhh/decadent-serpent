@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/12/chetniks_31_may_1925.jpg?w=400"
+image: "/images/uploads/2024/12/chetniks_31_may_1925.jpg"
 title: "Legacy of the Serbian Chetnik Movement"
 date: 2024-12-08
 tags: 
@@ -36,7 +36,7 @@ The Chetniks were primarily composed of younger boys and men who were just schoo
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/chetniks_31_may_1925.jpg?w=400)
+![](/images/uploads/2024/12/chetniks_31_may_1925.jpg)
 
 <figcaption>
 
@@ -70,7 +70,7 @@ Not much research has been conducted into what extent Tito’s government contin
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/momcilo_dujic.webp?w=154)
+![](/images/uploads/2024/12/momcilo_dujic.webp)
 
 <figcaption>
 
@@ -90,7 +90,7 @@ This includes a key organisation that Dujic was given a key role in called the S
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/serbian_national_defense_logo.jpg?w=175)
+![](/images/uploads/2024/12/serbian_national_defense_logo.jpg)
 
 <figcaption>
 
@@ -126,7 +126,7 @@ Dujic at the time was the head of an organisation called the ‘Chetnik Movement
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/ceca-se-ponovo-udaje-za-arkana.jpg?w=300)
+![](/images/uploads/2024/12/ceca-se-ponovo-udaje-za-arkana.jpg)
 
 <figcaption>
 
@@ -176,7 +176,7 @@ The Chetniks held somewhat of an esteemed position amongst Americans during the 
 
 <figure>
 
-[![](https://decadentserpent.com/wp-content/uploads/2024/12/opkoljeni-plakat.jpg?w=300)](https://www.deliusfilm.rs/en/opkoljeni.php)
+[![](/images/uploads/2024/12/opkoljeni-plakat.jpg)](https://www.deliusfilm.rs/en/opkoljeni.php)
 
 <figcaption>
 

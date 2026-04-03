@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2025/01/mv5bzjq1nziwytqtmjvimi00oguxlwjimgutmmjimjmyyje0mjkzxkeyxkfqcgc40._v1_.jpg?w=683"
+image: "/images/uploads/2025/01/mv5bzjq1nziwytqtmjvimi00oguxlwjimgutmmjimjmyyje0mjkzxkeyxkfqcgc40._v1_.jpg"
 title: "Coming Soon in 2025: Movies You’ll Forget by 2026"
 date: 2025-01-05
 categories: 
@@ -27,7 +27,7 @@ But let’s look beyond the recycled offerings to see what the auteurs are up to
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2025/01/mv5bzjq1nziwytqtmjvimi00oguxlwjimgutmmjimjmyyje0mjkzxkeyxkfqcgc40._v1_.jpg?w=683)
+![](/images/uploads/2025/01/mv5bzjq1nziwytqtmjvimi00oguxlwjimgutmmjimjmyyje0mjkzxkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -101,7 +101,7 @@ Her debut _Past Lives_ was a critical darling, and fingers crossed Song isn’t 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2025/01/mv5bythim2jhndgtzgrmyi00zdewlwfjmwetytaxndezmmrhztgxxkeyxkfqcgc40._v1_.jpg?w=768)
+![](/images/uploads/2025/01/mv5bythim2jhndgtzgrmyi00zdewlwfjmwetytaxndezmmrhztgxxkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -185,7 +185,7 @@ Here’s hoping Lanthimos doesn’t fall victim to “overproduction syndrome”
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2025/01/mv5byzhhntm3yzgtyty4os00otk0ltgymgutzdyzmwewnzkzotnlxkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2025/01/mv5byzhhntm3yzgtyty4os00otk0ltgymgutzdyzmwewnzkzotnlxkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 

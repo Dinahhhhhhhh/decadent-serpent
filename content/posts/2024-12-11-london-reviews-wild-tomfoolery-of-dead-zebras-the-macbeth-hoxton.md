@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/12/picture-2.jpg?w=724"
+image: "/images/uploads/2024/12/picture-2.jpg"
 title: "London Reviews: Wild Tomfoolery of 'Dead Zebras' - The Macbeth, Hoxton"
 date: 2024-12-11
 categories: 
@@ -22,7 +22,7 @@ There's nothing quite like spending a wet and rainy evening in a cramped yet cha
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/picture-2.jpg?w=724)
+![](/images/uploads/2024/12/picture-2.jpg)
 
 <figcaption>
 
@@ -38,7 +38,7 @@ They’re known to be mixologists in a blend of genres ranging from the 80s to h
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/picture-3.jpg?w=687)
+![](/images/uploads/2024/12/picture-3.jpg)
 
 <figcaption>
 
@@ -54,7 +54,7 @@ Like with any underground band, there shouldn’t be an expectation for those at
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/img_9840-1.jpg?w=683)
+![](/images/uploads/2024/12/img_9840-1.jpg)
 
 <figcaption>
 
@@ -70,7 +70,7 @@ Aside from their ability to get the audience to smile, laugh and sing, the Dead 
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/img_0195.jpg?w=1024)
+![](/images/uploads/2024/12/img_0195.jpg)
 
 <figcaption>
 

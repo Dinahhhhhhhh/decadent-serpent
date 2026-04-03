@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/09/img-5110_edited.webp"
+image: "/images/uploads/2024/09/img-5110_edited.webp"
 title: "What's On in Scotland - October"
 date: 2024-09-19
 categories: 
@@ -12,7 +12,7 @@ ART
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/09/img-5110_edited.webp)
+![](/images/uploads/2024/09/img-5110_edited.webp)
 
 <figcaption>
 
@@ -32,7 +32,7 @@ You can still catch [Lavery on Location exhibition at Royal Scottish Academy](ht
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/09/laverybanner2.jpg?w=1024)
+![](/images/uploads/2024/09/laverybanner2.jpg)
 
 <figcaption>
 
@@ -70,7 +70,7 @@ We are back for another round of [Aye Write](https://www.glasgowlife.org.uk/what
 
 OUTSIDE OF SCOTLAND
 
-![](https://decadentserpent.com/wp-content/uploads/2024/09/a35ec33d-plakat_aa.od-ruin-do-odkupienia_1_n.jpg?w=724)
+![](/images/uploads/2024/09/a35ec33d-plakat_aa.od-ruin-do-odkupienia_1_n.jpg)
 
 **[Alexander Adams: Od ruin do odkupienia/From Ruin to Redemption, Warsaw Archdiocese Museum](https://muzn.pl/pl/news/zaprosilinas-wystawa-alexander-adams-od-ruin-do-odkupienia-from-ruin-to-redemption/)**, Warsaw (19 Sept.-2 Feb. 2025) features paintings from 2024 on the Passion of Christ, alongside a selection of ink illustrations from the books _Iconoclasm_ and _Culture War_, exhibited for the first time. This is the first museum solo exhibition of his art in over a decade. Might be quite out of the way for most of you - but if you happen to be in Warsaw anytime between now and February, add this one to your calendar!
 

@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/12/8c359d21-ae50-4fe3-a98c-c533bb97d203.jpg?w=1024"
+image: "/images/uploads/2024/12/8c359d21-ae50-4fe3-a98c-c533bb97d203.jpg"
 title: "Events in January"
 date: 2025-01-01
 categories: 
@@ -15,7 +15,7 @@ As much as January is a month designed to recover from December festivities, the
 
 ## EDINBURGH
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/8c359d21-ae50-4fe3-a98c-c533bb97d203.jpg?w=1024)
+![](/images/uploads/2024/12/8c359d21-ae50-4fe3-a98c-c533bb97d203.jpg)
 
 1. **Turner in January** - as every year, we will have a unique opportunity to view Turner's watercolours at the Royal Scottish Academy. As it happens, this year we are commemorating Turner's 250th birthday so there will also be many special talks and lectures available during this month. [https://www.nationalgalleries.org/exhibition/turner-in-january-irelands-vaughan-bequest](https://www.nationalgalleries.org/exhibition/turner-in-january-irelands-vaughan-bequest) **From Wed 1 Jan 2025 - Fri 31 Jan 2025, Open daily, 10am–5pm (12noon–5pm on New Year's Day), Admission free**
 

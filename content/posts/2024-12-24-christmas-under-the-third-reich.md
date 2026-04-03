@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.com/wp-content/uploads/2024/12/kikel_2.jpeg?w=697"
+image: "/images/uploads/2024/12/kikel_2.jpeg"
 title: "Christmas under the Third Reich"
 date: 2024-12-24
 tags: 
@@ -20,7 +20,7 @@ While these localised versions of Christmas are often just benign festivities, t
 
 <figure>
 
-[![](https://decadentserpent.com/wp-content/uploads/2024/12/kikel_2.jpeg?w=697)](https://www.hoover.org/news/collection-world-war-ii-christmas-cards-donated-hoover-archives)
+[![](/images/uploads/2024/12/kikel_2.jpeg)](https://www.hoover.org/news/collection-world-war-ii-christmas-cards-donated-hoover-archives)
 
 <figcaption>
 
@@ -44,7 +44,7 @@ The Protestant Churches were a target for more absolute control, as they existed
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/images-21.jpg?w=180)
+![](/images/uploads/2024/12/images-21.jpg)
 
 <figcaption>
 
@@ -70,7 +70,7 @@ The role of women in the new Nazi Christmas was one of its most eminent features
 
 <figure>
 
-![](https://decadentserpent.com/wp-content/uploads/2024/12/ak283.jpg?w=318)
+![](/images/uploads/2024/12/ak283.jpg)
 
 <figcaption>
 
