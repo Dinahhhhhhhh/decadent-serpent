@@ -1,18 +1,16 @@
 {{ define "main" }}
 
-{{/* ── Carousel ── */}}
-{{ $featured := where .Site.RegularPages "Section" "posts" }}
-{{ $featured = first 5 $featured }}
+{{/* ── Carousel: 5 most recent posts with images ── */}}
+{{ $allPosts := where .Site.RegularPages "Section" "posts" }}
+{{ $withImages := where $allPosts ".Params.image" "!=" "" }}
+{{ $featured := first 5 $withImages }}
+
 <section class="carousel">
   <div class="carousel-track">
     {{ range $featured }}
     <div class="carousel-slide">
       <a href="{{ .RelPermalink }}">
-        {{ with .Params.image }}
-        <img class="carousel-img" src="{{ . }}" alt="{{ $.Title }}" loading="eager">
-        {{ else }}
-        <div class="carousel-placeholder"></div>
-        {{ end }}
+        <img class="carousel-img" src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager">
         <div class="carousel-caption">
           {{ with .Params.categories }}
           <span class="carousel-cat">{{ index . 0 | humanize }}</span>
@@ -32,47 +30,33 @@
   </div>
 </section>
 
-{{/* ── Section Grid ── */}}
-{{ $allPosts := where .Site.RegularPages "Section" "posts" }}
+{{/* ── Section Grid — hardcoded curated images ── */}}
 <section class="section-grid">
   <div class="section-grid-inner">
-
-    {{ $litPosts := where $allPosts ".Params.categories" "intersect" (slice "literature") }}
     <a href="/categories/literature/" class="section-card">
-      {{ range first 1 $litPosts }}{{ with .Params.image }}<img src="{{ . }}" alt="Literature" loading="lazy">{{ end }}{{ end }}
+      <img src="/images/uploads/2025/06/man-reading-thoughtfully-stockcake.jpg" alt="Literature" loading="lazy">
       <div class="section-label"><span>Literature</span></div>
     </a>
-
-    {{ $filmPosts := where $allPosts ".Params.categories" "intersect" (slice "film") }}
     <a href="/categories/film/" class="section-card">
-      {{ range first 1 $filmPosts }}{{ with .Params.image }}<img src="{{ . }}" alt="Film" loading="lazy">{{ end }}{{ end }}
+      <img src="/images/uploads/2025/06/otto_dix_sy_von_harden.jpg" alt="Film" loading="lazy">
       <div class="section-label"><span>Film</span></div>
     </a>
-
-    {{ $artPosts := where $allPosts ".Params.categories" "intersect" (slice "art") }}
     <a href="/categories/art/" class="section-card">
-      {{ range first 1 $artPosts }}{{ with .Params.image }}<img src="{{ . }}" alt="Art" loading="lazy">{{ end }}{{ end }}
+      <img src="/images/uploads/2025/06/francois_boucher_-_painter_in_his_studio_-_wga2893.jpg" alt="Art" loading="lazy">
       <div class="section-label"><span>Art</span></div>
     </a>
-
-    {{ $musicPosts := where $allPosts ".Params.categories" "intersect" (slice "music") }}
     <a href="/categories/music/" class="section-card">
-      {{ range first 1 $musicPosts }}{{ with .Params.image }}<img src="{{ . }}" alt="Music" loading="lazy">{{ end }}{{ end }}
+      <img src="/images/uploads/2025/06/the_musician_met_ep73.2.r.jpg" alt="Music" loading="lazy">
       <div class="section-label"><span>Music</span></div>
     </a>
-
-    {{ $histPosts := where $allPosts ".Params.categories" "intersect" (slice "history") }}
     <a href="/categories/history/" class="section-card">
-      {{ range first 1 $histPosts }}{{ with .Params.image }}<img src="{{ . }}" alt="History" loading="lazy">{{ end }}{{ end }}
+      <img src="/images/uploads/2025/06/671_01_s-1.jpg" alt="History" loading="lazy">
       <div class="section-label"><span>History</span></div>
     </a>
-
-    {{ $ideaPosts := where $allPosts ".Params.categories" "intersect" (slice "ideas-culture") }}
     <a href="/categories/ideas-culture/" class="section-card">
-      {{ range first 1 $ideaPosts }}{{ with .Params.image }}<img src="{{ . }}" alt="Ideas &amp; Culture" loading="lazy">{{ end }}{{ end }}
+      <img src="/images/uploads/2025/06/jan_matejko-astronomer_copernicus-conversation_with_god-edited.jpg" alt="Ideas &amp; Culture" loading="lazy">
       <div class="section-label"><span>Ideas &amp; Culture</span></div>
     </a>
-
   </div>
 </section>
 
