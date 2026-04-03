@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/05/mv5bmdgzztgzotetmtllzs00zddjlwe4nwutotkwotk0mjk3oda5xkeyxkfqcgc40._v1_fmjpg_ux1000_-1.jpg?w=723"
+image: "/images/uploads/2025/05/mv5bmdgzztgzotetmtllzs00zddjlwe4nwutotkwotk0mjk3oda5xkeyxkfqcgc40._v1_fmjpg_ux1000_-1.jpg"
 title: "Our Man in Cannes: 'Eddington' Reviewed"
 date: 2025-05-20
 categories: 
@@ -14,7 +14,7 @@ _Author: Jack Salvadori_
 
 ## Eddington
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/05/mv5bmdgzztgzotetmtllzs00zddjlwe4nwutotkwotk0mjk3oda5xkeyxkfqcgc40._v1_fmjpg_ux1000_-1.jpg?w=723)
+![](/images/uploads/2025/05/mv5bmdgzztgzotetmtllzs00zddjlwe4nwutotkwotk0mjk3oda5xkeyxkfqcgc40._v1_fmjpg_ux1000_-1.jpg)
 
 Remember the days when a sneeze was more feared than a gunshot? Ari Aster surely does, and _Eddington_ is his chaotic love letter to those unhinged, hand-sanitised months. Set during the early Covid lockdown, the film isn’t really about the virus: it’s about what happens when mass hysteria, meme culture, and small-town ambition collide in a dusty corner of New Mexico and go absolutely feral.
 

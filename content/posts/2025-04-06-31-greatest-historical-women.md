@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/la_emperatriz_theodora_-_jean-joseph_benjamin-constant.jpg?w=559"
+image: "/images/uploads/2025/04/la_emperatriz_theodora_-_jean-joseph_benjamin-constant.jpg"
 title: "31 Greatest Historical Women"
 date: 2025-04-06
 categories: 
@@ -19,7 +19,7 @@ Women’s History Month may have gone but there is always time to celebrate grea
 
 ## 1\. Empress Theodora (c.499/500- 28th June 548)- Empress Consort
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/la_emperatriz_theodora_-_jean-joseph_benjamin-constant.jpg?w=559)
+![](/images/uploads/2025/04/la_emperatriz_theodora_-_jean-joseph_benjamin-constant.jpg)
 
 The Empress Theodora started life as an actress, dancer and prostitute, and ended it as a beloved Empress Consort. She met the future Emperor Justinian as a young woman, who was so in love with her that he had the law changed so that they could marry. This proved to be a shrewd decision. Theodora was a brilliant, intelligent and shrewd Empress known for her political acumen. Her husband trusted her fully, and it was her role in convincing him to stay that quelled the deadly Nika Riots. Theodora also helped bring about laws that protected women and children, such as making rape punishable by death and equal divorce laws. She rescued girls who were being trafficked and prostituted, giving them money to help them and a place to live. Justinian was so heartbroken by her death that he never remarried, despite the need for an heir.
 
@@ -33,7 +33,7 @@ Being the daughter of Alfred the Great may be a help, but Æthelflæd didn’t a
 
 ## 4\. Olga of Kiev (c.890-925-11th July 969) Princess Regent
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/20201218011244_2106d607eaa6daf2a19e0c3e4d276c61a8e1b0b88ad725fd0495d068e6993e39.jpeg?w=760)
+![](/images/uploads/2025/04/20201218011244_2106d607eaa6daf2a19e0c3e4d276c61a8e1b0b88ad725fd0495d068e6993e39.jpeg)
 
 Some women on this list used words instead of actions. Olga of Kiev is not one of them. When her dear husband Igor, Prince of Kiev, was killed, the men who did it dared ask for her hand in marriage. Olga wasn’t taking this. She pretended to agree and invited a delegation to dinner, proceeding to have them buried alive. She then had another delegation burned alive. Then she had more killed at a wedding feast. Finally, Olga had the city of her enemies burned down. She did all this whilst acting as a capable regent for her young son. Olga later converted to Christianity and was venerated as a saint. You can’t say that Olga of Kiev didn’t know how to take revenge.
 
@@ -47,7 +47,7 @@ Lady Margaret Beaufort had a rough early life. Her first marriage was annulled o
 
 ## 7\. Catherine of Aragon- 16th December 1485-7th January 1536)- Queen Consort and Regent
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/1012px-catherine_of_aragon_1485-1536.jpg?w=864)
+![](/images/uploads/2025/04/1012px-catherine_of_aragon_1485-1536.jpg)
 
 Catherine of Aragon is seen as the poor, cast-off Queen, but she was so much more. The daughter of the legendary Ferdinand and Isabella, Catherine was groomed to be Queen of England. She married Prince Arthur first, but was widowed months later. For years, Catherine stayed in political limbo, unable to marry but unable to go home. To counter this, her father made her the first female ambassador of Europe, a role in which she shone. Finally, Henry VIII wanted to take her as his bride. She swore that she was a virgin and the marriage proceeded. Despite what history might tell you, the marriage was mainly happy. Catherine was a universally adored queen for her piety, intelligence, charity and warmth. She was one of two of Henry’s wives to act as Regent, helping win the battle that killed James IV of Scotland. Catherine wanted to send his head, but that was deemed too much.
 
@@ -57,31 +57,31 @@ Catherine was underestimated by all around her, a fateful mistake. Her daughter 
 
 ## 8\. Abigail Adams (22nd January 1744-28th October 1818)- First Lady
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/abigail_adams_by_gilbert_stuart.jpg?w=836)
+![](/images/uploads/2025/04/abigail_adams_by_gilbert_stuart.jpg)
 
 The Founding Fathers were great men, and the Founding Mothers were great women too. Abigail Adams is one of the most beloved First Ladies in US history, and for good reason. Intelligent and forthright, she served as her husband’s sounding board on every major issue. Their letters are a treasure trove for historians, and show Abigail’s views. She was a strong proponent of women’s rights and an opponent of slavery. Her famous quote ‘remember the ladies\[…\]all men would be tyrants if they could’ is symbolic of her views. The Adamses enjoyed a famously loving marriage and Abigail’s influence saw her receive the nickname Mrs. President.’ She also showed her kindness by caring for Polly Jefferson when both families were abroad and triggered the reconciliation between her husband Thomas Jefferson following the girl’s death. Abigail showed herself to be the perfect combination of intelligent, shrewd, warm and supportive.
 
 ## 9\. Olympe de Gouges (7th May 1748-3rd November 1793)- Activist
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/olympe_de_gouges.png?w=767)
+![](/images/uploads/2025/04/olympe_de_gouges.png)
 
 Olympe de Gouges was a victim of the French Revolution, but she was so much more. The young Marie Gouze was aged seventeen, she was married to a man she didn’t care for and was widowed a year later, now a mother of a son. Following this, she changed her name to Olympe de Gouges. As Olympe de Gouges, she became a well-known playwright and activist. She supported gender equality, help for unwed mothers and illegitimate children and maternity hospitals, whilst opposing the death penalty and slavery. In 1791, she wrote the infamous ‘Declaration of the Rights of Woman and of the Female Citizen,’ one of the best-known treaties on gender equality. Olympe was a constitutional monarchist who opposed the death penalty and thus disagreed with the execution of Louis XVI. Because of this, those in charge of the French Revolutionary government had her tried and executed. Despite her name being besmirched, she remains one of the most famous names of the early feminist movement. Her ‘Declaration’ was also the direct inspiration for Mary Wollstonecraft’s ‘A Vindication on the Rights of Women.’ 
 
 ## 10\. Zheng Yi Sao (c.1775-1844)- Pirate
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/zheng-yi-sao-chinese-pirate-1785-1844.jpeg?w=470)
+![](/images/uploads/2025/04/zheng-yi-sao-chinese-pirate-1785-1844.jpeg)
 
 Not many pirates died of old age in their beds surrounded by family, but those pirates weren’t Zheng Yi Sao. Much of Sao’s early life is unknown but she may have been a prostitute before she married a pirate leader in 1801. They worked as business partners until her husband died in 1807. She then got to work, taking over the family business of 800 ships and seventy thousand men. For the next several years, Sao was the bane of merchant ships and national navies. Her men plundered thousands and thousands of tonnes of cargo. Sao was a strict leader who demanded competence and absolute loyalty from her men, but also protected captured women from harassment and rape. In 1810, Sao sailed into a harbour and announced she wanted to stop. In return for her retirement, Sao received money, land and a pardon. For the next thirty-four years, Sao ran a successful gambling operation and died in her bed aged around 68/69. Sao is one of the most successful pirates of all time, a woman who proved both capable and fierce.
 
 ## 11\. Táhirih (1814/1817-16-27th August 1852)- Activist
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/tahirihillustrationbyivanlloyd-crop_axyaxki.width-800.png?w=460)
+![](/images/uploads/2025/04/tahirihillustrationbyivanlloyd-crop_axyaxki.width-800.png)
 
 Whilst many of the women listed have operated in environments that were generally against them, Táhirih of Persia probably suffered from this the most. Born into a prominent family, the gender segregation of the time meant that she had to hide whilst her father taught male students. She was known for her beauty and extraordinary intelligence, but had to marry a cousin when she was just fourteen. In 1844, she converted to the Bábí faith. Táhirih became one of the most well-known proponents of the faith, as well as a poet, scholar and women’s rights activist. Her advocacy and faith made her a controversial woman, and she was arrested in 1848. She remained a prisoner for four years, refusing to convert and continually opposing polygamy and other forms of oppression. Sometime in August 1852, she was executed, strangled with her own scarf. Her last words were “_You can kill me as soon as you like, but you cannot stop the emancipation of women.”_ In a time when being a woman and against the state religion was a great risk, Táhirih proved herself to be a rule-breaker in the best possible way.
 
 ## 12\. Ada Lovelace (10th December 1815-27th November 1852)- Mathematician
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/untitled-design-41.png?w=600)
+![](/images/uploads/2025/04/untitled-design-41.png)
 
 Æthelflæd of Mercia had a famous father and so did Ada Lovelace, Countess of Lovelace who was the daughter of the infamous Lord Byron. Her mother encouraged an interest in mathematics and logic, something the Countess Lovelace picked up. She soon became a talented mathematician, befriending and corresponding with some of the most brilliant minds of the time. Her translations and notes were key to understanding computers as we know them today. The Countess Lovelace sadly died aged only thirty-six, but her work lives on in today’s technology.
 
@@ -99,7 +99,7 @@ The Garrett family clearly had a history of creating pioneering women, and Milli
 
 ## 16\. Eleanor Roosevelt (11th October 1884-7th November 1962)- First Lady
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/eleanor_roosevelt_wearing_her_wedding_dress_in_new_york_city_-_nara_-_195393.jpg?w=680)
+![](/images/uploads/2025/04/eleanor_roosevelt_wearing_her_wedding_dress_in_new_york_city_-_nara_-_195393.jpg)
 
 Franklin D. Roosevelt is considered by many as one of the greatest US presidents, but even more, might consider Eleanor Roosevelt the greatest First Lady. Born into a wealthy and prominent family, Roosevelt was raised by a loving but absent father and a verbally abusive mother. Orphaned young, she enjoyed life at a London boarding school and was devastated by being recalled to make her debut. Her marriage to distant cousin Franklin D. Roosevelt was delayed by his overbearing mother Sara. Married life wasn’t easy, as Sara made life difficult and Eleanor struggled with motherhood. Following a near divorce over her husband’s infidelity and his near-death experience, Roosevelt gained more power. She became a prominent advocate for civil and labour rights. When her husband became president, Roosevelt became the most active First Lady ever seen. Her husband opposed an anti-lynching law and supported the internment of Japanese-Americans, but Roosevelt fought for the first and opposed the latter. She encouraged the inclusion of women and minorities in the war and in her husband’s domestic programmes. Following President Roosevelt’s death, Eleanor Roosevelt was made Chair of the UN Commission on Human Rights and helped to draft the Universal Declaration on Human Rights. She continued her political advocacy into old age, chairing John F. Kennedy’s Presidential Commission on the Status of Women. Eleanor Roosevelt died in 1962 and was dubbed ‘First Lady of the World.’ That is certainly true.
 
@@ -125,7 +125,7 @@ Many amazing women contributed to science and engineering during WW2, and Beatri
 
 ## 22\. Nancy Wake (30th August 1912-7th August 2011) - Spy
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/nancy_wake_1945.jpg?w=679)
+![](/images/uploads/2025/04/nancy_wake_1945.jpg)
 
 The Commonwealth was instrumental in the war effort, and one of the best spies came from there. Nancy Wake was born with an adventurous spirit, having worked as a nurse and a journalist before marrying a wealthy French industrialist. When France fell, Wake became an active member of the resistance. After fleeing France in 1943, Wake became a member of the legendary Special Operations Executive (SOE). She returned to France, where she rescued girls who had been forced into prostitution, shot spies and travelled through occupied areas among other things. Following the war, Wake learned that she had been widowed. She was a political candidate and intelligence agent in the post-war years. Nancy Wake died aged 98 and left a remarkable legacy. The Gestapo nicknamed her ‘The White Mouse’ due to her uncanny ability to escape.
 
@@ -135,7 +135,7 @@ Another Commonwealth legend was Indian noblewoman Noor Inayat Khan. Born into a 
 
 ## 24\. Hedy Lamarr (9th November 1914-19th January 2000)- Inventor
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/hedy_lamarr_publicity_photo_for_the_heavenly_body_1944.jpg?w=671)
+![](/images/uploads/2025/04/hedy_lamarr_publicity_photo_for_the_heavenly_body_1944.jpg)
 
 Few can say they truly have beauty and brains, but Hedy Lamarr certainly could. She became an infamous actress following the controversial film _Ecstasy._ Lamarr married a fascist sympathiser in 1933, but escaped from him in 1937. She then arrived in America and soon became a top film star, noted for her beauty and sensual nature. During WW2, she helped sell war bonds. However, she was more than just a beautiful actress. Lamarr had been interested in inventing from a young age and was intelligent. She created the concept of frequency hopping, which would be used to secure and cloak communications. Lamarr is the co-patent of it, along with composer George Antheil. Her work was also the precursor to WiFi and Bluetooth. Lamarr’s post-war life was difficult, and she ended up being married six times and estranged from her oldest son. Hedy Lamarr died in 2000. She remains known for both her acting, and her inventing, and is a member of the National Inventors Hall of Fame. Remember to thank her when you’re using your WiFi
 
@@ -157,7 +157,7 @@ A lot of girls dream of being a princess, but one really did it- Grace Kelly. Bo
 
 ## 29\. Margaret Hamilton (17th August 1936-)- Computer Scientist
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/margaret_hamilton_1929.webp?w=640)
+![](/images/uploads/2025/04/margaret_hamilton_1929.webp)
 
 The Space Race was a prominent part of the Cold War and was composed of many wonderful figures, not least Margaret Hamilton. After an early career in mathematics, Hamilton eagerly joined NASA. She wrote much of the code by hand and was an expert in a number of fields. It was her forethought that assisted the astronauts in landing Apollo 11. Hamilton left NASA and co-founded her own software company. Hamilton has been an in-demand speaker and lecturer for years, and is the recipient of many awards that include the Presidential Medal of Freedom.
 

@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/picture-1.png?w=420"
+image: "/images/uploads/2025/02/picture-1.png"
 title: "How We See Now: Memes as the Depiction of The New Digital World"
 date: 2025-02-03
 categories: 
@@ -37,9 +37,9 @@ The first thing to note here is what Benjamin means by ‘genuineness’. Earlie
 
          Compare, for instance, these images:
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/picture-1.png?w=420)
+![](/images/uploads/2025/02/picture-1.png)
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/picture-2.png?w=460)
+![](/images/uploads/2025/02/picture-2.png)
 
 Once one views these two pictures side by side it quickly becomes clear that they are presented from two different sets of inner vision and address two very different sets of social facts.
 
@@ -57,7 +57,7 @@ Once one views these two pictures side by side it quickly becomes clear that the
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/picture-3.png?w=526)
+![](/images/uploads/2025/02/picture-3.png)
 
 <figcaption>
 

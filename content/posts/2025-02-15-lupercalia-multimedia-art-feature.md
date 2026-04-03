@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/pxl_20250214_1010230932.jpg"
+image: "/images/uploads/2025/02/pxl_20250214_1010230932.jpg"
 title: "Lupercalia: Multimedia Art Feature"
 date: 2025-02-15
 categories: 
@@ -27,7 +27,7 @@ The Lupercalia were celebrated all the way up into the late Roman Empire but Chr
 
 ## Art: Romulus and Remus by Samuel Wild
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/pxl_20250214_1010230932.jpg)
+![](/images/uploads/2025/02/pxl_20250214_1010230932.jpg)
 
 _Sam Wild is an artist specialising in painting and printmaking, creating representational narrative and symbolic artworks that people have described as ‘evocative’ and ‘mercurial’. Studying art for over 16 years, he attended Manchester School of Art studying Printmaking and later completed his Masters at the Cambridge School of Art in Illustration. He has exhibited in London and Manchester and is an experienced editorial illustrator, creating a long run of covers for The Mallard magazine. He was recently shown at The Exhibition show in Fitzrovia, London, and is now the art columnist at Decadent Serpent magazine._
 

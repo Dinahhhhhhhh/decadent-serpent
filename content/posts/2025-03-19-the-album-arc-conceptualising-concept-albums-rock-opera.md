@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/sf_sorrow_gold_ltd_edition.jpg?w=300"
+image: "/images/uploads/2025/03/sf_sorrow_gold_ltd_edition.jpg"
 title: "The Album Arc: Conceptualising concept albums – Rock Opera"
 date: 2025-03-19
 categories: 
@@ -28,7 +28,7 @@ The genres of Rock and Opera both shared a grand and glorified command of the st
 
 ## S.F Sorrow- The Pretty Things
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/sf_sorrow_gold_ltd_edition.jpg?w=300)
+![](/images/uploads/2025/03/sf_sorrow_gold_ltd_edition.jpg)
 
 The dawn of Rock Opera was founded at the latter end of the 1960s, with the project ‘S.F Sorrow’ by The Pretty Things. From the outset, the album takes us through the birth, life and death of the character Sebastian F Sorrow.
 
@@ -36,7 +36,7 @@ The dawn of Rock Opera was founded at the latter end of the 1960s, with the proj
 
 ## Tommy – The Who
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/tommyalbumcover.jpg?w=300)
+![](/images/uploads/2025/03/tommyalbumcover.jpg)
 
  I’ve covered music’s morbid portrayal of post-adolescent life in my previous article, it’s worth bearing in mind that it may be an accurate betrayal for people whose child-like optimism had been crushed by traumatic wars, addiction or entrapping full-time jobs. Life throws curveballs, and as I said about our brains perceiving life as stories, it’s up to us as to how these stories are navigated and how they will end. It takes me onto our next chapter in conceptual Rock Opera, an extravagant and grandiose story of a young boy who is dumb, deaf and blind. The Who released their critically acclaimed album, ‘Tommy’, in 1969 and is known to be one of the most profound and impressive conceptual albums of all time. The lyrics, instrumental and overall message of this project is something that is very carefully depicted and executed every step of the way, which makes it all the more impressive.
 
@@ -50,7 +50,7 @@ Evidently, the phenomenon of Rock Opera in the 1970s served as a therapeutic mou
 
 ## The Rise and Fall of Ziggy Stardust and The Spiders from Mars – David Bowie
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/ziggystardust.jpg?w=300)
+![](/images/uploads/2025/03/ziggystardust.jpg)
 
 David Bowie gave breath to the character Ziggy Stardust in his most renowned album, ‘The Rise and Fall of Ziggy Stardust and The Spiders from Mars’, a glam rock extravaganza that personifies the glamorising pinnacle of Bowie’s fame into a flamboyant, yet tragically doomed hero. Funnily enough, the title takes its inspiration from the opera ‘Aufstieg und Fall der Stadt Mahagonny (The Rise and Fall of the City of Mahagonny)’. It continues Bowie’s fascination around space which has been seen in previous singles such as Life on Mars and most famously, Space Oddity. However, this time David was the man falling from the stars; courageous to save us all, but fearful for the consequences. Bowie is one of the few artists whose vocals stand out like an intensely burning star. It’s blazing, florescent and vastly intense. However, as bright as they are, the burning of a star will be one that causes excruciating pain… and inevitably, the star will die. The concept of Ziggy Stardust depicts the tale of a bisexual rockstar who falls from the skies, pledging to save the world from an apocalypse. In the end, the total iridescence of Ziggy’s stardom and spotlight burns him alive into a ‘Rock N Roll Suicide’. Like all of our reviewed projects so far, the album stands as a self-reference to Bowie’s fame and talent feeling like a form of alienation that has the potential to provide goodwill to the world, but there plays a great risk in burning up in the ego that arises from it.
 
@@ -68,7 +68,7 @@ _‘No one would have believed, in the last years of the nineteenth century, tha
 
 ## Jeff Wayne’s Musical Version of The War of The Worlds
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/waynetwotw.jpg?w=320)
+![](/images/uploads/2025/03/waynetwotw.jpg)
 
 The prospect of a hostile alien invasion was unheard of when H.G Well’s ‘The War of The Worlds’ started to appear on bookshelves in 1898. The disturbing depiction of human vulnerability from unknown colonisers was as unsettling as it was intriguing to readers. The concept triggered an explosive kickstart for science fiction; inspiring radio shows, films and eventually, a concept album.
 

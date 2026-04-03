@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/483366561_641678245278210_310472228111837721_n.jpg?w=645"
+image: "/images/uploads/2025/03/483366561_641678245278210_310472228111837721_n.jpg"
 title: "Scotland Rocks Radio 28th of Feb Concert: Black Sun, Post-Ironic State and Gothzilla"
 date: 2025-03-08
 categories: 
@@ -33,7 +33,7 @@ As usual, the gig took place at **Banshee Labyrinth**, a venue I’ve come to kn
 
 <figure>
 
-[![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/483366561_641678245278210_310472228111837721_n.jpg?w=645)](https://www.facebook.com/Jai.Dee.1999)
+[![](/images/uploads/2025/03/483366561_641678245278210_310472228111837721_n.jpg)](https://www.facebook.com/Jai.Dee.1999)
 
 <figcaption>
 
@@ -55,7 +55,7 @@ Post-Ironic State was enchanting from the very beginning. From the second they s
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/481042070_641684338610934_7297727722349064769_n.jpg?w=678)
+![](/images/uploads/2025/03/481042070_641684338610934_7297727722349064769_n.jpg)
 
 <figcaption>
 
@@ -73,7 +73,7 @@ They played big hits, such as _Citadel_ or _Grin and Bear_, which were different
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/481083053_641688708610497_6142395693517625889_n.jpg?w=1024)
+![](/images/uploads/2025/03/481083053_641688708610497_6142395693517625889_n.jpg)
 
 <figcaption>
 

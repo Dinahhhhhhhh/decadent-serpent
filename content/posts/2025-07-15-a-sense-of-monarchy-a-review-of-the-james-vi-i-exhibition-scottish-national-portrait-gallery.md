@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-27.png?w=607"
+image: "/images/uploads/2025/07/image-27.png"
 title: "A Sense of Monarchy: A Review of the James VI/I exhibition, Scottish National Portrait Gallery"
 date: 2025-07-15
 tags: 
@@ -20,11 +20,11 @@ The occasion has been marked very well in Britain with a number of publications 
 
 The move through the exhibition is chronological, starting from his boyhood days in Scotland where his family and background are discussed. A further look into his personality is given, including his education at the hands of the eminent humanistic scholar and man of Latin letters, George Buchanan. James’ penchant for the likes of falconry and poetry are also discussed here, beside his better known intellectual pursuits, which is a welcome addition to the exhibition. The work of those he patronised, notably the Scottish renaissance authors, known as the Castalian Band by modern scholars, is displayed alongside James’ own poetical writings. 
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-27.png?w=607)
+![](/images/uploads/2025/07/image-27.png)
 
 This section of the exhibition, which is supplemented by a grand selection of portraiture of James and various members of his circles throughout the era, moves on to his ascension to the English throne. The exhibition then truly becomes one for lovers of art and artefacts, as many Jacobean relics are displayed for the public, giving an insight into the riches that James and his family now enjoyed at the court in London. Much attention is given to the material culture of the Jacobean court, with many items such as portraits, clothes, coins, and other valuables on display. The vast collection of jewellery that James and his wife Anne of Denmark owned is also noted, with individual items and Anne’s inventory of jewellery on display at the exhibition. 
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-25.png?w=827)
+![](/images/uploads/2025/07/image-25.png)
 
 One of the more interesting is the opportunity to smell a perfume called ‘Presence’, which was made as a recreation of Jacobean perfume base upon receipts to apothecaries to the royal household, giving visitors a chance to engage in the world of the Jacobean court in London in a more wholly sensory fashion. There are also the presentations of the clothes and fashions of the Jacobean court alongside information on James’ social relations, both personal and political. The mentions of various artists, diplomats, ambassadors, and other figures who he connected with in his time in Scotland and England are well represented. 
 
@@ -34,7 +34,7 @@ Nevertheless, the exhibition’s focus on showing the personalities and interest
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-29.png?w=746)
+![](/images/uploads/2025/07/image-29.png)
 
 <figcaption>
 

@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/fallout.png?w=760"
+image: "/images/uploads/2025/03/fallout.png"
 title: "I Got Spurs That Jingle Jangle Jingle: The Apocalypse Never Looked (And Sounded) So Good"
 date: 2025-03-06
 categories: 
@@ -28,7 +28,7 @@ In this article, I will explore how this aesthetic, combined with a masterful mu
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/fallout.png?w=760)
+![](/images/uploads/2025/03/fallout.png)
 
 <figcaption>
 
@@ -56,7 +56,7 @@ As the franchise grew, its aesthetic became more and more solid and immediately 
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/fallout-2.png?w=838)
+![](/images/uploads/2025/03/fallout-2.png)
 
 <figcaption>
 
@@ -80,7 +80,7 @@ The aesthetic is in large part a future inspired by what people in the 50s thoug
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/fallout-3.png?w=694)
+![](/images/uploads/2025/03/fallout-3.png)
 
 <figcaption>
 
@@ -117,7 +117,7 @@ The radio also allows you to tune in on other frequencies and listen to specific
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/fallout-4.png?w=748)
+![](/images/uploads/2025/03/fallout-4.png)
 
 <figcaption>
 
@@ -133,7 +133,7 @@ Also, this brought in even more of the 50s and 60s music influence, while Inur Z
 
 It’s interesting to notice how the fear and hope for the upcoming atomic age are also directly reflected in several songs spanning across different decades. Let’s see some examples:
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/fallout-5-.png?w=396)
+![](/images/uploads/2025/03/fallout-5-.png)
 
 **Uranium Fever**
 

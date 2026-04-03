@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/franciszek-kostrzewski-01.jpg?w=800"
+image: "/images/uploads/2025/06/franciszek-kostrzewski-01.jpg"
 title: "Solstice in Eastern European Art"
 date: 2025-06-20
 categories: 
@@ -19,43 +19,43 @@ I still remember the allure and mysticism of stories about the Solstice in Polan
 
 ## Franciszek Kostrzewski, 'Sobótka'
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/franciszek-kostrzewski-01.jpg?w=800)
+![](/images/uploads/2025/06/franciszek-kostrzewski-01.jpg)
 
 Kostrzewski was also the author of the earliest Polish comic books from 1859. Kostrzewski would often focus on the realistic representation of peasant life, not sanitised in any way, which was part of an important cultural movement at fin de sicle of 19th century.
 
 ## Seweryn Bieszczad, 'Noc Swietojanska' (St John's Night)
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/seweryn-bieszczad-02.jpg?w=646)
+![](/images/uploads/2025/06/seweryn-bieszczad-02.jpg)
 
 Bieszczad was also known for his realist depictions, particularly in watercolour. He studied with Jan Matejko, and he lived between 1852-1923.
 
 ## Zofia Stryjeńska (1894-1976), 'Sobótka - puszczanie wianków'
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/639489_1b.jpg?w=1024)
+![](/images/uploads/2025/06/639489_1b.jpg)
 
 Zofia Stryjenska was famous for her depictions of Polish traditions and astonishing graphic design influenced by Art Deco. She also decorated two Polish passenger ships, 'Batory' and 'Pilsudzki'. Unfortunately, after the war, she caught syphilis and lost sight.
 
 ## Ludwik Stasiak, Sobótki
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/tumblr_b27515222e14120e9a32d95935dbe7d3_e9f21cb6_2048.jpg?w=1024)
+![](/images/uploads/2025/06/tumblr_b27515222e14120e9a32d95935dbe7d3_e9f21cb6_2048.jpg)
 
 Stasiak was an illustrator for multiple Polish magazines in the 19th century. He was mostly occupied with capturing rural life and Polish traditions, later moving on to writing novels.
 
 ## Ferdynand Ruszczyc, Sobótki, 1898
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/ferdynand-ruszczyc-01.jpg?w=762)
+![](/images/uploads/2025/06/ferdynand-ruszczyc-01.jpg)
 
 This gorgeous painting, often dubbed neo-romantic was painted by a man who most certainly deserves a mention. Part of the Young Poland movement, Ruszczyc was well educated and travelled to study art in Berlin, Dresden and Paris among many others. He came from a military family and joined the military at some point to defend his homeland.
 
 ## Wladyslaw Podkowinski, Sobótki - studium
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/wladyslaw_podkowinski_-_sobotki_-_studium.jpg?w=1024)
+![](/images/uploads/2025/06/wladyslaw_podkowinski_-_sobotki_-_studium.jpg)
 
 This eerie painting deserves a definite mention, as he was also the author of my favourite painting, 'Frenzy of Exultation'. His work is incredibly expressive with a rich use of colour. Inspired by early impressionism, his work offers a fusion of symbolism and Young Poland movement. Frenzy of Exultation caused such an uproar that Podkowinski ended up slashing with a knife his own painting.
 
 ## Apoloniusz Kedzierski, Sobótki
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/apoloniusz-kedzierski-01.jpg?w=1024)
+![](/images/uploads/2025/06/apoloniusz-kedzierski-01.jpg)
 
 This drawing was featured in one of the Polish magazines, 'Tygodnik Ilustrowany' in 1884. It illustrated a poem by Kochanowski, a famous poet known for his poems about his dead daughter, a bane of every Polish student. Kedzierski focused on rural life and Polish traditions in his art and also embraced impressionism later in life.
 

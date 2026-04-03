@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/msdblve_ec014-2000-7f25f33b6e894a91b7bdf824922e1b23.jpg?w=1024"
+image: "/images/uploads/2025/01/msdblve_ec014-2000-7f25f33b6e894a91b7bdf824922e1b23.jpg"
 title: "On David Lynch’s Passing: A Mystery On And Off The Screen"
 date: 2025-01-19
 categories: 
@@ -27,7 +27,7 @@ And in this context, the first infamous opening minutes of David Lynch’s _Blue
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/msdblve_ec014-2000-7f25f33b6e894a91b7bdf824922e1b23.jpg?w=1024)
+![](/images/uploads/2025/01/msdblve_ec014-2000-7f25f33b6e894a91b7bdf824922e1b23.jpg)
 
 <figcaption>
 
@@ -53,7 +53,7 @@ Despite frequent requests by the public for a means to explain his films, he per
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/mv5bzdkzzwrhnwytytk2zs00yjmzltg4nzqtmzczmgzkytjjm2y0xkeyxkfqcgc40._v1_.jpg?w=1024)
+![](/images/uploads/2025/01/mv5bzdkzzwrhnwytytk2zs00yjmzltg4nzqtmzczmgzkytjjm2y0xkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 
@@ -71,7 +71,7 @@ It is a shame that his [rumored final Netflix miniseries](https://www.facebook.c
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/twinpeaks_loglady.webp?w=1000)
+![](/images/uploads/2025/01/twinpeaks_loglady.webp)
 
 <figcaption>
 

@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/pxl_20250316_1654242013-1.jpg?w=652"
+image: "/images/uploads/2025/03/pxl_20250316_1654242013-1.jpg"
 title: "IDES OF MARCH - Multimedia Work"
 date: 2025-03-17
 categories: 
@@ -41,7 +41,7 @@ The end of Caesar’s reign over the Republic symbolised the death of the Republ
 
 _Author: Sam Wild (Chief Arts Columnist)_
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/pxl_20250316_1654242013-1.jpg?w=652)
+![](/images/uploads/2025/03/pxl_20250316_1654242013-1.jpg)
 
 ## The Fall of Julius Caesar
 

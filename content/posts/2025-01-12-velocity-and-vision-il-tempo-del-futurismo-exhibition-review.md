@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/the-sun-rising-sun.jpg?w=800"
+image: "/images/uploads/2025/01/the-sun-rising-sun.jpg"
 title: "Velocity and Vision: “Il Tempo del Futurismo\" Exhibition Review"
 date: 2025-01-12
 categories: 
@@ -39,7 +39,7 @@ As one enters the first rooms of the exhibition the Italian Divisionist movement
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/the-sun-rising-sun.jpg?w=800)
+![](/images/uploads/2025/01/the-sun-rising-sun.jpg)
 
 <figcaption>
 
@@ -51,7 +51,7 @@ Volpedo, Rising Sun, 1904
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/balla-street-light.jpg?w=673)
+![](/images/uploads/2025/01/balla-street-light.jpg)
 
 <figcaption>
 
@@ -71,7 +71,7 @@ The key Futurists are introduced early on. Umberto Boccioni and Balla emerged as
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/1000033066.jpg?w=1024)
+![](/images/uploads/2025/01/1000033066.jpg)
 
 <figcaption>
 
@@ -89,7 +89,7 @@ In this part of the exhibition, the curators really show us the philosophical de
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/main-image.jpeg?w=819)
+![](/images/uploads/2025/01/main-image.jpeg)
 
 <figcaption>
 
@@ -109,7 +109,7 @@ Another intelligent link made in this exhibition is with the Italian innovator o
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/1000033086.jpg?w=769)
+![](/images/uploads/2025/01/1000033086.jpg)
 
 <figcaption>
 
@@ -125,7 +125,7 @@ Balla is at his best here when he adds some symmetry and harmony to his abstract
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/1000033096.jpg?w=978)
+![](/images/uploads/2025/01/1000033096.jpg)
 
 <figcaption>
 
@@ -143,7 +143,7 @@ They succeed much better in the more sympathetic mediums of graphic design and t
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/coppa-della-pervgina.jpg?w=750)
+![](/images/uploads/2025/01/coppa-della-pervgina.jpg)
 
 <figcaption>
 
@@ -157,7 +157,7 @@ The painting here takes on more rationalised compositions. This may reflect the 
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/1000033105.jpg?w=1024)
+![](/images/uploads/2025/01/1000033105.jpg)
 
 <figcaption>
 
@@ -173,7 +173,7 @@ These questions are not directly answered by the exhibition, and neither is the 
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/1000033124.jpg?w=1024)
+![](/images/uploads/2025/01/1000033124.jpg)
 
 <figcaption>
 
@@ -193,7 +193,7 @@ Here Futurism has a new cause, ‘Aeropainting’, and has allowed itself to dre
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/1000033129.jpg?w=1024)
+![](/images/uploads/2025/01/1000033129.jpg)
 
 <figcaption>
 
@@ -205,7 +205,7 @@ Dottori, The Flyer (1933)
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/1000033130.jpg?w=1024)
+![](/images/uploads/2025/01/1000033130.jpg)
 
 <figcaption>
 
@@ -219,7 +219,7 @@ Gauro Ambrosi, Coming down to the City from the Sky (1933)
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/16990b0e-4ef7-4df9-921e-892bfc9b09d3_570.webp?w=467)
+![](/images/uploads/2025/01/16990b0e-4ef7-4df9-921e-892bfc9b09d3_570.webp)
 
 <figcaption>
 
@@ -237,7 +237,7 @@ But in this, the exhibition presents one with the genius of Tulio Crali, who kep
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/1000033122.jpg?w=900)
+![](/images/uploads/2025/01/1000033122.jpg)
 
 <figcaption>
 
@@ -249,7 +249,7 @@ Tulio Crali, Man and Cosmos, (1933-1934)
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/1000033133.jpg?w=769)
+![](/images/uploads/2025/01/1000033133.jpg)
 
 <figcaption>
 

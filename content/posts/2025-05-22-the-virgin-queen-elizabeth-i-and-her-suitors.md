@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/05/phillip-ii.webp?w=746"
+image: "/images/uploads/2025/05/phillip-ii.webp"
 title: "The Virgin Queen: Elizabeth I and Her Suitors"
 date: 2025-05-22
 tags: 
@@ -20,7 +20,7 @@ Elizabeth I, given her sobriquet the Virgin Queen, was famous for her reluctance
 
 **Age Gap: Philip was six years older**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/05/phillip-ii.webp?w=746)
+![](/images/uploads/2025/05/phillip-ii.webp)
 
 Philip II of Spain was perhaps the most powerful man in Europe. Having inherited the Spanish Empire from his father Charles V, he was also Elizabeth’s former brother-in-law, having been married to her half-sister Mary I until her death. Despite his deep Catholic faith, Philip had supported Elizabeth as Mary’s heir and even backed her when she ascended to the throne. The intention was to continue this support in the form of marriage. Marrying Elizabeth would then have given both Catholicism and Spain a foothold in England, as it was Philip’s intention that Elizabeth would and should convert to his religion. All the while the perennial problem of children remained. Philip only had one at this point, a son named Carlos with his first wife Maria of Portugal. Where Mary had been much older than Philip, and considered by him unattractive (hence his dislike in marrying her) Elizabeth on the other hand was six years younger than himself. Presumably this would have made the conceiving and bearing of children both more likely and more amenable to the King of Spain.
 
@@ -36,7 +36,7 @@ _What Happened to Philip?_ Philip would attempt his notorious invasion of Englan
 
 **Age Gap: Carlos was nearly twelve years younger**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/05/don-carlos.jpg?w=330)
+![](/images/uploads/2025/05/don-carlos.jpg)
 
 Elizabeth clearly wasn’t going to marry her half-sister’s husband, but her stepson may have been an option. Don Carlos of Spain, Prince of the Asturias was Philip’s only living child and heir to the throne. Unfortunately, likely due to being the product of generations of incest, Carlos was physically and mentally disabled. It would become very clear that he was in no fit state to be heir or rule the country. He was initially engaged to Elisabeth of Valois but his father married her instead. Carlos became a potential suitor for Elizabeth I of England but the proposal was never serious, unlike that of his father.
 
@@ -50,7 +50,7 @@ _What Happened to Carlos?_ Carlos was the subject of several more matches before
 
 **Age Gap: Charles was nearly seven years younger**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/05/charles-ii-austris.jpg?w=548)
+![](/images/uploads/2025/05/charles-ii-austris.jpg)
 
 The Habsburgs seemed to want a foothold in England and thus suggested Charles II, Archduke of Austria and son of the Holy Roman Emperor. Like the rest of the Habsburgs, Charles was a Catholic, but known to be tolerant of Protestants. Over several years, there were marriage negotiations between the nations. It was expected, however, that Charles would inherit the English throne should Elizabeth die without an heir. Elizabeth continued to negotiate as she had with Philip, but she never wanted to marry a Catholic. In 1568, the proposals fell through.
 
@@ -76,7 +76,7 @@ _What happened to Frederick?_ Frederick eventually married his cousin Sophie of 
 
 **Age Gap: Charles was seven years younger**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/05/charles-ix-france.jpeg?w=192)
+![](/images/uploads/2025/05/charles-ix-france.jpeg)
 
 Another Catholic suitor was Charles IX of France. A manuscript from 1563 exists that discusses a possible marriage between the pair. Whilst Charles was a Catholic, he was also tolerant, having granted Huguenots special privileges. Nothing serious came of it though.
 
@@ -114,7 +114,7 @@ _What Happened to Francis?_ Francis died of malaria in 1584, having been shamed 
 
 **Age Gap: Ivan was three years older**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/05/ivan-iv.avif?w=1024)
+![](/images/uploads/2025/05/ivan-iv.avif)
 
 Ivan IV, first Tsar of Russia, might be an unfamiliar name, but Ivan the Terrible is not. Ivan had been twice married prior to 1570. He’d loved his first wife Anastasia deeply and it was her death that drove him mad. His second marriage to a woman named Maria was, unsurprisingly, less successful. Though the father of two living sons, Ivan proposed to Elizabeth in around 1570. This was highly unusual, as all Russian consorts until this point had been Russian themselves, and had to be Orthodox. Elizabeth rejected the proposal. 
 
@@ -176,7 +176,7 @@ _What Happened To Emmanuel?_ Emmanuel had a storied political career and was a c
 
 **Age Gap: Hamilton was four years younge**r
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/05/hamilton.jpg?w=633)
+![](/images/uploads/2025/05/hamilton.jpg)
 
 Upon Elizabeth I’s ascension in 1558, an Anglo-Scottish alliance was suggested through a match with Lord James Hamilton, son of the Earl of Arran. Hamilton had previously been a potential suitor for Mary, Queen of Scots. Elizabeth rejected the proposal.
 
@@ -192,7 +192,7 @@ _What Happened to Hamilton?_  Hamilton would pursue Mary in later years, as wel
 
 **Age Gap: Dudley was a year older**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/05/dudley.jpg?w=616)
+![](/images/uploads/2025/05/dudley.jpg)
 
 We start with Robert Dudley, the man most likely to be called the love of Elizabeth I’s life and the one she would have likely married had it been an option. Robert Dudley was an old friend of Elizabeth’s and son of the Duke of Northumberland and brother of Lord Guildford Dudley, both of whom had been executed for treason. Dudley had wed Amy Robsart in 1550 but had been imprisoned following his family’s actions. He was returned to favour following Elizabeth’s ascension. Dudley became close to Elizabeth and many believed that they were in love. Amy did not stay with Dudley in London but this was usual, as most courtier’s wives lived away unless they were ladies-in-waiting. Gossip was rife but the catalyst came when Amy died suddenly in 1560. Amy was suffering from a severe case of breast cancer, so it’s believed that she fell down the stairs due to brittle bones. Even so, rumours swirled that she had been murdered or killed herself out of jealousy. If she had committed suicide, it would have been due to her severe depression. Elizabeth and Dudley waited, but he had a poor reputation beyond his wife’s death. After several years, Elizabeth was forced to give up any chance of marrying Dudley.
 
@@ -242,7 +242,7 @@ _What Happened To Pickering?_  Pickering continued to enjoy prominence in Eliza
 
 **Age Gap: Devereux was thirty-two years younger**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/05/essex.jpg?w=801)
+![](/images/uploads/2025/05/essex.jpg)
 
 We finish with the suitor with the most shocking end. Following Robert Dudley’s death in 1588, a new favourite rose: Robert Devereux, the queen’s first cousin twice-removed. He had managed to charm her before then, but Dudley’s death allowed Devereux the top job. Despite his proximity to the Queen, Devereux showed her disregard, such as turning his back to her, and was known to be power hungry. In 1599, the Queen sent Devereux to Ireland. He failed and returned early, much to the Queen’s surprise. Devereux lost his political offices as a result. 
 

@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/paja_jovanovic-takovo-uprising.jpg?w=1024"
+image: "/images/uploads/2025/01/paja_jovanovic-takovo-uprising.jpg"
 title: "Fall of the Ottoman Empire in the Long 19th Century – Part 1: Revolutions in the Balkans"
 date: 2025-01-20
 tags: 
@@ -32,7 +32,7 @@ The Ottoman Empire at the turn of the 19th century was reeling from two military
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/paja_jovanovic-takovo-uprising.jpg?w=1024)
+![](/images/uploads/2025/01/paja_jovanovic-takovo-uprising.jpg)
 
 <figcaption>
 
@@ -50,7 +50,7 @@ These armies eventually turned their attention away from the rebellious _Dahije_
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/dositejobradovic-portrait.png?w=308)
+![](/images/uploads/2025/01/dositejobradovic-portrait.png)
 
 <figcaption>
 
@@ -74,7 +74,7 @@ The rebellion in Serbia would send shockwaves throughout the Orthodox Balkans wi
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/scene_des_massacres_de_scio_eugene_delacroix_-_musee_du_louvre_peintures_inv_3823__c3.jpg?w=862)
+![](/images/uploads/2025/01/scene_des_massacres_de_scio_eugene_delacroix_-_musee_du_louvre_peintures_inv_3823__c3.jpg)
 
 <figcaption>
 
@@ -104,7 +104,7 @@ The exiled Greek prince Alexandros Ypsilantis, who had spent years as a cavalry 
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/eugene_ferdinand_victor_delacroix_017.jpg?w=680)
+![](/images/uploads/2025/01/eugene_ferdinand_victor_delacroix_017.jpg)
 
 <figcaption>
 
@@ -124,7 +124,7 @@ The massacres of civilians were common amongst Turks and Greeks alike, adding in
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/the-reception-of-lord-byron-at-missolonghi.jpg?w=800)
+![](/images/uploads/2025/01/the-reception-of-lord-byron-at-missolonghi.jpg)
 
 <figcaption>
 
@@ -142,7 +142,7 @@ While British philhellenes had managed to send money in the form of loans, after
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/navarino.jpg?w=1024)
+![](/images/uploads/2025/01/navarino.jpg)
 
 <figcaption>
 

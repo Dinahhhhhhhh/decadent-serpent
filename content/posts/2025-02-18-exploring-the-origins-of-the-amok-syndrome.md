@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/fig02-1.png?w=433"
+image: "/images/uploads/2025/02/fig02-1.png"
 title: "Exploring the Origins of The Amok Syndrome"
 date: 2025-02-18
 tags: 
@@ -29,7 +29,7 @@ This account shows the disorganised nature of the phenomenon, where people would
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/fig02-1.png?w=433)
+![](/images/uploads/2025/02/fig02-1.png)
 
 <figcaption>
 
@@ -59,7 +59,7 @@ Amok became the defining feature of the Malay in the Western imagination, with H
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/sir-hugh-clifford.jpg?w=610)
+![](/images/uploads/2025/02/sir-hugh-clifford.jpg)
 
 <figcaption>
 

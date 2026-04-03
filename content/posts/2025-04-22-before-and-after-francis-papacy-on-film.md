@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/mv5bnzrhzmnjmzmtnti3ms00y2i3ltgzzmqtnmqwm2m2ngflnzrhxkeyxkfqcgdeqxryyw5zy29kzs13b3jrzmxvdw4040._v1_.jpg?w=1024"
+image: "/images/uploads/2025/04/mv5bnzrhzmnjmzmtnti3ms00y2i3ltgzzmqtnmqwm2m2ngflnzrhxkeyxkfqcgdeqxryyw5zy29kzs13b3jrzmxvdw4040._v1_.jpg"
 title: "Before And After: Francis’ Papacy On Film"
 date: 2025-04-22
 categories: 
@@ -28,7 +28,7 @@ Two very interesting films have been made about Vatican politics during his papa
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/mv5bnzrhzmnjmzmtnti3ms00y2i3ltgzzmqtnmqwm2m2ngflnzrhxkeyxkfqcgdeqxryyw5zy29kzs13b3jrzmxvdw4040._v1_.jpg?w=1024)
+![](/images/uploads/2025/04/mv5bnzrhzmnjmzmtnti3ms00y2i3ltgzzmqtnmqwm2m2ngflnzrhxkeyxkfqcgdeqxryyw5zy29kzs13b3jrzmxvdw4040._v1_.jpg)
 
 <figcaption>
 
@@ -50,7 +50,7 @@ This optimism is nowhere to be seen half a decade later in _Conclave_. The film,
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/mv5bywq3zddimtytzguwmy00mdqwlwi2zgmtndjkmtu1ngy3yme2xkeyxkfqcgc40._v1_.jpg?w=723)
+![](/images/uploads/2025/01/mv5bywq3zddimtytzguwmy00mdqwlwi2zgmtndjkmtu1ngy3yme2xkeyxkfqcgc40._v1_.jpg)
 
 <figcaption>
 

@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/fern-hill.jpeg?w=428"
+image: "/images/uploads/2025/01/fern-hill.jpeg"
 title: "Exploring Dylan Thomas: A Maverick Poet's Legacy"
 date: 2025-01-22
 categories: 
@@ -92,7 +92,7 @@ Thomas’ answer comes in the final stanza, in which the mixed messaging is sett
 
 A similar journey is required to appreciate one of Thomas’ most well-regarded lyrical poems. Originally published in his 1946 collection “Deaths and Entrances,” “Fern Hill” pays homage to the poet’s boyhood memories of the rural Welsh countryside of Carmarthenshire. Fernhill was a farm kept by Thomas’ Aunt Ann in the village of Llangain. The village was where his mother’s family were from, and he often spent summers there while off from school. “Fern Hill” does not follow a traditional structure or rhyme scheme. It consists of six stanzas of nine lines each. Thomas includes some end-stopped rhymes, but the poem also has half rhymes and internal rhymes. Here is “Fern Hill” in its entirety: 
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/fern-hill.jpeg?w=428)
+![](/images/uploads/2025/01/fern-hill.jpeg)
 
 Stunning in its beauty and rapturous music, Thomas recreates the joy and freedom of childhood. The first two stanzas establish the rhythm with varying internal and end-stopped rhymes. Several features catch the eye. First, the poem moves in a repeating pattern of tension and release: its lines are less indented on the page. The pattern consists of two opening lines of 14 syllables each followed by shorter lines of differing length. The longest lines receive no indentation. But the shorter the line, the further its place across the page. From stanza to stanza, this creates a push-and-pull visual effect. The effect illustrates an effort to give the poem a living, breathing quality. This quality is also strengthened by assonance and alliteration. Interestingly, assonance often accompanies internal rhyme in “Fern Hill,” increasing the tempo and collapsing the delay between rhymes. We sense the urgency of childhood energy in “... once below a time I lordly had the trees and leaves/ trail daisies and barley/ down the rivers of the windfall light.” The enjambed lines here accelerate the reading, a trend we see with alliteration, too. Thomas writes “... green and golden I was huntsman and herdsman, the calves/ sang to my horn, the foxes on the hills barked clear and cold.” Perhaps more than the assonance, the repetition of the aspirated consonants /h/ and the hard /c/ enliven the poem because they imitate the breathless running of the young Thomas. Another example of this is “house high hay,” which simulates his racing thoughts and wishes. Though not immediately obvious on first reading, these visuospatial and linguistic techniques capture the essence of childhood, its well of boundless energy and dreams. 
 
@@ -108,7 +108,7 @@ Time follows innocence, as it is compressed into “... the sun born over and ov
 
 The final, and perhaps most famous, poem we examine is “Do not go gentle into that good night.” Written for his dying father and first published in the Italian journal “Botteghe Oscure” in 1951, the poem is a villanelle in iambic pentameter. As a French poetic form, a villanelle is written in tercets with five stanzas before a quatrain. The first and third lines repeat alternately, while in the quatrain they form a couplet. Rhyming _aba abaa_, here is “Do not go gentle into that good night” in its entirety:
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/d3gxcoaxkaex1dt.jpg?w=1000)
+![](/images/uploads/2025/01/d3gxcoaxkaex1dt.jpg)
 
 It’s easy to see why, if someone doesn’t know any other poems by Thomas or even who he is, they know this one. A masterpiece of raw emotion rendered in the strictures of form, Thomas comforts his father with love, stoicism, and poise. Though the poem addresses the wise, the good, the wild, and the grave, these serve as emotional signposts on his father’s road to death. The poem opens with a storm of anger. News of Jack’s diagnosis of throat cancer in mid-1933 affected both father and son. Jack continued to teach and share his love of literature, but Dylan embarked on arguably the most prolific period of his life. The mid to late 30s saw the publications of “18 Poems,” “25 Poems,” and “The Map of Love.” The intense feelings here certainly belong to both, though we sense Dylan’s devastation from the outset. Gradually, the burning and raving cools. Wisdom takes its place. As a teacher of English literature, Jack’s career was limited to the classroom while encouraging Dylan’s interest in writing. Accepting his “...words had forked no lightning” implies wisdom is tempered by the pain of foiled ambition.
 

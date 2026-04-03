@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/6ba0491d-1b13-4a0a-8bb4-911e83b1016d_338-1.jpeg?w=271"
+image: "/images/uploads/2025/02/6ba0491d-1b13-4a0a-8bb4-911e83b1016d_338-1.jpeg"
 title: "Subterfuge"
 date: 2025-02-21
 categories: 
@@ -13,7 +13,7 @@ _Author: Cameron Aitken._
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/6ba0491d-1b13-4a0a-8bb4-911e83b1016d_338-1.jpeg?w=271)
+![](/images/uploads/2025/02/6ba0491d-1b13-4a0a-8bb4-911e83b1016d_338-1.jpeg)
 
 <figcaption>
 

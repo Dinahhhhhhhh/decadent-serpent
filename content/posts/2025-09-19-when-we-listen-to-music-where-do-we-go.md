@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/09/image-12.png?w=747"
+image: "/images/uploads/2025/09/image-12.png"
 title: "When We Listen To Music, Where Do We Go?"
 date: 2025-09-19
 categories: 
@@ -28,7 +28,7 @@ I think a lot of how we feel and who we are lays deep beneath the bed of the art
 
 In the past few weeks, I’ve managed to launch my own radio show with [Epsom Hospital Radio](https://www.epsomhospitalradio.org.uk/on-air/presenters/adam-gorecki) where I’ve began to explore this very topic. Each week, I’ll invite a guest who is encouraged to provide and discuss ten of their favourite songs for us to play. I allow lots of space for casual, relaxed conversation around the topic, much like overhearing a few people at the local pub discuss their favourite records. I encourage honesty, authenticity and an open mind.
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/09/image-12.png?w=747)
+![](/images/uploads/2025/09/image-12.png)
 
 Streaming services are great for replaying the songs we already know and love, but radio still offers a more curated way to discover new genres, artists, and conversations (if the show is any good). Ultimately, we still need radio to retain a more humanitarian relationship with music, and with people for that matter.
 

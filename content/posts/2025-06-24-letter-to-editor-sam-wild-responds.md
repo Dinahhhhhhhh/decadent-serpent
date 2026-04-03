@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-29.png?w=670"
+image: "/images/uploads/2025/06/image-29.png"
 title: "Letter to Editor: Sam Wild Responds"
 date: 2025-06-24
 categories: 
@@ -32,7 +32,7 @@ On the latter point, it is no argument against Deco that it is connected to post
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-29.png?w=670)
+![](/images/uploads/2025/06/image-29.png)
 
 <figcaption>
 
@@ -54,7 +54,7 @@ This is part of a larger characteristic of Modernism _per se_ — the self-consc
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-32.png?w=710)
+![](/images/uploads/2025/06/image-32.png)
 
 <figcaption>
 
@@ -68,7 +68,7 @@ It was from here that painting, drawing, and sculpture increasingly left the ide
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-31.png?w=900)
+![](/images/uploads/2025/06/image-31.png)
 
 <figcaption>
 
@@ -94,7 +94,7 @@ This is the force that will do Man’s design for him if we do not. Art Deco pre
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-30.png?w=701)
+![](/images/uploads/2025/06/image-30.png)
 
 <figcaption>
 

@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/img_8589-1.jpg?w=775"
+image: "/images/uploads/2025/08/img_8589-1.jpg"
 title: "Fallen Leaves"
 date: 2025-08-10
 categories: 
@@ -20,7 +20,7 @@ He finds the greenest in the ditch, strays ofSouthern oak, late crazing of the w
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/img_8589-1.jpg?w=775)
+![](/images/uploads/2025/08/img_8589-1.jpg)
 
 <figcaption>
 

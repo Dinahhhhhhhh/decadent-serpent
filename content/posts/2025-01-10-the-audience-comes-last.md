@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/1_enqa2xb6vsyt9txsedgvra.webp?w=1024"
+image: "/images/uploads/2025/01/1_enqa2xb6vsyt9txsedgvra.webp"
 title: "The Audience Comes Last."
 date: 2025-01-10
 tags: 
@@ -27,7 +27,7 @@ Particularly, I’ve taken plenty from none other than Rick Rubin.
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/1_enqa2xb6vsyt9txsedgvra.webp?w=1024)
+![](/images/uploads/2025/01/1_enqa2xb6vsyt9txsedgvra.webp)
 
 <figcaption>
 
@@ -55,7 +55,7 @@ It’s something that I feel is truly crucial towards any activity you choose to
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/tumblr_inline_o9sugz0wxe1tclbiu_1280.jpg?w=1024)
+![](/images/uploads/2025/01/tumblr_inline_o9sugz0wxe1tclbiu_1280.jpg)
 
 <figcaption>
 
@@ -75,7 +75,7 @@ Despite initial criticisms, the song ended up receiving countless requests from 
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/johnny-cash-09w.jpg?w=600)
+![](/images/uploads/2025/01/johnny-cash-09w.jpg)
 
 <figcaption>
 
@@ -95,7 +95,7 @@ The proposal was for Rick and Cash to work together under the condition that the
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/johnny-cash-facts-8.jpeg?w=831)
+![](/images/uploads/2025/01/johnny-cash-facts-8.jpeg)
 
 <figcaption>
 
@@ -119,7 +119,7 @@ Each day, we have the choice to regurgitate, or go on an adventure to find somet
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/kanye808s.jpeg?w=1024)
+![](/images/uploads/2025/01/kanye808s.jpeg)
 
 <figcaption>
 

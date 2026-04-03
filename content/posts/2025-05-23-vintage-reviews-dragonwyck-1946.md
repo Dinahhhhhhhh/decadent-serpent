@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/05/image-3.png"
+image: "/images/uploads/2025/05/image-3.png"
 title: "Vintage Reviews: 'Dragonwyck' (1946)"
 date: 2025-05-23
 categories: 
@@ -11,7 +11,7 @@ tags:
   - "vintage-film"
 ---
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/05/image-3.png)
+![](/images/uploads/2025/05/image-3.png)
 
 **_Dragonwyck_** is a 1946 American [period drama](https://en.wikipedia.org/wiki/Period_drama) film by [Twentieth Century-Fox](https://en.wikipedia.org/wiki/Twentieth_Century-Fox). It was directed by [Joseph L. Mankiewicz](https://en.wikipedia.org/wiki/Joseph_L._Mankiewicz), and produced by [Darryl F. Zanuck](https://en.wikipedia.org/wiki/Darryl_F._Zanuck) and [Ernst Lubitsch](https://en.wikipedia.org/wiki/Ernst_Lubitsch) (uncredited), from a [screenplay](https://en.wikipedia.org/wiki/Screenplay) by Mankiewicz, based on the novel of the same name. The music score was by [Alfred Newman](https://en.wikipedia.org/wiki/Alfred_Newman_\(composer\)), and the cinematography by [Arthur C. Miller](https://en.wikipedia.org/wiki/Arthur_C._Miller).
 
@@ -21,7 +21,7 @@ Servants claim the Van Ryn bloodline is cursed as only they can hear a harpsicho
 
 Nicholas tells Miranda he was unhappy that his wife, Johanna, was unable to bear him a son after Katrine's birth left her unable to have more children. He also admits having romantic feelings for Miranda. She reciprocates his feelings, but returns to Greenwich. Two months later, Nicholas arrives and proposes marriage. Miranda's parents reluctantly consent. Nicholas is thrilled when Miranda becomes pregnant soon after the wedding, but they quarrel over her simple faith in a God as the semi-feudal system of patroon landownership and tenancy crumbles around him. When their infant son dies immediately after being baptised, a heartbroken and embittered Nicholas isolates himself in the attic and becomes a drug addict. Peg O'Malley, Miranda's loyal maid, fears for Miranda's life and calls upon Dr. Turner for help.
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/05/image-2.png?w=723)
+![](/images/uploads/2025/05/image-2.png)
 
 The film is interesting in how it does not present the Christian beliefs of Miranda’s family as a joke, or as a symbol of being backwards and uneducated. Miranda’s childhood beliefs are, however, not something she always follows or lives up to, and the viewer is often left considering if maybe her ‘backwards’ parents are right all along.
 

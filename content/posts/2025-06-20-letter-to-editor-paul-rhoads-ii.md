@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-20.png?w=680"
+image: "/images/uploads/2025/06/image-20.png"
 title: "Letter to Editor: Paul Rhoads II"
 date: 2025-06-20
 categories: 
@@ -27,7 +27,7 @@ Should we, on one hand, walk in the footsteps of Ruhlmann whose early work was l
 
 <figure>
 
-![Sculpture by Maillol](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-20.png?w=680)
+![Sculpture by Maillol](/images/uploads/2025/06/image-20.png)
 
 <figcaption>
 
@@ -41,7 +41,7 @@ Fen names certain sculptors who used a certain style which at the time was thoug
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-21.png?w=680)
+![](/images/uploads/2025/06/image-21.png)
 
 <figcaption>
 
@@ -55,7 +55,7 @@ Art Deco was not a movement in the same sense as Impressionism or Cubism which w
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-19.png?w=317)
+![](/images/uploads/2025/06/image-19.png)
 
 <figcaption>
 
@@ -69,7 +69,7 @@ As I mentioned in my first letter, one manner of painting in the 20s and 30s was
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-22.png?w=646)
+![](/images/uploads/2025/06/image-22.png)
 
 <figcaption>
 

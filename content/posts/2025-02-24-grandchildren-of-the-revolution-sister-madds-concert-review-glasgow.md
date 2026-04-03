@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/4.jpg?w=683"
+image: "/images/uploads/2025/02/4.jpg"
 title: "Grandchildren of the Revolution - Sister Madds Concert Review, Glasgow"
 date: 2025-02-24
 categories: 
@@ -22,7 +22,7 @@ Did you spend £200 on an Oasis ticket? You stupid prick! For £11 I not only sa
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/4.jpg?w=683)
+![](/images/uploads/2025/02/4.jpg)
 
 <figcaption>
 
@@ -38,7 +38,7 @@ Being the first time, I saw them live, I couldn’t help observing that they’r
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/2.jpg?w=683)
+![](/images/uploads/2025/02/2.jpg)
 
 <figcaption>
 

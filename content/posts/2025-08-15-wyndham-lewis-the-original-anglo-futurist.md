@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/image-14.png?w=1024"
+image: "/images/uploads/2025/08/image-14.png"
 title: "WYNDHAM LEWIS: THE ORIGINAL ANGLO-FUTURIST?"
 date: 2025-08-15
 categories: 
@@ -59,7 +59,7 @@ The rejection of Impressionism, which the Italian avant-gardists were keen to em
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/image-14.png?w=1024)
+![](/images/uploads/2025/08/image-14.png)
 
 <figcaption>
 
@@ -79,7 +79,7 @@ For Lewis’s friend, Ezra Pound, the early paintings by Lewis and the sculpture
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/image-15.png?w=547)
+![](/images/uploads/2025/08/image-15.png)
 
 <figcaption>
 
@@ -101,7 +101,7 @@ Vorticism’s jagged forms, sharply delimited by straight lines or geometric arc
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/image-16.png?w=823)
+![](/images/uploads/2025/08/image-16.png)
 
 <figcaption>
 
@@ -115,7 +115,7 @@ For Lewis, the vortex could thus be defined as a “great silent place” at the
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/image-17.png?w=630)
+![](/images/uploads/2025/08/image-17.png)
 
 <figcaption>
 
@@ -129,7 +129,7 @@ Russolo’s _The Revolt_ (1911) transposes this declaration onto the canvas, emp
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/image-18.png?w=454)
+![](/images/uploads/2025/08/image-18.png)
 
 <figcaption>
 
@@ -163,7 +163,7 @@ Lewis, of course, was alive to this charge, as evidenced by a series of late-car
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/image-19.png?w=735)
+![](/images/uploads/2025/08/image-19.png)
 
 <figcaption>
 

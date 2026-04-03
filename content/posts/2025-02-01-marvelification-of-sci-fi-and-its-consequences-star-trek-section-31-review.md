@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/starfleet_scanner2c_2151-1.jpeg?w=1000"
+image: "/images/uploads/2025/02/starfleet_scanner2c_2151-1.jpeg"
 title: "Marvelification of Sci-fi and its Consequences – Star Trek: Section 31 Review"
 date: 2025-02-01
 categories: 
@@ -36,7 +36,7 @@ Additionally, the retcons unfortunately mean that this is no longer canon, and i
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/starfleet_scanner2c_2151-1.jpeg?w=1000)
+![](/images/uploads/2025/02/starfleet_scanner2c_2151-1.jpeg)
 
 <figcaption>
 
@@ -48,7 +48,7 @@ Star Trek: Enterprise 'Hand Scanner'
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/screenshot-2025-02-01-at-10.27.33.jpg?w=1024)
+![](/images/uploads/2025/02/screenshot-2025-02-01-at-10.27.33.jpg)
 
 <figcaption>
 
@@ -60,7 +60,7 @@ Star Trek: Section 31 Tricorder
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/images-2.jpeg?w=214)
+![](/images/uploads/2025/02/images-2.jpeg)
 
 <figcaption>
 

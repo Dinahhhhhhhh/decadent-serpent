@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/lord_byron_in_albanian_dress_by_phillips_1813.jpg?w=811"
+image: "/images/uploads/2025/02/lord_byron_in_albanian_dress_by_phillips_1813.jpg"
 title: "The Bandits That Birthed the Byronic Ideal"
 date: 2025-02-22
 tags: 
@@ -27,7 +27,7 @@ Arriving in the capital of Ali Pasha, the youthful envoys were confronted with t
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/lord_byron_in_albanian_dress_by_phillips_1813.jpg?w=811)
+![](/images/uploads/2025/02/lord_byron_in_albanian_dress_by_phillips_1813.jpg)
 
 <figcaption>
 
@@ -51,7 +51,7 @@ These bandits were unlike others infecting the highways of Europe. Not purely 
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/the_souliot_women_1827.jpg?w=820)
+![](/images/uploads/2025/02/the_souliot_women_1827.jpg)
 
 <figcaption>
 

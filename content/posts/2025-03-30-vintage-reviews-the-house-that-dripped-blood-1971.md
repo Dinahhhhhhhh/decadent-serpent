@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/fgddsvac.png"
+image: "/images/uploads/2025/03/fgddsvac.png"
 title: "Vintage Reviews: The House That Dripped Blood (1971)"
 date: 2025-03-30
 categories: 
@@ -19,7 +19,7 @@ tags:
 
 _Author: Shieldmaiden_
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/fgddsvac.png)
+![](/images/uploads/2025/03/fgddsvac.png)
 
 _The House That Dripped Blood_ is a 1971 British horror film directed by [Peter Duffell](https://en.wikipedia.org/wiki/Peter_Duffell). Starring [Christopher Lee](https://en.wikipedia.org/wiki/Christopher_Lee), [Peter Cushing](https://en.wikipedia.org/wiki/Peter_Cushing), [Nyree Dawn Porter](https://en.wikipedia.org/wiki/Nyree_Dawn_Porter), [Denholm Elliott](https://en.wikipedia.org/wiki/Denholm_Elliott), and [Jon Pertwee](https://en.wikipedia.org/wiki/Jon_Pertwee). The film is a collection of four short stories concerning a series of inhabitants of an old house. All of the stories were originally written, and subsequently scripted, by [Robert Bloch](https://en.wikipedia.org/wiki/Robert_Bloch).
 
@@ -31,7 +31,7 @@ Shortly after renting an old country house, film star Paul Henderson mysteriousl
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/picture-1.png?w=712)
+![](/images/uploads/2025/03/picture-1.png)
 
 <figcaption>
 
@@ -45,7 +45,7 @@ Charles Hillyer, a writer who specialises in horror stories, and his wife Alice,
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/picture-2.png?w=414)
+![](/images/uploads/2025/03/picture-2.png)
 
 <figcaption>
 
@@ -59,7 +59,7 @@ Retired stockbroker Philip Grayson moves into the house. Though initially he occ
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/4.jpg?w=1024)
+![](/images/uploads/2025/03/4.jpg)
 
 <figcaption>
 
@@ -73,7 +73,7 @@ Widower John Reid moves in with his daughter Jane. John hires former teacher Ann
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/6.jpg?w=1024)
+![](/images/uploads/2025/03/6.jpg)
 
 <figcaption>
 

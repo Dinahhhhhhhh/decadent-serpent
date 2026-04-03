@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/oip.jpg?w=474"
+image: "/images/uploads/2025/04/oip.jpg"
 title: "Top Summer Albums to Revive Your Playlist in 2025"
 date: 2025-05-01
 ---
@@ -16,13 +16,13 @@ Today, however, I wanted to share some of my own. These may typically be project
 
 Nothing describes excitement quite like driving your car with the windows down for the first sunny day of the year; with the wind in your hair, one arm leaning on the door and the other firmly on the wheel. Moreover, one of the first things that I'd learnt when first passing my driving test was the free will and blank canvas of an open road and a reliable motor.
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/oip.jpg?w=474)
+![](/images/uploads/2025/04/oip.jpg)
 
 German EDM pioneers, Kraftwerk, articulated this freedom within the format of a concept album - Autobahn. The band were famous for being one of the first to use a synthesiser in their work, popularising the electronic genre in the early 70s. The album sonically ushers you through a car journey on Germany's Autobahn, a theme inspired by the bands pure love for driving on the roads. With minimal lyrics, the album prioritises its instrumentation, with the bands calming synths and funky drum machines guiding you throughout the German highways. Although it was considered the bands first big leap into the electric genre from formerly being heavily associated with Germany's krautrock scene, this album features a variety of non electrical instruments such as the violin, the guitar and even the flute! What I personally love about this project is that it doesn't ask too much of you as a listener, it merely offers a peaceful electronic instrumental that purely defines the spirit of driving on a warm summers day in Germany.
 
 ## Flower Boy - Tyler, The Creator _**(2017)**_
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/qmp9ez4rbp861.webp?w=1024)
+![](/images/uploads/2025/04/qmp9ez4rbp861.webp)
 
 There is a lot more that comes with summer than simply the sun and freshly cut grass. Summer is traditionally known as a season of opportunity. A time to get out of the house and meet people, go places, fall in love, make mistakes and maybe even learn something new about yourself. On a surface level, Tyler, The Creator's first mangum-opus that would eventually be followed by a generational run of classic albums, Flower Boy, is an elegant embrace of summer adventure. However, it won't take many listens to appreciate the depth that this project offers, in fact, it could take several to fully appreciate this masterpiece. Following the theme of car journeys, Tyler uses a car journey as a metaphor to depict the exploration of his own character throughout a particular summer. The opportunity for loneliness, materialism, desire, heartbreak, sexuality and nostalgia are all discovered and are equally at stake on this project.
 
@@ -32,7 +32,7 @@ As a whole, the album compliments itself with a fair distribution of hit singles
 
 ## Ram - Paul and Linda McCartney _**(1970)**_
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/r.jpg?w=1024)
+![](/images/uploads/2025/04/r.jpg)
 
 The nonsensical silliness of McCartney was a creative maneuver so demanding that it essentially tore The Beatles apart in 1970. It left listeners bickering where the line of genius sat, and whether at this stage of his career, McCartney was still crossing it.
 
@@ -44,7 +44,7 @@ Despite critical backlash upon release, tracks such as Ram On, Dear Boy, Uncle A
 
 ## Daisies Of The Galaxy - Eels _**(2000)**_
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/eels-daisies_of_the_galaxy-1.jpg?w=1000)
+![](/images/uploads/2025/04/eels-daisies_of_the_galaxy-1.jpg)
 
 Eels are incredibly masterful at producing bold concoctions of 2000s rock, bold brass orchestras, grotesquely delicate vocals and insightful lyrics - followed by a lighthearted ukulele.
 
@@ -54,7 +54,7 @@ Songs such as 'I Like Birds', 'Packing Blankets' 'Mr E's Beautiful Blues' are th
 
 ## Sound & Color - Alabama Shakes _**(2015)**_
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/oip-1.jpg?w=474)
+![](/images/uploads/2025/04/oip-1.jpg)
 
 This project is an encapsulation of the soulful wilderness of the South. 'Soul' is the keyword here. Soul implies a deep and complex pallet of colors, where each mix is inexplainable, incomparable and untouchable. In this obscurity, Alabama Shakes produce and outstandingly daring and untamed representation of freedom. It takes their influence of Southern Rock and Soul, and utilises the demanding voice of Brittany Howard to reinvent and remerge the two genres into something courageously elegant. What that fabricates is an intrinsically exciting and rather charming listening experience.
 
@@ -64,7 +64,7 @@ It's a summer album because it's too colourful not to be.
 
 ## Sunny Side Up - Paolo Nutini _**(2009)**_
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/r-1.jpg?w=1024)
+![](/images/uploads/2025/04/r-1.jpg)
 
 I leave this one till last as it is an album that I would never forgive myself if I left it off this list. Paolo's Sunny Side Up lives and breaths the essence of Summer. Not only by the homely aura that it carries, the wholesome and heartfelt lyrics, groovy and folky instrumentation or the ancient crackle in a young mans voice.
 

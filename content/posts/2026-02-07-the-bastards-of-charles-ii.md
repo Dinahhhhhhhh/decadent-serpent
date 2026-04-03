@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2026/02/image-14.png?w=500"
+image: "/images/uploads/2026/02/image-14.png"
 title: "The Bastards of Charles II"
 date: 2026-02-07
 tags: 
@@ -20,7 +20,7 @@ They are: 
 
 **Born: 1649**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2026/02/image-14.png?w=500)
+![](/images/uploads/2026/02/image-14.png)
 
 **Mother: Lucy Walter**
 
@@ -44,7 +44,7 @@ The Monmouth title was made extinct and his wife gave up her title in favour of 
 
 **Born: c. 1650** 
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2026/02/image-2.png?w=338)
+![](/images/uploads/2026/02/image-2.png)
 
 **Mother: Elizabeth Killigrew, Viscountess Shannon**
 
@@ -62,7 +62,7 @@ Little is known about Charlotte, who died aged thirty-three or thirty-four on th
 
 **Born: c. 1657**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2026/02/image-3.png?w=348)
+![](/images/uploads/2026/02/image-3.png)
 
 **Mother: Catherine Pegge, Lady Green**
 
@@ -94,7 +94,7 @@ We know almost nothing of Catherine’s life. There are two schools of thought. 
 
 **Born: 1661**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2026/02/image-4.png?w=719)
+![](/images/uploads/2026/02/image-4.png)
 
 **Mother: Barbara Palmer, 1st Duchess of Cleveland and Countess of Castlemaine** 
 
@@ -114,7 +114,7 @@ As their sons predeceased him, the earldom died with Lord Sussex when he passed 
 
 **Born: 1662**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2026/02/image-5.png?w=350)
+![](/images/uploads/2026/02/image-5.png)
 
 **Mother: Barbara Palmer, 1st Duchess of Cleveland and Countess of Castlemaine** 
 
@@ -132,7 +132,7 @@ Charles wed Anne Pulteney, daughter of an MP, in 1694. They had six children- th
 
 **Born: 1663**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2026/02/image-6.png?w=500)
+![](/images/uploads/2026/02/image-6.png)
 
 **Mother: Barbara Palmer, 1st Duchess of Cleveland and Countess of Castlemaine** 
 
@@ -150,7 +150,7 @@ A member of the Navy, Charles died on the 9th October 1690 during the Storming o
 
 **Born: 1664**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2026/02/image-7.png?w=580)
+![](/images/uploads/2026/02/image-7.png)
 
 **Mother: Barbara Palmer, 1st Duchess of Cleveland and Countess of Castlemaine** 
 
@@ -168,7 +168,7 @@ Like most of her family, Charlotte and her husband supported her uncle James ove
 
 **Born: 1665**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2026/02/image-8.png?w=249)
+![](/images/uploads/2026/02/image-8.png)
 
 **Mother: Barbara Palmer, 1st Duchess of Cleveland and Countess of Castlemaine** 
 
@@ -186,7 +186,7 @@ George died suddenly in 1716. His widow was allowed to live at Frogmore House un
 
 **Born: 1670**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2026/02/image-9.png?w=500)
+![](/images/uploads/2026/02/image-9.png)
 
 **Mother: Nell Gwyn** 
 
@@ -218,7 +218,7 @@ He died young in 1680.
 
 **Born: 1672**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2026/02/image-11.png?w=800)
+![](/images/uploads/2026/02/image-11.png)
 
 **Mother: Barbara Palmer, 1st Duchess of Cleveland and Countess of Castlemaine** 
 
@@ -236,7 +236,7 @@ Barbara became Sister Benedicta and later a prioress. If one believes that her o
 
 **Born: 1672**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2026/02/image-12.png?w=500)
+![](/images/uploads/2026/02/image-12.png)
 
 **Mother: Louise de Kérouaille, 1st Duchess of Portsmouth, Duchess of Aubigny, Baroness Petersfield and Countess of Fareham**
 
@@ -256,7 +256,7 @@ Charles became a cricket patron in his life, but fell into despair and alcoholis
 
 **Born: 1673**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2026/02/image-13.png?w=500)
+![](/images/uploads/2026/02/image-13.png)
 
 **Mother: Moll Davis** 
 

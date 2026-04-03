@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/screenshot-2025-01-10-at-10.15.14.png?w=855"
+image: "/images/uploads/2025/01/screenshot-2025-01-10-at-10.15.14.png"
 title: "Behind the Scenes of Poly Baggage: Interview with Emma Ramsay"
 date: 2025-01-28
 tags: 
@@ -16,7 +16,7 @@ _The interview was conducted by Giulia Prodiguerra._
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/screenshot-2025-01-10-at-10.15.14.png?w=855)
+![](/images/uploads/2025/01/screenshot-2025-01-10-at-10.15.14.png)
 
 <figcaption>
 
@@ -36,7 +36,7 @@ You can certainly expect a lot of heart, figuratively and physically. I think th
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/poly-baggage-still-5-1.png?w=1024)
+![](/images/uploads/2025/01/poly-baggage-still-5-1.png)
 
 <figcaption>
 
@@ -60,7 +60,7 @@ I’d say that supported schemes are really good for this: they’ll interrogate
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/poly-baggage-still-3.png?w=1024)
+![](/images/uploads/2025/01/poly-baggage-still-3.png)
 
 <figcaption>
 
@@ -90,7 +90,7 @@ I don’t personally draw any lines, although I am not a fan of gratuitous gore 
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/poly-baggage-still-1-2.png?w=1024)
+![](/images/uploads/2025/01/poly-baggage-still-1-2.png)
 
 <figcaption>
 
@@ -120,7 +120,7 @@ Definitely not the money or the stability, it’s a labour of love and a complet
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/poly-baggage-still-2-1.png?w=1024)
+![](/images/uploads/2025/01/poly-baggage-still-2-1.png)
 
 <figcaption>
 

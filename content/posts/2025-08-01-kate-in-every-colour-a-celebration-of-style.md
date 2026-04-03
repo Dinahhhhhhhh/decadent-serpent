@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-44.png?w=701"
+image: "/images/uploads/2025/07/image-44.png"
 title: "Kate In Every Colour: A Celebration of Style"
 date: 2025-08-01
 categories: 
@@ -21,7 +21,7 @@ Catherine, Princess of Wales, while the consort of our future king, is the royal
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-44.png?w=701)
+![](/images/uploads/2025/07/image-44.png)
 
 <figcaption>
 
@@ -39,7 +39,7 @@ I’m a big wedding dress obsessive (Say Yes to the Dress’s most loyal viewer)
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-45.png?w=771)
+![](/images/uploads/2025/07/image-45.png)
 
 <figcaption>
 
@@ -55,7 +55,7 @@ Kate wore this classy and clean knee-length Max Mara coat on a visit to a painti
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-46.png?w=665)
+![](/images/uploads/2025/07/image-46.png)
 
 <figcaption>
 
@@ -71,7 +71,7 @@ The new Princess of Wales wore this beautiful black v-neck by Alexander McQueen 
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-47.png?w=642)
+![](/images/uploads/2025/07/image-47.png)
 
 <figcaption>
 
@@ -87,7 +87,7 @@ We don’t have much of Kate in grey, so it was slim pickings. Nevertheless, thi
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-48.png?w=633)
+![](/images/uploads/2025/07/image-48.png)
 
 <figcaption>
 
@@ -103,7 +103,7 @@ We don’t have much of Kate in silver either, but she went for it in September 
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-49.png?w=394)
+![](/images/uploads/2025/07/image-49.png)
 
 <figcaption>
 
@@ -119,7 +119,7 @@ Kate looked like a femme fatale Bond girl in this divine gold Jenny Packham at t
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-50.png?w=683)
+![](/images/uploads/2025/07/image-50.png)
 
 <figcaption>
 
@@ -135,7 +135,7 @@ Yellow is an almost impossible colour to pull off for most people, but Kate wore
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-51.png?w=716)
+![](/images/uploads/2025/07/image-51.png)
 
 <figcaption>
 
@@ -151,7 +151,7 @@ I couldn’t find much of Kate in orange, so I went for the most orange-like red
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-52.png?w=650)
+![](/images/uploads/2025/07/image-52.png)
 
 <figcaption>
 
@@ -167,7 +167,7 @@ Kate first wore this glittery Needle and Thread number to a summit at Buckingham
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-53.png?w=628)
+![](/images/uploads/2025/07/image-53.png)
 
 <figcaption>
 
@@ -183,7 +183,7 @@ Kate doesn’t wear green a lot, but she did for this Beulah coat in January 201
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-54.png?w=634)
+![](/images/uploads/2025/07/image-54.png)
 
 <figcaption>
 
@@ -199,7 +199,7 @@ Whilst Kate’s blue engagement dress from 2010 is quite memorable, I absolutely
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-55.png?w=660)
+![](/images/uploads/2025/07/image-55.png)
 
 <figcaption>
 
@@ -215,7 +215,7 @@ This is one of my favourite Kate looks. She wore this purple Emilia Wickstead nu
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-56.png?w=686)
+![](/images/uploads/2025/07/image-56.png)
 
 <figcaption>
 
@@ -231,7 +231,7 @@ Pink is my favourite colour, baby pink in particular. Kate once again won the Wi
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/07/image-57.png?w=595)
+![](/images/uploads/2025/07/image-57.png)
 
 <figcaption>
 

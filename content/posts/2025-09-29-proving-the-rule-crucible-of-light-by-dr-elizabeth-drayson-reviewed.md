@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/09/image-27.png?w=752"
+image: "/images/uploads/2025/09/image-27.png"
 title: "Proving the Rule: 'Crucible of Light' by Dr Elizabeth Drayson, Reviewed"
 date: 2025-09-29
 categories: 
@@ -60,7 +60,7 @@ The impact of Christian architects in fact stretches both forwards and backwards
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/09/image-27.png?w=752)
+![](/images/uploads/2025/09/image-27.png)
 
 <figcaption>
 

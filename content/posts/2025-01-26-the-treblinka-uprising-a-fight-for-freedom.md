@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/treblinka-extermination-camp.jpg?w=800"
+image: "/images/uploads/2025/01/treblinka-extermination-camp.jpg"
 title: "The Treblinka Uprising: A Fight for Freedom"
 date: 2025-01-26
 tags: 
@@ -31,7 +31,7 @@ Fearing that they would be killed and the camp dismantled based on lesser number
 
 The lower camp group found it easier to escape the watchful eye of the guards and also acquire weapons and organise a conspiracy in the first place. Several plans were formed by prisoners, including those who functioned as _kapos_ in the first camp, but these early plans would hit one logistical obstacle or another. The upper camp found it harder to organise but had a greater urgency to do it. The Sonderkommando were certain that their days were numbered and that their deaths were imminent. They used the leverage of a threat of independent rebellion to get the lower camp to decide on a plan and stick to it, ending the squabbles and debates over plans within the conspirators of the lower camp.
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/treblinka-extermination-camp.jpg?w=800)
+![](/images/uploads/2025/01/treblinka-extermination-camp.jpg)
 
 The 2nd of August was thus decided upon as the date for the beginning of the uprising. The plan was to be kept of the utmost secrecy, and everyone was to be well-drilled to keep it secret. A normal day’s work would commence on the 2nd of August until the signals of two gunshots from the lower camp were given. Individuals were given certain tasks such as stealing guns and killing or distracting the guards and others were given the task of destroying the gas chambers. According to the testimony of one survivor Hershl Sperling, the date was picked as the guards would go to bathe in a lake and guns had been stolen and divided amongst the prisoners the night before.
 
@@ -43,7 +43,7 @@ The signal was also given for the men in the extermination camp to likewise take
 
 ## The Prisoners are Hunted
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/treblinka-photo.jpg?w=1024)
+![](/images/uploads/2025/01/treblinka-photo.jpg)
 
 After their escape, the next stage for the escaped prisoners was to escape to safety. The guards were in pursuit of escapees which meant that they were still in mortal danger. Chil Rajchman’s memoir _The Last Jew of Treblinka_ notes a Czech Jewish man who was hiding in the bushes with him while being hunted in the woods who slit his own wrists as he culminated to the stress of being hunted down by the guards. This death by suicide would also be the death of Alfred Galewski, one of the leaders of the conspiracy. In fact, none of the members of the Organising Committee survived, with all survivors being prisoners who made for the fences when they heard the gunfire.
 
@@ -59,7 +59,7 @@ The legacy of the survivors varied, both in the immediate aftermath and after th
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/samuel-willenberg-with-sculptures.jpg?w=650)
+![](/images/uploads/2025/01/samuel-willenberg-with-sculptures.jpg)
 
 <figcaption>
 

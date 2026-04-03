@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/img_9066.png?w=1024"
+image: "/images/uploads/2025/08/img_9066.png"
 title: "Viriditas: Fiona Mackenzie's 'Sacred' Exhibition at the Highland Print Studio"
 date: 2025-08-26
 categories: 
@@ -22,7 +22,7 @@ On a large canvas, a crescent moon peeks from the sky, shrouding the landscape i
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/img_9066.png?w=1024)
+![](/images/uploads/2025/08/img_9066.png)
 
 <figcaption>
 
@@ -42,15 +42,15 @@ _Too late_, a drypoint prepared using a copper plate, shows a swallow returning 
 
 We also have _Leda and the Swan_, proudly taking its space within the Leda and the Swan tradition, next to Eric Gill and Correggio or Cezanne. But Fiona’s _Leda_ is almost mystical, with the swan all around her, with the long, perfect lines encapsulating it.
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/img_9042.png)
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/img_9058.png)
+![](/images/uploads/2025/08/img_9042.png)
+![](/images/uploads/2025/08/img_9058.png)
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/img_9046.png)
+![](/images/uploads/2025/08/img_9046.png)
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/img_9077.png)
+![](/images/uploads/2025/08/img_9077.png)
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/img_9047.png)
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/img_9056.png)
+![](/images/uploads/2025/08/img_9047.png)
+![](/images/uploads/2025/08/img_9056.png)
 
 Creatures here are abundant: a little hedgehog, a wren in the buttercups, an expressive woodpecker, a little owl grimacing wryly. But the landscape also finds its honourable mention, — with Slioch, a prominent mountain near Loch Maree and _Where the Skylark Sings_ with the beautiful moorland. There is a Victorian feel to some of Fiona’s works. Many resemble the engravings often found in the old, leather-bound books. This Victorian feel is so unusual in the era where a lot of art is focused on reinventing and burying the old, that Fiona’s works, in comparison, unintentionally serve to reclaim the meaning and the importance of this style. Fiona isn’t scared of playing with the medium. She is an artist first, a wood-engraver and painter second. She moulds the medium to her needs, and the result is unusual and piercing.
 
@@ -64,7 +64,7 @@ There was also an accompanying introduction from Brian Devlin, an author, which 
 
 My favourite item, however, wasn’t found on any of the walls. It wasn’t the sprawling crescent moon or the impressive delicacy of the wood engravings. In the sketchbook, on one of the pages, there was a sketch of a mummified ibis from Egypt. The inscription read:
 
-> ![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/08/img_3507.png?w=539)
+> ![](/images/uploads/2025/08/img_3507.png)
 > 
 > _‘Ancient Egypt. Sad little twisted body – mummified ibis. \[It\] Was a sacred bird in Ancient Egypt representing the god Thoth. With other sacred animals, mummified ibises were buried in dedicated cemeteries. 1894.40.1 Donated by Frederic Thomas Elworthy 1884.’ On the other side, it read ‘IBIS. You were once so beautiful.’_
 

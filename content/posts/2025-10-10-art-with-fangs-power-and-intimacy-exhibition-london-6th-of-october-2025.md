@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/10/1000043099.jpg?w=768"
+image: "/images/uploads/2025/10/1000043099.jpg"
 title: "Art With Fangs - Power and Intimacy Exhibition, London, 6th of October 2025"
 date: 2025-10-10
 categories: 
@@ -19,7 +19,7 @@ The explosion of colour on a large canvas was electrifying, just like the energy
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/10/1000043099.jpg?w=768)
+![](/images/uploads/2025/10/1000043099.jpg)
 
 <figcaption>
 
@@ -33,7 +33,7 @@ It was an exhibition in a single-room gallery, but it was filled with promise an
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/10/adams-emanation-2025-oil-on-cherrywood-panel-15-x-20-cm84.jpg?w=1024)
+![](/images/uploads/2025/10/adams-emanation-2025-oil-on-cherrywood-panel-15-x-20-cm84.jpg)
 
 <figcaption>
 
@@ -51,7 +51,7 @@ This wasn’t the only hallmark of the exhibition. Besides paintings, there were
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/10/1000043159.jpg?w=1024)
+![](/images/uploads/2025/10/1000043159.jpg)
 
 <figcaption>
 
@@ -63,7 +63,7 @@ Fen de Villiers, 'Tackle'
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/10/1000043158.jpg?w=1024)
+![](/images/uploads/2025/10/1000043158.jpg)
 
 <figcaption>
 
@@ -79,7 +79,7 @@ This symphony of power and passion was broken up by work from the Australian art
 
 My eyes, however, rested mainly upon one of Sam’s pastels. _King Numa teaching the Roman Youth_ blending blues and yellows seamlessly into a dark and curious piece, shows Numa, known for his wisdom and kindness, teaching small, curious Romans whose faces seem to bask in the light of their teacher's instruction.
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/10/img_3737.png?w=355)
+![](/images/uploads/2025/10/img_3737.png)
 
 However, in my frenzy, I continued, moving away from comforting pastels and casting a glance at the other side of the room, where stood Ferro, the man known for his tapestries and sculptures. Sporting a Russian-style hat and a uniform, he guided us through the works, relishing in the opportunity to explain the symbolism of treasures on display. Across the wall, there sprawled a large tapestry with a gryphon and near the window, a large Byzantine-inspired double-headed eagle rested, bejewelling the rest of the room. But what really got my attention were the muses — three bronze plates representing a muse for a different discipline. I will leave it to the reader to guess what they symbolise for the air of mystery, but I will say, there are sounds, stars, and movement captured within them.
 

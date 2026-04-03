@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-6.png?w=520"
+image: "/images/uploads/2025/06/image-6.png"
 title: "The Necessity of the Art Deco Revival"
 date: 2025-06-12
 categories: 
@@ -20,7 +20,7 @@ In 1952 Le Corbusier finished his Unité d’Habitation and a piece of Western c
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-6.png?w=520)
+![](/images/uploads/2025/06/image-6.png)
 
 <figcaption>
 
@@ -40,7 +40,7 @@ The above Utilitarian logic is a direct threat to that defining characteristic. 
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-7.png?w=1024)
+![](/images/uploads/2025/06/image-7.png)
 
 <figcaption>
 
@@ -68,7 +68,7 @@ Firstly, the forms of its sculptors, the designs of its painters, and the plans 
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-8.png?w=466)
+![](/images/uploads/2025/06/image-8.png)
 
 <figcaption>
 
@@ -86,7 +86,7 @@ It is precisely because of its unnecessary caprice that we must champion decorat
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-9.png?w=741)
+![](/images/uploads/2025/06/image-9.png)
 
 <figcaption>
 

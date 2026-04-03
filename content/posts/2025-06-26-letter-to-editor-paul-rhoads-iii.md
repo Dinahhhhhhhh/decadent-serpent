@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-42.png?w=576"
+image: "/images/uploads/2025/06/image-42.png"
 title: "Letter to Editor: Paul Rhoads III"
 date: 2025-06-26
 categories: 
@@ -43,7 +43,7 @@ It is true that the sort of Post-impressionism characteristic of Art Deco, like 
 
 If artists might regain some of the training enjoyed by the Art Deco painters (by studying with me or another such person) no one today authentically feels the hopeful enthusiasm about technology and happy optimism about socialism which characterized the cultural elites of the 1920s and 30s and is so clearly expressed in Art Deco. We can understand and sympathize with those feelings but who is seriously motivated by attitudes we cannot help seeing as naively innocent and childishly wide-eyed?
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-42.png?w=576)
+![](/images/uploads/2025/06/image-42.png)
 
 But Sam seems less concerned with style than with the spiritual well-being of our civilization. He recounts the shift in painting from representation to abstraction. His version of the story, which emphasizes Manet, is confused but abandonment of representation did occur, and I endorse the implication that non-objective painting is inhuman and that the fakery of “contemporary art” fails to fulfil our spiritual needs. Sam fears we are menaced by a deadening machine spirit. He dreams of a human art that penetrates all aspects of our life. He gives specific examples of what this would mean: our buildings should have sculptural decorations, our interiors should have murals and all the objects of our daily life should be beautifully artistic, the way Cellini made not only monumental sculpture but salt shakers.
 
@@ -51,7 +51,7 @@ I not only endorse this idea with enthusiasm, I have actually done my best to li
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-46.png?w=576)
+![](/images/uploads/2025/06/image-46.png)
 
 <figcaption>
 
@@ -67,7 +67,7 @@ If not Art Deco but the spirit of a ‘total expression’ is the ideal, among S
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-44.png?w=680)
+![](/images/uploads/2025/06/image-44.png)
 
 <figcaption>
 
@@ -77,7 +77,7 @@ House details
 
 </figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/06/image-43.png?w=576)
+![](/images/uploads/2025/06/image-43.png)
 
 It is for these reasons that I find the term ‘larp’ helpful. ‘Imitation’ can be exact or inexact, but larpery is superficial, fake, and unserious. Sam contrasts larping with “having the resources and skills to make something happen”. I have learned a great deal from Boucher but I make no effort to paint like him if only because I am influenced by other painters also. What I actually do is what I can manage to do with the resources and skills I have. In other words, like everyone else, I do my best. Art Deco is not going to be revived any more than rococo is going to be revived, not because we couldn’t eventually manage it, but because we don’t want to! We are not artisans working for aristocrats living in Versailles, or early 20th century bohemians and industrialist enthusiastic about the very abstraction Sam denounces. We may love and learn from rococo and Art Deco. They have aspects we can understand and with which we may sympathize, but we don’t want to share them. We have our own preoccupations; we are members of a failing middle class being swallowed up by globalism.
 

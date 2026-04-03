@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/wake-red.png?w=255"
+image: "/images/uploads/2025/02/wake-red.png"
 title: "Vintage Film Reviews: Wake of the Red Witch"
 date: 2025-02-25
 categories: 
@@ -21,7 +21,7 @@ Wake of the Red Witch is a 1948 adventure film, set on the high seas, and the tr
 
 Directed by [Edward Ludwig](https://en.wikipedia.org/wiki/Edward_Ludwig), produced by [Edmund Grainger](https://en.wikipedia.org/wiki/Edmund_Grainger) and starring [John Wayne](https://en.wikipedia.org/wiki/John_Wayne), [Gail Russell](https://en.wikipedia.org/wiki/Gail_Russell), [Gig Young](https://en.wikipedia.org/wiki/Gig_Young), [Adele Mara](https://en.wikipedia.org/wiki/Adele_Mara) and [Luther Adler](https://en.wikipedia.org/wiki/Luther_Adler). 
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/wake-red.png?w=255)
+![](/images/uploads/2025/02/wake-red.png)
 
 The movie is about two men carrying out an ongoing rivalry: Mayrant Sidneye, owner of the shipping company Batjak Limited, and Captain Ralls.
 
@@ -31,7 +31,7 @@ The novel _Wake of the Red Witch_ was written by [Garland Roark](https://en.wiki
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/wake-red-3.png?w=512)
+![](/images/uploads/2025/02/wake-red-3.png)
 
 <figcaption>
 
@@ -49,7 +49,7 @@ The movie is in black and white and is 1hr and 26min long, and would be rated PG
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/02/wake-red-4.png?w=512)
+![](/images/uploads/2025/02/wake-red-4.png)
 
 <figcaption>
 

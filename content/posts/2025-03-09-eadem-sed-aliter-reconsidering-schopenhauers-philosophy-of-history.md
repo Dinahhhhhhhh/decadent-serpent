@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/shop-1-1.jpg?w=398"
+image: "/images/uploads/2025/03/shop-1-1.jpg"
 title: "‘Eadem, sed aliter’: Reconsidering Schopenhauer’s Philosophy of History"
 date: 2025-03-09
 categories: 
@@ -23,7 +23,7 @@ _Author: Daniel Harding_
 
 <figure>
 
-[![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/shop-1-1.jpg?w=398)](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
+[![](/images/uploads/2025/03/shop-1-1.jpg)](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 
 <figcaption>
 
@@ -70,7 +70,7 @@ From this viewpoint, Schopenhauer having rejected history as a science, narrativ
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/shop-2.jpg?w=548)
+![](/images/uploads/2025/03/shop-2.jpg)
 
 <figcaption>
 
@@ -86,7 +86,7 @@ Subsequently, we need to move away from this modern, Eurocentric interpretation 
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/shop-4.jpg?w=532)
+![](/images/uploads/2025/03/shop-4.jpg)
 
 <figcaption>
 
@@ -104,7 +104,7 @@ When the history of China and India is open to us, the endlessness of material w
 
 <figure>
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/03/shop-3.jpg?w=904)
+![](/images/uploads/2025/03/shop-3.jpg)
 
 <figcaption>
 

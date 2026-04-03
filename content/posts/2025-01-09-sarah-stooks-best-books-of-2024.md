@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/books-2024.jpg?w=298"
+image: "/images/uploads/2025/01/books-2024.jpg"
 title: "Sarah Stook's Best Books of 2024"
 date: 2025-01-09
 categories: 
@@ -21,7 +21,7 @@ I read a few books this year and these are the books I would recommend the most:
 
 ## The Presidents Vs. the Press: The Endless Battle Between the White House and the Media--from the Founding Fathers to Fake News by Harold Homer
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/books-2024.jpg?w=298)
+![](/images/uploads/2025/01/books-2024.jpg)
 
 As it says on the tin, the book is about the relationship between the US presidents and the press. I don’t remember the book that well but I gave it five stars on GoodReads, with the caveat that it was definitely biased towards Bill Clinton. [https://newbooksnetwork.com/the-presidents-vs-the-press](https://newbooksnetwork.com/the-presidents-vs-the-press)
 
@@ -35,7 +35,7 @@ The fictional telling of a zombie invasion after the war, cleverly done in an in
 
 ## The Seven Husbands of Evelyn Hugo- Taylor Jenkins Reid
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/71pievu3eel._sl1500_.jpg?w=672)
+![](/images/uploads/2025/01/71pievu3eel._sl1500_.jpg)
 
 The fictional tale of Evelyn Hugo, a seven-times married Hollywood icon, and her story, as told to a young journalist named Monica  in her later years. The book has a huge following. I gave it four stars as I liked the story but despised every character apart from Monica. [https://www.waterstones.com/book/the-witching-tide/margaret-meyer/9781399605878](https://www.waterstones.com/book/the-witching-tide/margaret-meyer/9781399605878)
 
@@ -61,7 +61,7 @@ A book on four important presidential elections- 1912, 1932, 1968 and 1992. A go
 
 ## King Leopold’s Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa- Adam Hoschild
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/71fpx0xrtvl._sl1500_.jpg?w=676)
+![](/images/uploads/2025/01/71fpx0xrtvl._sl1500_.jpg)
 
 The story of the horrendous evil of the Belgian Congo, as well as the man who fought to get it in the public eye. I liked it but can’t say I remember much about it. [https://www.waterstones.com/book/king-leopolds-ghost/adam-hochschild/barbara-kingsolver/9781509882205](https://www.waterstones.com/book/king-leopolds-ghost/adam-hochschild/barbara-kingsolver/9781509882205)
 
@@ -95,7 +95,7 @@ The biography of J. Robert Oppenheimer and basis for the hit film starring Cilli
 
 ## **The Ruin of All Witches: Life and Death in the New World- Malcolm Gaskill**
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/711cjvhvil._sl1500_.jpg?w=668)
+![](/images/uploads/2025/01/711cjvhvil._sl1500_.jpg)
 
 I have a deep fascination with witch trials, and was lucky enough to get this book for £2. Gaskill takes us to the small village of Springfield, Massachusetts in 1651 and to the witch trials that preceded Salem by decades. It’s really rich in detail and gives a great understanding of how the system worked in Puritan colonies. [https://www.waterstones.com/book/the-ruin-of-all-witches/malcolm-gaskill/9780141991481](https://www.waterstones.com/book/the-ruin-of-all-witches/malcolm-gaskill/9780141991481)
 
@@ -121,7 +121,7 @@ The story behind the Oscar-winning film, this is the story of Sarah Jennings, a 
 
 ## The Gathering- C. J. Tudor
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/71p9pjswj5l._sl1500_.jpg?w=666)
+![](/images/uploads/2025/01/71p9pjswj5l._sl1500_.jpg)
 
 When a teenage boy is brutally killed in rural Alaska, a colony of vampires is blamed. An expert police woman named Barbara is sent from the big city to find the truth. Not what I expected, but in a good way- I liked her version of vampirism. [https://www.waterstones.com/book/the-gathering/c-j-tudor/9781405948302](https://www.waterstones.com/book/the-gathering/c-j-tudor/9781405948302)
 
@@ -143,7 +143,7 @@ In 1998, a Korean-American teenager mysteriously disappeared from a South Korean
 
 ## Being Nixon: A Man Divided- Evan Thomas
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/01/61gvs1ixrxl._sl1200_.jpg?w=675)
+![](/images/uploads/2025/01/61gvs1ixrxl._sl1200_.jpg)
 
 The story of America’s 37th president, Richard Nixon, from birth to death. A fascinating insight into one of the most complex men to ever hold the office. I came away sympathetic to his inferiority complex and oddness, though aware of his flaws as a man. [https://www.waterstones.com/book/being-nixon/evan-thomas/9780812985412](https://www.waterstones.com/book/being-nixon/evan-thomas/9780812985412)
 

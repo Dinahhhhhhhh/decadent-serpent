@@ -1,5 +1,5 @@
 ---
-image: "https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/71icc1iiwkl._sl1500_.jpg?w=660"
+image: "/images/uploads/2025/04/71icc1iiwkl._sl1500_.jpg"
 title: "Rough And Tumble Modernism: A Review of Jon Langmead’s 'Ballyhoo!'"
 date: 2025-04-02
 categories: 
@@ -19,7 +19,7 @@ _Author: Ryan Shea._
 
 All wrestling fans are doubtless lapsed addicts.
 
-![](https://decadentserpent.wordpress.com/wp-content/uploads/2025/04/71icc1iiwkl._sl1500_.jpg?w=660)
+![](/images/uploads/2025/04/71icc1iiwkl._sl1500_.jpg)
 
 Jon Langmead’s _Ballyhoo!: The Roughhousers, Con Artists, and Wildmen Who Invented Professional Wrestling (2024)_ explores the margins between addiction and artistry in the Art Nouveau origins of professional wrestling. _Ballyhoo!_ takesfor its main protagonist wrestling promoter Jack Curley (born: Jacques Schuel), Langmead’s niche history is an odyssey through the other side of modernity from 1874 to 1941. It is no doubt symbolic of that “old army game” of professional wrestling that all documents relating to Jack Curley’s birth were destroyed in the great San Francisco earthquake of 1906. Stomping through New York, London, and Vienna, Curley never met a man he did not want to match brawn or brains with—including, while jogging one day, Archduke Franz Ferdinand! While the theorists of the 20th century were distracted trying to construct the political “New Man”, Curley had found his new man in Iowan farm boys like Frank Gotch, Baltic strongmen like George Hackenschmidt, and, christener of the “Irish Whip”, Danno O’Mahoney. Langmead succinctly describes the air which predominated this cosmopolitan milieu of pseudonyms and grapplers as: “…a circus like spectacle that mixed athletics with a meta-type of surrealism.”
 
