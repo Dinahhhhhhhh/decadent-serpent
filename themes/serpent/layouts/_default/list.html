@@ -1,6 +1,10 @@
 {{ define "main" }}
+{{ $title := .Title | humanize }}
+{{ if eq .Title "Ideas-culture" }}{{ $title = "Ideas & Culture" }}{{ end }}
+{{ if eq .Title "ideas-culture" }}{{ $title = "Ideas & Culture" }}{{ end }}
+{{ if eq .Title "Ideas culture" }}{{ $title = "Ideas & Culture" }}{{ end }}
 <div class="list-header">
-  <h1 class="list-title">{{ .Title | humanize }}</h1>
+  <h1 class="list-title">{{ $title }}</h1>
   <p class="list-count">{{ len .Pages }} articles</p>
 </div>
 <div class="list-grid">
