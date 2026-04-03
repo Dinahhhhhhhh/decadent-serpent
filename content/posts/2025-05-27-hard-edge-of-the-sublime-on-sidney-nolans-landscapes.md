@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/05/image-6.png"
+image: "/images/uploads/2025/05/image-5.png"
 title: "Hard Edge of the Sublime: On Sidney Nolan's Landscapes"
 date: 2025-05-27
 categories: 

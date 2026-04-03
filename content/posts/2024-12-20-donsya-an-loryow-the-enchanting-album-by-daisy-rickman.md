@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/12/screen-shot-2024-03-28-at-20.40.09.webp"
 title: "Donsya A’n Loryow: The Enchanting Album by Daisy Rickman"
 date: 2024-12-20
 tags: 

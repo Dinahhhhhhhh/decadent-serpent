@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/12/screenshot-2024-12-13-at-19.55.39.png"
 title: "Terrifier 3 Review: All Art, No Substance"
 date: 2024-12-14
 categories: 

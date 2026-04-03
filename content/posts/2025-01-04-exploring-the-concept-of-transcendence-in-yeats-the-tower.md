@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/01/thoorballyleeriver.jpg"
+image: "/images/uploads/2025/01/adams.leda-swan-mola.jpg"
 title: "Exploring the Concept of Transcendence in Yeats' 'The Tower'"
 date: 2025-01-04
 categories: 

@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/02/1e9e1e1c-9ad0-4574-a565-95121a32b051.jpeg"
 title: "Saint Valentine’s Dread: A Historical and Theological Perspective on Love"
 date: 2025-02-14
 categories: 

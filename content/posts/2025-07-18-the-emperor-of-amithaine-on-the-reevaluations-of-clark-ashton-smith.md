@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/07/image-32.png"
 title: "The Emperor of Amithaine; On The Reevaluations of Clark Ashton Smith"
 date: 2025-07-18
 categories: 

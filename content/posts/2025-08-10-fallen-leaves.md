@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/08/img_8589-1.jpg"
+image: "/images/uploads/2025/08/img_8589.jpg"
 title: "Fallen Leaves"
 date: 2025-08-10
 categories: 

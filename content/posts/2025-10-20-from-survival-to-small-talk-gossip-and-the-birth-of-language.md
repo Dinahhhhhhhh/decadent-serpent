@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/10/image-4.png"
 title: "From Survival to Small Talk: Gossip and the Birth of Language"
 date: 2025-10-20
 categories: 

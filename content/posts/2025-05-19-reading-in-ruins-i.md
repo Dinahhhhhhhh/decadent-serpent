@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/05/thomas-cole-the-course-of-empire-desolation-highlark.jpg"
 title: "Reading in Ruins I"
 date: 2025-05-19
 categories: 

@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/02/8e98ac03-50b2-4255-8d4e-389feea821eb.jpeg"
 title: "AI-Pocalypse Now- The Brutalist on Trial: Guilty of… Sound Design?"
 date: 2025-02-06
 categories: 

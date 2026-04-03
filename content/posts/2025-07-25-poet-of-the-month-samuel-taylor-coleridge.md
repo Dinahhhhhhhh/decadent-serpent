@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/07/image-39-e1753420779972.png"
 title: "Samuel Taylor Coleridge, on the Anniversary of His Death"
 date: 2025-07-25
 categories: 

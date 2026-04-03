@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/08/image-24.png"
 title: "Against the Grey Sludge: On Beauty and Transcendence"
 date: 2025-08-22
 categories: 

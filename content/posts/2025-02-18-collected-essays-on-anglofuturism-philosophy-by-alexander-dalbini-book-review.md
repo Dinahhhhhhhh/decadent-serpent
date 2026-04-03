@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/02/3a3fdbe9-a39c-4af3-9a52-023008fa799f.jpeg"
 title: "Collected Essays on AngloFuturism philosophy by Alexander d'Albini - Book Review"
 date: 2025-02-18
 categories: 

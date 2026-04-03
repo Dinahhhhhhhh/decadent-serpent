@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/11/bellows_george_dempsey_and_firpo_1924.jpg"
 title: "Assassin of London – an excerpt from Gomery Kimber's novel"
 date: 2024-11-07
 categories: 

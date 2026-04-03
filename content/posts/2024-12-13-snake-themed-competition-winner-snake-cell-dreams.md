@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/12/rubens_medusa.jpeg"
 title: "Snake-Themed Creative Writing Competition Winner: Snake Cell Dreams"
 date: 2024-12-13
 categories: 

@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/10/image-2.png"
 title: "A Modernist Inferno: Wyndham Lewis’s ‘The Human Age’"
 date: 2025-10-17
 categories: 

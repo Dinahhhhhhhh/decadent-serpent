@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/09/image-25.png"
+image: "/images/uploads/2025/09/image-23.png"
 title: "Dispatches from Texas – Disproving the Myths"
 date: 2025-09-24
 categories: 

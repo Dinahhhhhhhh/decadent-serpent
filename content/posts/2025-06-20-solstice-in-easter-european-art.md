@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/06/franciszek-kostrzewski-01.jpg"
+image: "/images/uploads/2025/06/ivankupala.jpg"
 title: "Solstice in Eastern European Art"
 date: 2025-06-20
 categories: 

@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/04/everything-is-recorded.-credit_-aliyah-otchere.jpg"
 title: "Richard Russell's 'Temporary': A Musical Exploration of Existence"
 date: 2025-04-08
 categories: 

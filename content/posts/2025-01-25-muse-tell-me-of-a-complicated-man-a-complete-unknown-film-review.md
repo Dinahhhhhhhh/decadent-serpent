@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/01/mv5bywq0ywzmowmtztk4mc00nwnhlwexzgutogewzdmyztzlmjazxkeyxkfqcgc40._v1_.jpg"
 title: "Muse, Tell Me of a Complicated Man - 'A Complete Unknown' film review"
 date: 2025-01-25
 categories: 

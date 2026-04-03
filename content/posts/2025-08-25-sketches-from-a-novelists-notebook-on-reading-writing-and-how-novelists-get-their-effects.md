@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/08/image-28.png"
 title: "Sketches From a Novelist's Notebook: On Reading, Writing, and How Novelists Get Their Effects"
 date: 2025-08-25
 categories: 

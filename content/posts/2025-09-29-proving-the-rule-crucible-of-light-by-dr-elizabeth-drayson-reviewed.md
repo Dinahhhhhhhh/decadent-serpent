@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/09/image-27.png"
+image: "/images/uploads/2025/09/image-28-e1759141076633.png"
 title: "Proving the Rule: 'Crucible of Light' by Dr Elizabeth Drayson, Reviewed"
 date: 2025-09-29
 categories: 

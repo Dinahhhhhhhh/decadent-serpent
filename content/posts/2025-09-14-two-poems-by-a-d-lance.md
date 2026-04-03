@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/09/image-9.png"
 title: "Two Poems by A. D. Lance"
 date: 2025-09-14
 categories: 

@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/06/image-28-e1750673247633.png"
 title: "Manners Maketh All"
 date: 2025-06-23
 categories: 

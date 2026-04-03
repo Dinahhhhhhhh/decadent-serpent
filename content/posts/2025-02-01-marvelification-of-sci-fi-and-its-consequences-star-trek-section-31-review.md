@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/02/starfleet_scanner2c_2151-1.jpeg"
+image: "/images/uploads/2025/02/mv5bmwy0nzfmzmytntkwos00mdkzltlimzqtndnhzjjhmzjmmza4xkeyxkfqcgc40._v1_.jpg"
 title: "Marvelification of Sci-fi and its Consequences – Star Trek: Section 31 Review"
 date: 2025-02-01
 categories: 

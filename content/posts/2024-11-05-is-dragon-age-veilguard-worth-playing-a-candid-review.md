@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/11/dragon-age-inquisition-on-steam-deck-1536x864-1.jpg"
+image: "/images/uploads/2024/11/649ad4f0-d689-42bc-802c-1fdd31cf47d6-1.jpg"
 title: "Is Dragon Age: The Veilguard Worth Playing? A Candid Review"
 date: 2024-11-05
 categories: 

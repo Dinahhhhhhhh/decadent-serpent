@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2026/03/image-2.png"
 title: "City of the Future: A Poem"
 date: 2026-03-29
 categories: 

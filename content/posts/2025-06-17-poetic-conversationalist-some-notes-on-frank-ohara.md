@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/06/image-15-e1750109150623.png"
 title: "Poetic Conversationalist: Some Notes on Frank O'Hara"
 date: 2025-06-17
 categories: 

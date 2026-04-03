@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/10/image-11-e1761556407570.png"
 title: "Get Back to Craft"
 date: 2025-10-27
 categories: 

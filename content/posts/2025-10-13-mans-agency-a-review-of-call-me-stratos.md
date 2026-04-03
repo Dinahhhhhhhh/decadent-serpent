@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/10/image.png"
 title: "Man's Agency: A Review of 'Call Me Stratos'"
 date: 2025-10-13
 categories: 

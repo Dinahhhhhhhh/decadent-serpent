@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/12/screenshot-2024-12-19-at-11.02.57.png"
+image: "/images/uploads/2024/12/beatles_and_george_martin_in_studio_1966.jpeg"
 title: "Classics From Conflict – Diamonds Under Pressure: Exploring the works of The Beatles, Pink Floyd, and Bob Dylan"
 date: 2024-12-19
 tags: 

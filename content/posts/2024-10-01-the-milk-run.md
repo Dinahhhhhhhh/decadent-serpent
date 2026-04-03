@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/10/irina-iriser-rhrlzhjcv5w-unsplash.jpg"
 title: "The Milk Run"
 date: 2024-10-01
 categories: 

@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/01/msdblve_ec014-2000-7f25f33b6e894a91b7bdf824922e1b23.jpg"
+image: "/images/uploads/2025/01/img_2484.jpg"
 title: "On David Lynch’s Passing: A Mystery On And Off The Screen"
 date: 2025-01-19
 categories: 

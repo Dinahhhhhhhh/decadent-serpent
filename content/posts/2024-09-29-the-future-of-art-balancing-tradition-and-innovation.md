@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/09/dallc2b7e-2024-09-29-09.28.56-a-classical-realism-style-landscape-of-a-ship-battling-a-stormy-sea.-the-scene-features-dark-towering-waves-crashing-violently-against-the-ship-whic.webp"
+image: "/images/uploads/2024/09/vncszagr.jpeg"
 title: "The Future of Art: Balancing Tradition and Innovation"
 date: 2024-09-29
 categories: 

@@ -1,5 +1,5 @@
 ---
-image: "https://substackcdn.com/image/fetch/$s_!2lik!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b0c84db-1e66-4a87-bfd6-a03d03c89f59_640x586.jpeg"
+image: "/images/uploads/2025/06/image-27-e1750666939485.png"
 title: "Aestheticising Power: On Art and Elite Theory"
 date: 2025-07-21
 categories: 

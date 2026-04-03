@@ -1,5 +1,5 @@
 ---
-image: "https://substackcdn.com/image/fetch/$s_!LM9W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe041a636-63ed-4208-8cfb-0e1b99b5e022_3264x2448.jpeg"
+image: "/images/uploads/2026/02/image-1.png"
 title: "History as Magical Unrealism:A review of 'The Indian Caliphate'"
 date: 2026-02-02
 categories: 

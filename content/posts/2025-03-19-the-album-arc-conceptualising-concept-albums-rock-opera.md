@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/03/sf_sorrow_gold_ltd_edition.jpg"
+image: "/images/uploads/2025/03/tumblr_94a28dd41f647fd07b407782b71e7974_09693635_1280.jpg"
 title: "The Album Arc: Conceptualising concept albums – Rock Opera"
 date: 2025-03-19
 categories: 

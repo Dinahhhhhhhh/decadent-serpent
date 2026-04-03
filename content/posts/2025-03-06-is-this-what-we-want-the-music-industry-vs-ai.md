@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/03/silent-album-protest-ft-770x425-1.jpg"
 title: "'Is This What We Want?' - The Music Industry VS AI"
 date: 2025-03-06
 categories: 

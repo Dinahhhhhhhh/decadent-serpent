@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/12/frans_hals_merrymakers_at_shrovetide_the_metropolitan_museum_of_art.jpg"
 title: "Christmas Horror Competition Entry 4: A Figure of Some Substance"
 date: 2024-12-18
 categories: 

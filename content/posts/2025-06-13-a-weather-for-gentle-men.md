@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/06/image-12.png"
 title: "A Weather for Gentle Men"
 date: 2025-06-13
 categories: 

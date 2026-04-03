@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/01/mv5bmtywotu4mdc4nv5bml5banbnxkftztgwotm5njiwmje40._v1_.jpg"
+image: "/images/uploads/2025/01/mv5bmtazmdg5odg4njfeqtjeqwpwz15bbwu4mdc2ndexntix._v1_.jpg"
 title: "Fine Wine Horror Cinema: What is Classic Horror?"
 date: 2025-01-07
 categories: 

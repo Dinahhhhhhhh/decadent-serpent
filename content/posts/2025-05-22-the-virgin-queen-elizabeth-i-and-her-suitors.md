@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/05/phillip-ii.webp"
+image: "/images/uploads/2025/05/elizabeth1england.jpg"
 title: "The Virgin Queen: Elizabeth I and Her Suitors"
 date: 2025-05-22
 tags: 

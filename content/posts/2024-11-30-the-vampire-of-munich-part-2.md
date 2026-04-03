@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/11/nijinsky_lido_bakst-1.jpg"
 title: "The Vampire of Munich - Part 2"
 date: 2024-11-30
 categories: 

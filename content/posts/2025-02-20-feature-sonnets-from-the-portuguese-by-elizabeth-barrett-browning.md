@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/02/william_holman_hunt_001.jpg"
 title: "Exploring Love in Elizabeth Barrett Browning's \"Sonnets From the Portuguese\""
 date: 2025-02-20
 categories: 

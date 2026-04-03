@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2026/02/image-19.png"
 title: "Genius in Flower: Virginia Woolf’s ‘The Life of Violet’ reviewed.”"
 date: 2026-02-24
 categories: 

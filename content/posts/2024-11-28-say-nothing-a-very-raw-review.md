@@ -1,5 +1,5 @@
 ---
-image: "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfDBLNCTllWLToBbYhGunxNPP2NHnIzU8IYph8eqpwGb3AgxgDQncLzksOUFNM-Zgo9-JHM0dgMLzfYY0o-FXJGxHR47lMacpiNbXP6h_0nfeG5qg2RawGvy8O0p6LkGnWZn1I6zw?key=r66eMR8ewAZy6tbCDgVcjyIm"
+image: "/images/uploads/2024/11/say-nothing-fx.jpg"
 title: "'Say Nothing' - A very Raw Review"
 date: 2024-11-28
 categories: 

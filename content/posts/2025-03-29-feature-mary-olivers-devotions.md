@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/03/van-gogh-fishing-in-spring-the-pont-de-clichy-asnieres-1887.jpg"
 title: "Feature: Mary Oliver's \"Devotions\""
 date: 2025-03-29
 categories: 

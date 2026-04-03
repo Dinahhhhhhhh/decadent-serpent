@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/01/treblinka-extermination-camp.jpg"
+image: "/images/uploads/2025/01/treblinka_-_rail_tracks.jpg"
 title: "The Treblinka Uprising: A Fight for Freedom"
 date: 2025-01-26
 tags: 

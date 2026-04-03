@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/04/71icc1iiwkl._sl1500_.jpg"
+image: "/images/uploads/2025/04/4379e01b-c269-4be2-a2f5-02a19049eb74.jpeg"
 title: "Rough And Tumble Modernism: A Review of Jon Langmead’s 'Ballyhoo!'"
 date: 2025-04-02
 categories: 

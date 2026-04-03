@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/11/screenshot-2024-11-08-at-18.33.50.png"
+image: "/images/uploads/2024/11/frank-miller-the-dark-knight-returns.jpeg"
 title: "'The Dark Knight Returns' Interrogates Us All"
 date: 2024-11-09
 categories: 

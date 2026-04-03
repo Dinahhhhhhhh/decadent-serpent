@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/12/santa27s_portrait_tnast_1881.jpg"
 title: "Christmas Horror Competition Entry 8: Father Christmas"
 date: 2024-12-26
 categories: 

@@ -1,5 +1,5 @@
 ---
-image: "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe7ZLbId0kl9SiZ44XKWmAjMqoD7kW06krLyMLde9cXHklE9TQ2p4Qb3aIab8EOK30404xF32CBk-Fdy4eh8l79AyAJRZ1V8vbjyMzIPeQedm1Z3R6_5WXvA0SYOdzdUyMxXxvabA?key=vkfTJjylRbpRs2wd67bfoSxR"
+image: "/images/uploads/2025/01/befana.jpg"
 title: "Eerie Stories From the World of Folklore - The Befana"
 date: 2025-01-05
 categories: 

@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/11/heretic.webp"
 title: "Heretic Review: Technically Perfect but Lacking in Substance"
 date: 2024-11-26
 categories: 

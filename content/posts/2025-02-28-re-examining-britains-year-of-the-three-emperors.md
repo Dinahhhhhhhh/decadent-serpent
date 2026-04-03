@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/02/t01251-10.jpg"
 title: "Re-Examining Britain’s Year of the Three Emperors"
 date: 2025-02-28
 tags: 

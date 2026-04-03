@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/07/image-41-e1753607700812.png"
 title: "Four Poems, by A. D. Lance"
 date: 2025-07-27
 categories: 

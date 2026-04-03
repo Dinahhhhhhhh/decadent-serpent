@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/09/image-2.png"
 title: "'Father Mother Sister Brother': Reviewed"
 date: 2025-09-03
 categories: 

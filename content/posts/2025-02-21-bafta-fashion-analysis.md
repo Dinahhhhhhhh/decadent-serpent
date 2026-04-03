@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/02/ssarah-1.jpg"
+image: "/images/uploads/2025/02/gettyimages-2199995741.jpg"
 title: "BAFTA Fashion Analysis"
 date: 2025-02-21
 categories: 

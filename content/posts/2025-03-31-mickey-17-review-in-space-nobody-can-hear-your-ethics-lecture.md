@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/03/mv5bzdvkogjkntmtmgy1zs00mdczlwjjmmitmmq2mmfmnwflogmyxkeyxkfqcgc40._v1_.jpg"
 title: "Mickey 17 Review: In Space, Nobody Can Hear Your Ethics Lecture!"
 date: 2025-03-31
 categories: 

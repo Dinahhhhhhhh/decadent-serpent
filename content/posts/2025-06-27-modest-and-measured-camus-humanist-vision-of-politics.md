@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/06/image-49.png"
 title: "Modest and Measured: Camus’ Humanist Vision of Politics"
 date: 2025-06-27
 categories: 

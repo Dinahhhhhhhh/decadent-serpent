@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/10/robert-aickman.jpg"
+image: "/images/uploads/2024/10/the_leaping_horse_1825_by_john_constable_-_google_art_project.jpg"
 title: "Robert Aickman and the Technological Uncanny"
 date: 2024-10-13
 categories: 

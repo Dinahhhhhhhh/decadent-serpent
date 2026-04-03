@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/11/image-3.png"
 title: "Mercurial Land, Mercurial Time: 'The Investigator' Reviewed"
 date: 2025-11-22
 categories: 

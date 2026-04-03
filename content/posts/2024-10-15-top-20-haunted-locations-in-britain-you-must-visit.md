@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/10/pendle_hill_and_the_ribble_valley_-_geograph.org_.uk_-_72304.jpg"
+image: "/images/uploads/2024/10/img_4083_original-2.jpg"
 title: "Top 20 Haunted Locations in Britain You Must Visit"
 date: 2024-10-15
 categories: 

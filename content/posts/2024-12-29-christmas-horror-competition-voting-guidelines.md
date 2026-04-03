@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/12/deers-in-the-forest-at-fontainebleau-digital-remastered-edition-rosa-bonheur.jpglarge.jpg"
 title: "Christmas Horror Competition Voting Guidelines"
 date: 2024-12-29
 tags: 

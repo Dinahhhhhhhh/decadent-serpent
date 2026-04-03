@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/12/kikel_2.jpeg"
+image: "/images/uploads/2024/12/foto-deutsches-historisches-museum-768x432-1.jpg"
 title: "Christmas under the Third Reich"
 date: 2024-12-24
 tags: 

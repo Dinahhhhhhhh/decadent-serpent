@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/05/pexels-tara-winstead-8386440.jpg"
 title: "Innovation, Where?"
 date: 2025-05-26
 categories: 

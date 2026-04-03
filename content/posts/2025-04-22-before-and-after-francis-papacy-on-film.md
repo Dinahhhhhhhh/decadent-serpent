@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/04/mv5bnzrhzmnjmzmtnti3ms00y2i3ltgzzmqtnmqwm2m2ngflnzrhxkeyxkfqcgdeqxryyw5zy29kzs13b3jrzmxvdw4040._v1_.jpg"
+image: "/images/uploads/2025/04/downloadpope.jpeg"
 title: "Before And After: Francis’ Papacy On Film"
 date: 2025-04-22
 categories: 

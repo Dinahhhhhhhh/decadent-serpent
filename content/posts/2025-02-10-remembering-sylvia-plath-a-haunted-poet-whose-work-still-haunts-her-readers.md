@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/02/0f989f7d11eb4abcb4d44e89f29ca50e.jpeg"
 title: "Remembering Sylvia Plath—A Haunted Poet whose Work Still Haunts her Readers"
 date: 2025-02-10
 categories: 

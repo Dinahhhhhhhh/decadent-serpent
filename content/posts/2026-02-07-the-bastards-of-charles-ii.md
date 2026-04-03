@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2026/02/image-14.png"
+image: "/images/uploads/2026/02/image-16-e1770554702897.png"
 title: "The Bastards of Charles II"
 date: 2026-02-07
 tags: 

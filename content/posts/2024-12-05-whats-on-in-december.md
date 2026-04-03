@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/12/snow-and-mist.jpglarge.jpg"
 title: "What's On in December"
 date: 2024-12-05
 categories: 

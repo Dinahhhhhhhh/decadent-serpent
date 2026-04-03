@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/07/image-4.png"
 title: "Why 'The Big Red One' Hates WWII Movies"
 date: 2025-07-03
 categories: 

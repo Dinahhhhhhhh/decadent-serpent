@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/10/changeling-2.jpeg"
+image: "/images/uploads/2024/10/1_fotor-7.jpg"
 title: "Top 10 Cosy Horror Films to Watch This Halloween"
 date: 2024-10-22
 categories: 

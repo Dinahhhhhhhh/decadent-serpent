@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/12/image-1.png"
 title: "Licence to Thrill: Interview with author Gomery Kimber"
 date: 2025-12-06
 categories: 

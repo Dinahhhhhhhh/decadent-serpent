@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/10/img_7237-3.jpg"
+image: "/images/uploads/2024/10/screenshot-2024-10-20-at-12.28.23.png"
 title: "'Hope is the thing with feathers' - 'Feathered Souls’ Fiona MacKenzie's Art Exhibition Review"
 date: 2024-10-20
 categories: 

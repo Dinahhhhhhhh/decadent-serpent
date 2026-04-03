@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/12/792b09d6-7747-41cd-9104-0ca64e93f9d4.jpeg"
 title: "Bram Stoker's Lost Story Review – ‘Gibbet Hill’"
 date: 2024-12-05
 categories: 

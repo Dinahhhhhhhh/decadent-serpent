@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/02/622419-740x493-1.jpeg"
 title: "Lover’s Poison"
 date: 2025-02-10
 categories: 

@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/03/img_0183-1.jpg"
 title: "‘I’m a piece of architecture, Detective. How should I know how humans are like to die?’— Rose/House by Arkady Martine"
 date: 2025-03-15
 categories: 

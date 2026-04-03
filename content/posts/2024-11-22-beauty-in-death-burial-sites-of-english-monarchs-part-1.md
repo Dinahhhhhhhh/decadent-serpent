@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/11/abbaye_aux_hommes_caen.jpg"
+image: "/images/uploads/2024/11/westminster_abbey_by_canaletto_1749.jpg"
 title: "Beauty in Death: Burial Sites of English Monarchs - Part 1"
 date: 2024-11-22
 categories: 

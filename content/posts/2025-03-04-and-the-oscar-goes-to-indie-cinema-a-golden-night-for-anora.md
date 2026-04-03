@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/03/mv5byju5odk1ytatmtk5zc00mjhllwfjztetytqxntm4ytbhognmxkeyxkfqcgc40._v1_.jpg"
 title: "And the Oscar Goes to Indie Cinema: A Golden Night for Anora"
 date: 2025-03-04
 categories: 

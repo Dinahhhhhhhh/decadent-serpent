@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/01/saturn_titan_1944-1024x828-1.jpg"
 title: "The Rocket"
 date: 2025-01-11
 categories: 

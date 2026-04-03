@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/12/thomas_gainsborough_lady_georgiana_cavendish.jpg"
+image: "/images/uploads/2024/12/picture-1-2.jpg"
 title: "Chatsworth House’s Duchesses of Devonshire"
 date: 2024-12-13
 categories: 

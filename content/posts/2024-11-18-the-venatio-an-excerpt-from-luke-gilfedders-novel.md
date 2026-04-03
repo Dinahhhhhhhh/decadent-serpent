@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/11/venatio-the-edge-3.jpeg"
+image: "/images/uploads/2024/11/wyndham_lewis-a_canadian_gun-pit.jpg"
 title: "The Venatio - an excerpt from Luke Gilfedder's novel"
 date: 2024-11-18
 categories: 

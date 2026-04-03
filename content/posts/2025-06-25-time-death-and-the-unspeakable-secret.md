@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/06/image-41-e1750822575483.png"
 title: "Reviewed: Time, Death, and the Unspeakable Secret"
 date: 2025-06-25
 categories: 

@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/01/paja_jovanovic-takovo-uprising.jpg"
+image: "/images/uploads/2025/01/battle_of_kosovo_adam_stefanovic_1870.jpg"
 title: "Fall of the Ottoman Empire in the Long 19th Century – Part 1: Revolutions in the Balkans"
 date: 2025-01-20
 tags: 

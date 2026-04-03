@@ -1,5 +1,5 @@
 ---
-image: "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdbVO6JzZcoTkINbFHkP4txFhcdKzxX-xs8k-OU7Abrj1jbGGU5YNncXwNLhmxKWT5YLWfYiIcFD-Xic9jlIHtonEt9EeECJKxS9nbRlAOIci47B5819lzyXVkrza16dP1Re0sZ6A?key=9sSEeywga55FcjxejxDNBazh"
+image: "/images/uploads/2024/12/in-brecon-the-custom-of-the-mari-lwyd-has-been-kept-alive-by-the-brecon-mari-lwyd-group-who-are-dedicated-to-reviving-the-welsh-tradition.jpg"
 title: "Eerie stories from the world of folklore - Mari Lwyd"
 date: 2024-12-01
 categories: 

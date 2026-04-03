@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/12/mv5bogu5ymfjy2mtytvloc00yzayltgxnjitntljmwq0njy2ntk5xkeyxkfqcgc40._v1_.jpg"
+image: "/images/uploads/2024/12/mv5bmdy1zthintitotrios00yjmylwi2odqtzmizzte4ngi3yjlhxkeyxkfqcgc40._v1_.jpg"
 title: "Jack Salvadori's Best Films of 2024"
 date: 2024-12-28
 categories: 

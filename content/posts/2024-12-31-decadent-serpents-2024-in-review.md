@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/12/img_5401.jpeg"
+image: "/images/uploads/2024/12/brown_viper_with_arum_lily_1731_wellcome_l0035357.jpg"
 title: "Decadent Serpent's 2024 in Review"
 date: 2024-12-31
 tags: 

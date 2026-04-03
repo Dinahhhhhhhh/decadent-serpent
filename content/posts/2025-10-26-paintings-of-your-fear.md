@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/10/image-7.png"
 title: "Paintings Of Your Fear"
 date: 2025-10-26
 categories: 

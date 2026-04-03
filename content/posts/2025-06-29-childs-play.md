@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/06/image-50-e1751193219104.png"
 title: "Child's Play"
 date: 2025-06-29
 categories: 

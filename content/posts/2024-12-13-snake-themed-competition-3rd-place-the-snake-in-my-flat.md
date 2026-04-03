@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/12/brown_viper_with_arum_lily_1731_wellcome_l0035357.jpg"
 title: "Snake-Themed Creative Writing Competition: 3rd Place - The Snake in My Flat"
 date: 2024-12-13
 categories: 

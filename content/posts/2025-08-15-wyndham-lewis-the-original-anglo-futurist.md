@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/08/image-14.png"
+image: "/images/uploads/2025/08/image-20.png"
 title: "WYNDHAM LEWIS: THE ORIGINAL ANGLO-FUTURIST?"
 date: 2025-08-15
 categories: 

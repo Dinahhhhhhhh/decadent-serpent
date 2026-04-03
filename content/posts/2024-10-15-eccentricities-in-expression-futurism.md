@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/10/gino_severini_1912_dynamic_hieroglyphic_of_the_bal_tabarin_oil_on_canvas_with_sequins_161.6_x_156.2_cm_63.6_x_61.5_in._museum_of_modern_art_new_york.jpg"
+image: "/images/uploads/2024/10/the_city_rises_by_umberto_boccioni_1910.jpg"
 title: "Eccentricities in Expression: Futurism"
 date: 2024-10-15
 categories: 

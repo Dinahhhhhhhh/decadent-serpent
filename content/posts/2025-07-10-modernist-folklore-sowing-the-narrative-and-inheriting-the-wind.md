@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/07/image-13.png"
 title: "Modernist Folklore: Sowing The Narrative and Inheriting The Wind"
 date: 2025-07-10
 categories: 

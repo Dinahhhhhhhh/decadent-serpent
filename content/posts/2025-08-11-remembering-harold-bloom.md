@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/08/image-8.png"
 title: "Remembering Harold Bloom"
 date: 2025-08-11
 categories: 

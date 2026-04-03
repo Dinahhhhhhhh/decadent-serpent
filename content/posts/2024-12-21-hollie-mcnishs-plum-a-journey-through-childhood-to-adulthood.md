@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/12/claude_monet_fishing_boats_leaving_the_harbor_le_havre.jpg"
 title: "Hollie McNish's 'Plum': A Journey Through Childhood to Adulthood"
 date: 2024-12-21
 categories: 

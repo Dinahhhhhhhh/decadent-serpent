@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/01/botticelli-primavera.jpg"
 title: "How to Stick to your New Year Resolutions? Rebirth in Philosophy: Nietzsche, Sartre, and Kierkegaard"
 date: 2025-01-08
 categories: 

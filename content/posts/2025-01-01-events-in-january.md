@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/12/8c359d21-ae50-4fe3-a98c-c533bb97d203.jpg"
+image: "/images/uploads/2025/01/untitled-m0466-1956-copy.jpg"
 title: "Events in January"
 date: 2025-01-01
 categories: 

@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/10/substance-still-2.jpeg"
 title: "The Substance Review: A Raw Exploration of Womanhood and Aging - Double Take"
 date: 2024-10-02
 categories: 

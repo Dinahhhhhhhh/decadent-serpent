@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/10/image-3.png"
 title: "Offering God Our Best: A Reflection on Christian Worship and Tradition"
 date: 2025-10-19
 categories: 

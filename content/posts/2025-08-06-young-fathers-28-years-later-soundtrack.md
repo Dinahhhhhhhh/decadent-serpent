@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/08/image-6.png"
 title: "Young Fathers – '28 Years Later' Soundtrack"
 date: 2025-08-06
 categories: 

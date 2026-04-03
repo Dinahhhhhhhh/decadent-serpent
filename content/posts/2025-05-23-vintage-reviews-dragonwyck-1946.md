@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/05/image-3.png"
+image: "/images/uploads/2025/05/dragonwyck.webp"
 title: "Vintage Reviews: 'Dragonwyck' (1946)"
 date: 2025-05-23
 categories: 

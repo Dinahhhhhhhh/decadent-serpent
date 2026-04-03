@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/07/image-33.png"
 title: "Nether Fear: An Extract from 'Die When I Say When'"
 date: 2025-07-20
 categories: 

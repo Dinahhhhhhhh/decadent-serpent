@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/06/image-26.png"
 title: "Bidh cuimhne gu bràth air na mairbh"
 date: 2025-06-22
 categories: 

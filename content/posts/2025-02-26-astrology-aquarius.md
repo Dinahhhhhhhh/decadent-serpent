@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/02/sidney_hall_-_uranias_mirror_-_aquarius_piscis_australis__ballon_aerostatique.jpg"
 title: "Astrology: Aquarius"
 date: 2025-02-26
 categories: 

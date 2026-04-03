@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/04/la_emperatriz_theodora_-_jean-joseph_benjamin-constant.jpg"
+image: "/images/uploads/2025/04/mosaic_of_theodora_-_basilica_san_vitale_ravenna_italy.jpg"
 title: "31 Greatest Historical Women"
 date: 2025-04-06
 categories: 

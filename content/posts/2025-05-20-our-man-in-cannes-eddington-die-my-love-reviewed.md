@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/05/mv5bmdgzztgzotetmtllzs00zddjlwe4nwutotkwotk0mjk3oda5xkeyxkfqcgc40._v1_fmjpg_ux1000_-1.jpg"
+image: "/images/uploads/2025/05/untitled-design-9.png"
 title: "Our Man in Cannes: 'Eddington' Reviewed"
 date: 2025-05-20
 categories: 

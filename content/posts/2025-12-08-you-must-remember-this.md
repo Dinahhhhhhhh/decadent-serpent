@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/12/image-2.png"
 title: "You Must Remember This…"
 date: 2025-12-08
 categories: 

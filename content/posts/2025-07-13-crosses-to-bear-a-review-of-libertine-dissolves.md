@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/07/image-16-e1752362159518.png"
 title: "Crosses to Bear: A Review of 'Libertine Dissolves'"
 date: 2025-07-13
 categories: 

@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/08/image-2.png"
 title: "Bonfire of the Vacuities: On the Death of English Literature and the University"
 date: 2025-08-04
 categories: 

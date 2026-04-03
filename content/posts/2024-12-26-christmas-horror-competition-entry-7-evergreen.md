@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/12/claude_monet_-_the_magpie_-_google_art_project.jpg"
 title: "Christmas Horror Competition Entry 7: Evergreen"
 date: 2024-12-26
 categories: 

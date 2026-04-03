@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/10/1000043099.jpg"
+image: "/images/uploads/2025/10/babdb103-37fc-4885-a4f9-45f93f914e8a.jpeg"
 title: "Art With Fangs - Power and Intimacy Exhibition, London, 6th of October 2025"
 date: 2025-10-10
 categories: 

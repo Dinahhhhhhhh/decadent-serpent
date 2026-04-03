@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/08/image-30.png"
 title: "England, His England: Alan Hollinghurst's 'Our Evenings' Reviewed"
 date: 2025-08-27
 categories: 

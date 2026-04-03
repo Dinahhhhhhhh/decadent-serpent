@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/08/image-21.png"
 title: "A European Summer"
 date: 2025-08-17
 categories: 

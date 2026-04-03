@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/06/image-29.png"
+image: "/images/uploads/2025/06/image-36.png"
 title: "Letter to Editor: Sam Wild Responds"
 date: 2025-06-24
 categories: 

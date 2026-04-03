@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/07/image.png"
 title: "Dawn Polyphony: A Translation from Antonio de Zayas' 'Byzantine Jewels' (1902)"
 date: 2025-07-06
 categories: 

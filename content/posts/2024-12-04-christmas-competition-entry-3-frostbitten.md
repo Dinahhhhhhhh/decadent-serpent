@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/12/john_quidor_-_the_headless_horseman_pursuing_ichabod_crane_-_google_art_project.jpg"
 title: "Christmas Competition Entry 3: Frostbitten"
 date: 2024-12-04
 categories: 

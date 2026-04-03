@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/06/image-17.png"
 title: "Letter to Editor: Fen de Villiers Responds"
 date: 2025-06-19
 categories: 

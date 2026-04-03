@@ -1,5 +1,5 @@
 ---
-image: "https://substackcdn.com/image/fetch/$s_!ZZh7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4dd239e-bcd9-42be-893f-67fff4f46128_1200x950.avif"
+image: "/images/uploads/2025/08/image-7-e1754641008311.png"
 title: "A Tale of Nostalgia and Nepotism: A Review of Sam Dalrymple's 'Shattered Lands'"
 date: 2025-08-08
 tags: 

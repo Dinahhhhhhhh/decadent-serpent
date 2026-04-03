@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/01/65c2aa8c-80b6-4539-b084-0d13da8b2eb1.jpeg"
 title: "It’s Happening to Everybody – Ethel Cain’s ‘Perverts’ Album Review"
 date: 2025-01-14
 tags: 

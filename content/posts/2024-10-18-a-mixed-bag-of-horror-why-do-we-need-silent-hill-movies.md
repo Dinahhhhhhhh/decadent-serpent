@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/10/silent-hill-origins-600x338-1.png"
+image: "/images/uploads/2024/10/returntosilenthill.webp"
 title: "A Mixed Bag of Horror: Why Do We Need Silent Hill Movies"
 date: 2024-10-18
 categories: 

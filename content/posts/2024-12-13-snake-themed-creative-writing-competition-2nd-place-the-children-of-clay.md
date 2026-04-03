@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/12/the_great_red_dragon_and_the_woman_clothed_with_the_sun_1943.3.8999.jpg"
 title: "Snake-Themed Creative Writing Competition: 2nd Place - The Children of Clay"
 date: 2024-12-13
 categories: 

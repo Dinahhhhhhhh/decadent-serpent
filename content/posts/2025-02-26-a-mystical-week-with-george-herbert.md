@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/02/4-1.jpg"
 title: "A Mystical Week With George Herbert"
 date: 2025-02-26
 categories: 

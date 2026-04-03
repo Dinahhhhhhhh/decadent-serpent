@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2024/11/the-road-1536x812-1.jpg"
+image: "/images/uploads/2024/11/img_2565.png"
 title: "Exploring The Frontier Myth in 'The Walking Dead'"
 date: 2024-11-21
 categories: 

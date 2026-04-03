@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/09/image-14-e1758529275863.png"
 title: "A Review of 'Exquisite Nothingness: The Novels of Yukio Mishima'"
 date: 2025-09-22
 categories: 

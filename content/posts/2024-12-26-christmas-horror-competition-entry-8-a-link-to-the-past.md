@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/12/243387402x.jpeg"
 title: "Christmas Horror Competition Entry 9: A Link to the Past"
 date: 2024-12-26
 categories: 

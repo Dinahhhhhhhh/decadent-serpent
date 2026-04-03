@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/03/img_5917.jpg"
 title: "An Interview with Crossing Giants, Daniel Brennan and Iain Macaulay"
 date: 2025-03-24
 categories: 

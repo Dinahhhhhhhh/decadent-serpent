@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/06/image-16.png"
 title: "'Hamilton' at the Empire Theatre, Liverpool, June 2025"
 date: 2025-06-18
 categories: 

@@ -1,5 +1,5 @@
 ---
-image: "/images/uploads/2025/01/mv5bzjq1nziwytqtmjvimi00oguxlwjimgutmmjimjmyyje0mjkzxkeyxkfqcgc40._v1_.jpg"
+image: "/images/uploads/2025/01/mv5bzta2zjixmmetmjgzmi00mtq5lwexndutnze1ztkwmzayndmzxkeyxkfqcgc40._v1_.jpg"
 title: "Coming Soon in 2025: Movies You’ll Forget by 2026"
 date: 2025-01-05
 categories: 

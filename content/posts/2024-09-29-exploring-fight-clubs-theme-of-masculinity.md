@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/09/img_7162.jpeg"
 title: "Exploring Fight Club's Theme of Masculinity"
 date: 2024-09-29
 categories: 

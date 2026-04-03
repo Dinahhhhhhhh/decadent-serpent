@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2025/06/tate_tate_n01506_10-001.jpg"
 title: "Tragic Love Poetry Competition: Other Top Entries"
 date: 2025-06-14
 categories: 

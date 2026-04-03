@@ -1,4 +1,5 @@
 ---
+image: "/images/uploads/2024/11/stormtroops_advancing_under_gas_etching_and_aquatint_by_otto_dix_1924.jpg"
 title: "Toy Soldiers"
 date: 2024-11-27
 categories: 
