@@ -22,9 +22,6 @@ date: 2024-09-14
 
 * * *
 
-Every month we choose a general theme for submissions, but we also accept general submissions outwith the requested theme. The theme is optional, for those looking for inspiration, however - consult the monthly theme. We always expand further on the theme on our social media so we invite you to follow us.
-
-**THEME FOR** **JUNE: REVOLT**
 
 We actively accept pitches relating to:
 
@@ -174,44 +171,6 @@ If you're interested, please send us a short email introducing yourself, your ex
 
 **Email: dinah.kolka@decadentserpent.com**
 
-### Volunteer Literature Correspondent
-
-_Decadent Serpent_ seeks a perceptive and stylish **Literature Correspondent** to join our growing editorial team. This role is ideal for a writer who possesses a rigorous literary sensibility, a taste for the provocative, and a hunger to explore the written word through a critical yet creative lens.
-
-You’ll be responsible for producing reviews, feature-length essays, and occasional interviews focused on literary fiction, translated works, and contemporary critical debates. Your work will form a cornerstone of the magazine’s cultural authority—offering readers a gateway into both emerging and canonical texts, refracted through Decadent Serpent’s signature blend of highbrow elegance and editorial bite.
-
-**Key Responsibilities**:
-
-- Write longform and shortform reviews of new literary releases, reissues, or under-appreciated classics
-
-- Produce engaging literary features, profiles, and thematic essays
-
-- Pitch and develop original ideas tied to contemporary or historical literary themes
-
-- Collaborate with the editorial director to shape the magazine’s literary tone and direction
-
-- Interview authors, translators, and literary figures where appropriate
-
-- Maintain awareness of literary trends, prize circuits, and noteworthy publishing developments
-
-**What We're Looking For**:
-
-- A distinct, confident voice and a demonstrable love of literature
-
-- The ability to blend criticism with style: we want reviews that cut deep and essays that linger
-
-- Strong research skills and comfort with literary theory, philosophy, or cultural critique
-
-- Prior journalism experience is not required, however a strong, ideally academic approach to writing is expected
-
-- A temperament that aligns with our magazine’s ethos: intelligent, highbrow, with passion for high art and preservation of culture
-
-This is a **volunteer** role with flexible hours, ideal for someone looking to gain experience in journalism, writing, and digital media.
-
-**How to Apply:**  
-If you're interested, please send us a short email introducing yourself, your experience (if any), and why you'd like to join DS as a **Volunteer Literature Correspondent**. If you have samples of previous work, feel free to include them.
-
-**Email: editor@decadentserpent.com**
 
 ### Volunteer Arts Correspondent
 
