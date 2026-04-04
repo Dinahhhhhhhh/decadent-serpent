@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   branch: main
 
-media_folder: static/images/uploads
-public_folder: /images/uploads
+media_folder: static/images/uploads/cms
+public_folder: /images/uploads/cms
 
 site_url: https://decadentserpent.com
 display_url: https://decadentserpent.com
@@ -25,11 +25,14 @@ collections:
         widget: datetime
         date_format: YYYY-MM-DD
         time_format: false
-      - label: Cover Image URL
+      - label: Cover Image
         name: image
-        widget: string
+        widget: image
         required: false
-        hint: "Paste a full image URL (e.g. from Unsplash or WordPress media). Images are not hosted here."
+        hint: "Upload an image or paste a URL. This appears as the cover image and in the carousel."
+        media_library:
+          config:
+            multiple: false
       - label: Categories
         name: categories
         widget: select
@@ -54,6 +57,11 @@ collections:
           - { label: Features, value: features }
           - { label: Poetry, value: poetry }
           - { label: Events, value: events }
+      - label: Author
+        name: author
+        widget: string
+        required: false
+        hint: "Author's full name"
       - label: Tags
         name: tags
         widget: list
