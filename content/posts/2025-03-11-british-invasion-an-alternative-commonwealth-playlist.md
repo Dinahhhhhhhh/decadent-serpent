@@ -65,4 +65,4 @@ Why does it end with Morrissey’s ‘Irish blood, English heart’? Because of 
 
 33. Irish Blood, English Heart- Morrissey
 
-_George Marsden is a graduate of Glasgow University, where he read English and Classics. His writing has appeared in IM-1776, The Mallard, and Sublation Magazine, among other outlets. As song writing is the only form of modern poetic expression with a mass audience, George thinks it merits special critical attention. He also aims to counter the nefarious influence that Oasis have had on British culture. Read his work [here](https://decadentserpent.com/?s=george+marsden)._
+_George Marsden is a graduate of Glasgow University, where he read English and Classics. His writing has appeared in IM-1776, The Mallard, and Sublation Magazine, among other outlets. As song writing is the only form of modern poetic expression with a mass audience, George thinks it merits special critical attention. He also aims to counter the nefarious influence that Oasis have had on British culture. Read his work [here](https://decadentserpent.com/writers/george-marsden/)._

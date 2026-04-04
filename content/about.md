@@ -18,7 +18,7 @@ Dinah founded _Decadent Serpent_ in order to bring together all the disciplines 
 
 **_Dinah Kolka_**
 
-Dinah Kolka is a graduate of Edinburgh Napier University with a BA(Hons) in English Literature. Her work has been featured in publications such as _The Salisbury Review_ and _The Mallard_. She has a keen interest in modernism. Her key vision is to rejuvenate cultural endeavours on the local and national scale, and she strongly believes in supporting other people in succeeding in creative industries. Read her work [here](https://decadentserpent.com/?s=dinah+kolka).
+Dinah Kolka is a graduate of Edinburgh Napier University with a BA(Hons) in English Literature. Her work has been featured in publications such as _The Salisbury Review_ and _The Mallard_. She has a keen interest in modernism. Her key vision is to rejuvenate cultural endeavours on the local and national scale, and she strongly believes in supporting other people in succeeding in creative industries. Read her work [here](/writers/dinah-kolka/).
 
 ## **Editor-in-Chief**
 

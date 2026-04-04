@@ -1,23 +1,39 @@
 {{ define "main" }}
-{{ with .Params.image }}
-<div class="post-hero">
-  <img src="{{ . }}" alt="{{ $.Title }}" loading="eager">
-</div>
-{{ end }}
 <article class="post-wrapper">
+  {{ with .Params.image }}
+  <div class="post-hero">
+    <img src="{{ . }}" alt="{{ $.Title }}" class="post-hero-img">
+  </div>
+  {{ end }}
+
   <div class="post-meta">
     {{ with .Params.categories }}
     <a href="/categories/{{ index . 0 | urlize }}/" class="post-meta-cat">{{ index . 0 | humanize }}</a>
     {{ end }}
     <span class="post-meta-date">{{ .Date.Format "2 January 2006" }}</span>
+    <span class="post-meta-reading">{{ .ReadingTime }} min read</span>
   </div>
+
   <h1 class="post-title">{{ .Title }}</h1>
+
   {{ with .Params.author }}
-  <p class="post-author">By {{ . }}</p>
+  <p class="post-byline">By {{ . }}</p>
   {{ end }}
+
   <div class="post-content">
     {{ .Content }}
   </div>
+
+  <!-- Social Share -->
+  <div class="share-bar">
+    <span class="share-label">Share</span>
+    <a href="https://twitter.com/intent/tweet?url={{ .Permalink | urlize }}&text={{ .Title | urlize }}" target="_blank" rel="noopener" class="share-btn share-twitter">X / Twitter</a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlize }}" target="_blank" rel="noopener" class="share-btn share-facebook">Facebook</a>
+    <a href="https://wa.me/?text={{ .Title | urlize }}%20{{ .Permalink | urlize }}" target="_blank" rel="noopener" class="share-btn share-whatsapp">WhatsApp</a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink | urlize }}" target="_blank" rel="noopener" class="share-btn share-linkedin">LinkedIn</a>
+  </div>
+
+  <!-- Tags -->
   {{ with .Params.tags }}
   <div class="post-tags">
     {{ range . }}
@@ -26,4 +42,31 @@
   </div>
   {{ end }}
 </article>
+
+<!-- Related Articles -->
+{{ $related := .Site.RegularPages.Related . | first 3 }}
+{{ with $related }}
+<div class="related-posts">
+  <h3 class="related-heading">You might also like</h3>
+  <div class="post-list">
+    {{ range . }}
+    <a href="{{ .RelPermalink }}" class="post-card">
+      {{ with .Params.image }}
+      <img class="post-thumb" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      {{ else }}
+      <div class="post-thumb-placeholder"></div>
+      {{ end }}
+      <div class="post-card-body">
+        {{ with .Params.categories }}
+        <span class="post-card-cat">{{ index . 0 | humanize }}</span>
+        {{ end }}
+        <h3 class="post-card-title">{{ .Title }}</h3>
+        {{ with .Params.author }}<span class="post-card-author">{{ . }}</span>{{ end }}
+        <span class="post-card-date">{{ .Date.Format "2 January 2006" }}</span>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
 {{ end }}

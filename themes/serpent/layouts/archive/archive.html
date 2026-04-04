@@ -1,0 +1,40 @@
+{{ define "main" }}
+{{ $allPosts := where .Site.RegularPages "Section" "posts" }}
+
+<div class="list-header">
+  <h1 class="list-title">Archive</h1>
+  <p class="list-count">{{ len $allPosts }} articles</p>
+</div>
+
+<div class="list-page-body">
+{{ range ($allPosts.GroupByDate "2006") }}
+<div class="archive-year">
+  <h2 class="archive-year-heading">{{ .Key }}</h2>
+
+  {{ $posts := .Pages }}
+
+  {{ $winter := where $posts "Date.Month" "in" (slice 12 1 2) }}
+  {{ $spring := where $posts "Date.Month" "in" (slice 3 4 5) }}
+  {{ $summer := where $posts "Date.Month" "in" (slice 6 7 8) }}
+  {{ $autumn := where $posts "Date.Month" "in" (slice 9 10 11) }}
+
+  {{ range (slice (dict "name" "Spring" "posts" $spring) (dict "name" "Summer" "posts" $summer) (dict "name" "Autumn" "posts" $autumn) (dict "name" "Winter" "posts" $winter)) }}
+  {{ if gt (len .posts) 0 }}
+  <div class="archive-season">
+    <h3 class="archive-season-heading">{{ .name }}</h3>
+    <div class="archive-list">
+      {{ range .posts }}
+      <a href="{{ .RelPermalink }}" class="archive-item">
+        <span class="archive-item-date">{{ .Date.Format "2 Jan" }}</span>
+        <span class="archive-item-title">{{ .Title }}</span>
+        {{ with .Params.author }}<span class="archive-item-author">{{ . }}</span>{{ end }}
+      </a>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+  {{ end }}
+</div>
+{{ end }}
+</div>
+{{ end }}

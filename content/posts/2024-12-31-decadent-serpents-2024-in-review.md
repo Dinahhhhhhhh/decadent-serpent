@@ -143,7 +143,7 @@ Photo Credit: [Scotland Rocks Radio](https://scotlandrocksradio.com/)_,_[Jai Dee
 
 ### Chief Ideas & Culture Columnist - Giulia Prodiguerra
 
-Our Chief Ideas & Culture Columnist, Giulia Prodiguerra (known for her whole folklore column which you can read [here](https://decadentserpent.com/?s=giulia)), really enjoyed:
+Our Chief Ideas & Culture Columnist, Giulia Prodiguerra (known for her whole folklore column which you can read [here](https://decadentserpent.com/writers/giulia/)), really enjoyed:
 
 ### MUSIC: Barns Courtney & The Struts in Glasgow
 
@@ -207,7 +207,7 @@ Source: IMDb
 
 ### Chief Literature Columnist - Eva McFarlane
 
-Eva is known for absolute creative writing gems this year, such as Crimson Reign and Toy Soldiers. You can read more of her work [here](https://decadentserpent.com/?s=eva+mcfarlane).
+Eva is known for absolute creative writing gems this year, such as Crimson Reign and Toy Soldiers. You can read more of her work [here](https://decadentserpent.com/writers/eva-mcfarlane/).
 
 ### FILM/TV: Arcane Season 2
 
@@ -239,7 +239,7 @@ You can already find out Jack's best films of 2024 [here](https://decadentserpen
 
 ### Chief Music Columnist - Adam Gorecki
 
-Adam started strong with us with his beautiful review of the Dead Zebras and a great feature on conflicts that contributed to birth of great classics. You can read his work [here](https://decadentserpent.com/?s=adam+gorecki).
+Adam started strong with us with his beautiful review of the Dead Zebras and a great feature on conflicts that contributed to birth of great classics. You can read his work [here](https://decadentserpent.com/writers/adam-gorecki/).
 
 ### MUSIC: Young Fathers, Albert Hall, April 2024
 
@@ -251,7 +251,7 @@ Adam started strong with us with his beautiful review of the Dead Zebras and a g
 
 ### Chief History Columnist - Gavin Duffy
 
-Gavin is known for absolute bombshell pieces on history, including his fascinating Chetnik article as well as the piece on Christmas in the Third Reich. You can read his work [here](https://decadentserpent.com/?s=gavin+duffy).
+Gavin is known for absolute bombshell pieces on history, including his fascinating Chetnik article as well as the piece on Christmas in the Third Reich. You can read his work [here](https://decadentserpent.com/writers/gavin-duffy/).
 
 ### ART: Yoshida: Three generations of Japanese printmaking at the Dulwich Picture Gallery in London
 
