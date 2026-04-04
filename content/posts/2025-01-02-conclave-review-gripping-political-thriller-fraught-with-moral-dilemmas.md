@@ -1,4 +1,5 @@
 ---
+author: "Albert Mackenzie"
 image: "/images/uploads/2025/01/mv5bywq3zddimtytzguwmy00mdqwlwi2zgmtndjkmtu1ngy3yme2xkeyxkfqcgc40._v1_.jpg"
 title: "Conclave Review: Gripping Political Thriller Fraught with Moral Dilemmas"
 date: 2025-01-02

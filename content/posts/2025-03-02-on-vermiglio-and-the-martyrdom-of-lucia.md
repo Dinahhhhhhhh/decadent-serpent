@@ -1,4 +1,5 @@
 ---
+author: "Tyler Hummel"
 image: "/images/uploads/2025/03/mv5bnjyynzm1odctndmyny00nwqyltg4mwytnjdmzjhjyjgxywvlxkeyxkfqcgc40._v1_.jpg"
 title: "On 'Vermiglio' And The Martyrdom of Lucia"
 date: 2025-03-02

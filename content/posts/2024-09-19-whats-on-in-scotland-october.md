@@ -1,4 +1,5 @@
 ---
+author: "Dinah Kolka"
 image: "/images/uploads/2024/09/october_2003.29.1-2.jpg"
 title: "What's On in Scotland - October"
 date: 2024-09-19

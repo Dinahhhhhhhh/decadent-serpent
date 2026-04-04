@@ -1,4 +1,5 @@
 ---
+author: "Amory Crane"
 image: "/images/uploads/2025/06/image-27-e1750666939485.png"
 title: "Aestheticising Power: On Art and Elite Theory"
 date: 2025-07-21

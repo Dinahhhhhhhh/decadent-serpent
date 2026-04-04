@@ -1,4 +1,5 @@
 ---
+author: "Cameron Aitken"
 image: "/images/uploads/2024/12/96e476620ef417981cee39a335973ae8a1d908ed.jpeg"
 title: "Vladimir Nabokov: The Gift of Perceptive Prose"
 date: 2024-12-23

@@ -1,4 +1,5 @@
 ---
+author: "Dinah Kolka"
 image: "/images/uploads/2024/11/2-november-moonlight-john-atkinson-grimshaw.jpg"
 title: "What's on in November"
 date: 2024-11-03

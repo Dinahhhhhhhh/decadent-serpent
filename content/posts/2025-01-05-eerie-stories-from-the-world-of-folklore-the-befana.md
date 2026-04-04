@@ -1,4 +1,5 @@
 ---
+author: "Giulia Prodiguerra"
 image: "/images/uploads/2025/01/befana.jpg"
 title: "Eerie Stories From the World of Folklore - The Befana"
 date: 2025-01-05

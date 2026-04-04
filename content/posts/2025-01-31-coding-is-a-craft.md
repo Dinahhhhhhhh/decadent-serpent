@@ -1,4 +1,5 @@
 ---
+author: "Adam Limb"
 image: "/images/uploads/2025/01/deedc9ef-c397-4773-acb5-c200a6cb2964.jpeg"
 title: "Coding is a Craft"
 date: 2025-01-31

@@ -1,4 +1,5 @@
 ---
+author: "Dinah Kolka"
 image: "/images/uploads/2025/08/303ae9f7-071d-4b01-920a-9bfb7c4039d5.jpeg"
 title: "Viriditas: Fiona Mackenzie's 'Sacred' Exhibition at the Highland Print Studio"
 date: 2025-08-26

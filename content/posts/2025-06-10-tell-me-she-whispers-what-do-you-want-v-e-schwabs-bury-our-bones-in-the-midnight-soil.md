@@ -1,4 +1,5 @@
 ---
+author: "Eva McFarlane"
 image: "/images/uploads/2025/04/img_0194-1.png"
 title: "‘“Tell me,” she whispers, “what do you want?”’— V. E. Schwab’s Bury our Bones in the Midnight Soil"
 date: 2025-06-10

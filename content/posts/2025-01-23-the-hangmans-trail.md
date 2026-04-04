@@ -1,4 +1,5 @@
 ---
+author: "Eva McFarlane"
 image: "/images/uploads/2025/01/caspar_david_friedrich_-_abtei_im_eichwald_-_google_art_project-1.jpg"
 title: "The Hangman’s Trail"
 date: 2025-01-23

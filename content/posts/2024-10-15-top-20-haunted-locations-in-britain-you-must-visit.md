@@ -1,4 +1,5 @@
 ---
+author: "Sarah Stook"
 image: "/images/uploads/2024/10/img_4083_original-2.jpg"
 title: "Top 20 Haunted Locations in Britain You Must Visit"
 date: 2024-10-15

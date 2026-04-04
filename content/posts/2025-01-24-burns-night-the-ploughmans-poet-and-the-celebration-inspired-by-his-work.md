@@ -1,4 +1,5 @@
 ---
+author: "Eva McFarlane"
 image: "/images/uploads/2025/01/img_0166-1.jpg"
 title: "Burns Night— The Ploughman’s Poet And The Celebration Inspired by His Work"
 date: 2025-01-24

@@ -1,4 +1,5 @@
 ---
+author: "Sarah Stook"
 image: "/images/uploads/2025/06/12120.jpg"
 title: "HENRY VIII’S WIVES"
 date: 2025-06-07

@@ -1,4 +1,5 @@
 ---
+author: "Dinah Kolka"
 image: "/images/uploads/2025/07/image-3.png"
 title: "God's Project: A Review of 'God is an Englishman'"
 date: 2025-07-01

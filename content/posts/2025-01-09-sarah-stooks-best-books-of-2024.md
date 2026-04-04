@@ -1,4 +1,5 @@
 ---
+author: "Sarah Stook"
 image: "/images/uploads/2025/01/h5322-l374129110_original.jpg"
 title: "Sarah Stook's Best Books of 2024"
 date: 2025-01-09

@@ -1,4 +1,5 @@
 ---
+author: "Giulia Prodiguerra"
 image: "/images/uploads/2025/03/ss_5e2d136759e0ff4e0d74940fffc9c64e8cdcd833.1920x1080.jpg"
 title: "I Got Spurs That Jingle Jangle Jingle: The Apocalypse Never Looked (And Sounded) So Good"
 date: 2025-03-06

@@ -1,4 +1,5 @@
 ---
+author: "Dinah Kolka"
 image: "/images/uploads/2025/01/untitled-m0466-1956-copy.jpg"
 title: "Events in January"
 date: 2025-01-01

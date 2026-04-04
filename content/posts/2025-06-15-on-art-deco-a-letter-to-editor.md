@@ -1,4 +1,5 @@
 ---
+author: "Paul Rhoads"
 image: "/images/uploads/2025/06/image-14-e1749968626168.png"
 title: "On Art Deco: A Letter to the Editor"
 date: 2025-06-15

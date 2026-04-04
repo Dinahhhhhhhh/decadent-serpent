@@ -1,4 +1,5 @@
 ---
+author: "Cameron Aitken"
 image: "/images/uploads/2025/03/swans-reflecting-elephants.jpg"
 title: "Stream of Consciousness: Frenzied Narratives in Modernist Literature"
 date: 2025-03-01

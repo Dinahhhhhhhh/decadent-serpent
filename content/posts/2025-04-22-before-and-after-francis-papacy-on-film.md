@@ -1,4 +1,5 @@
 ---
+author: "Tyler Hummel"
 image: "/images/uploads/2025/04/downloadpope.jpeg"
 title: "Before And After: Francis’ Papacy On Film"
 date: 2025-04-22

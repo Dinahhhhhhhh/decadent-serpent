@@ -1,4 +1,5 @@
 ---
+author: "Amory Crane"
 image: "/images/uploads/2025/07/image-6.png"
 title: "Blood on the Greyscale: A Review of ‘The Naked Spur’"
 date: 2025-07-07

@@ -1,4 +1,5 @@
 ---
+author: "Eva McFarlane"
 image: "/images/uploads/2024/12/arnold_bocklin_-_die_toteninsel_iii_alte_nationalgalerie_berlin.jpg"
 title: "The Haunting Works and History of Gothic Literature: Where it Began and Where it is Heading"
 date: 2024-12-27

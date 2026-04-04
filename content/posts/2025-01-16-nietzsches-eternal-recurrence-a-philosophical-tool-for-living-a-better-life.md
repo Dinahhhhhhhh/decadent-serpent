@@ -1,4 +1,5 @@
 ---
+author: "Daniel Harding"
 image: "/images/uploads/2025/01/europe-after-the-rain-ii1.jpglarge.jpg"
 title: "Nietzsche’s Eternal Recurrence: A Philosophical Tool for Living a Better Life"
 date: 2025-01-16

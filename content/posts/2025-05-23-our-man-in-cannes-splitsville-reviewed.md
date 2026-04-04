@@ -1,4 +1,5 @@
 ---
+author: "Jack Salvadori"
 image: "/images/uploads/2025/05/splitsville-e1747978875943.jpg"
 title: "Our Man in Cannes: 'Splitsville' Reviewed"
 date: 2025-05-23

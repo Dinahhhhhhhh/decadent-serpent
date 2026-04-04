@@ -1,4 +1,5 @@
 ---
+author: "Adam Gorecki"
 image: "/images/uploads/2025/09/image-4.png"
 title: "Victorious Festival 2025: The Perfect Way to Wrap Up Your Summer."
 date: 2025-09-05

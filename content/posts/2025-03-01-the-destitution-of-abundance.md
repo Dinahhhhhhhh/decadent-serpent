@@ -1,4 +1,5 @@
 ---
+author: "Dinah Kolka"
 image: "/images/uploads/2025/03/caspar_david_friedrich_-_der_monch_am_meer_-_google_art_project.jpg"
 title: "The Destitution of Abundance"
 date: 2025-03-01

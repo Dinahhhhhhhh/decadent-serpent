@@ -1,4 +1,5 @@
 ---
+author: "Mat Brown"
 image: "/images/uploads/2025/08/image-7-e1754641008311.png"
 title: "A Tale of Nostalgia and Nepotism: A Review of Sam Dalrymple's 'Shattered Lands'"
 date: 2025-08-08

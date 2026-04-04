@@ -1,4 +1,5 @@
 ---
+author: "Jack Salvadori"
 image: "/images/uploads/2025/05/untitled-design-9.png"
 title: "Our Man in Cannes: 'Eddington' Reviewed"
 date: 2025-05-20

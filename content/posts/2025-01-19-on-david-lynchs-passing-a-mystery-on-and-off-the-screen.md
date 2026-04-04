@@ -1,4 +1,5 @@
 ---
+author: "Tyler Hummel"
 image: "/images/uploads/2025/01/img_2484.jpg"
 title: "On David Lynch’s Passing: A Mystery On And Off The Screen"
 date: 2025-01-19

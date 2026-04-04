@@ -1,4 +1,5 @@
 ---
+author: "Tyler Hummel"
 image: "/images/uploads/2026/01/image-2.png"
 title: "On The Religious Dimensions of The Grateful Dead"
 date: 2026-01-17

@@ -1,4 +1,5 @@
 ---
+author: "Abigail Humphries"
 image: "/images/uploads/2025/07/image-15.png"
 title: "Reviewed: Kim Dracula At The Slay Glasgow"
 date: 2025-07-15

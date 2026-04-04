@@ -1,4 +1,5 @@
 ---
+author: "George Marsden"
 image: "/images/uploads/2025/02/9.jpg"
 title: "Grandchildren of the Revolution - Sister Madds Concert Review, Glasgow"
 date: 2025-02-24

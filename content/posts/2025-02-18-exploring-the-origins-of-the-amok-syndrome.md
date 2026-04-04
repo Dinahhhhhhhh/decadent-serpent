@@ -1,4 +1,5 @@
 ---
+author: "Gavin Duffy"
 image: "/images/uploads/2025/02/pwissen_2014-02-20_amok_john_hagenbeck__kreuz_und_quer_durch_die_indische_welt_neues.jpg"
 title: "Exploring the Origins of The Amok Syndrome"
 date: 2025-02-18

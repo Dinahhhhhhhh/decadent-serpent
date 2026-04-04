@@ -1,4 +1,5 @@
 ---
+author: "Shieldmaiden"
 image: "/images/uploads/2025/03/mv5bzwiwotuyzjctnzjimc00nznhlwfhnjetyzyyzgrizwm3yzawxkeyxkfqcgc40._v1_.jpg"
 title: "Vintage Reviews: The House That Dripped Blood (1971)"
 date: 2025-03-30

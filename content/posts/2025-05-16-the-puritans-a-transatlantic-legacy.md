@@ -1,4 +1,5 @@
 ---
+author: "Gavin Duffy"
 image: "/images/uploads/2025/05/george-henry-boughton-pilgrims-going-to-church.jpg"
 title: "The Puritans: A Transatlantic Legacy"
 date: 2025-05-16

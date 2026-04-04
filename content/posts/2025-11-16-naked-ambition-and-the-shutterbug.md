@@ -1,4 +1,5 @@
 ---
+author: "Jason Graff"
 image: "/images/uploads/2025/11/image-2-e1763299539215.png"
 title: "Naked Ambition and the Shutterbug"
 date: 2025-11-16

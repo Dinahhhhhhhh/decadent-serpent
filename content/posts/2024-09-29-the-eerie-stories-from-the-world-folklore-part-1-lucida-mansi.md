@@ -1,4 +1,5 @@
 ---
+author: "Giulia Prodiguerra"
 image: "/images/uploads/2024/09/picture-1-1.jpg"
 title: "The Eerie Stories from the World Folklore - Part 1 - Lucida Mansi"
 date: 2024-09-29

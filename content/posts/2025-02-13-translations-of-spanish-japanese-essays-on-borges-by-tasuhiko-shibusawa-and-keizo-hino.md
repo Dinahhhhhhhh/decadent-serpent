@@ -1,4 +1,5 @@
 ---
+author: "Ryan Shea"
 image: "/images/uploads/2025/02/p01gww0z.jpg"
 title: "Translations of Spanish-Japanese Essays on Borges by Tasuhiko Shibusawa and Keizo Hino"
 date: 2025-02-13

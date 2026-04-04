@@ -1,4 +1,5 @@
 ---
+author: "Giulia Prodiguerra"
 image: "/images/uploads/2024/12/in-brecon-the-custom-of-the-mari-lwyd-has-been-kept-alive-by-the-brecon-mari-lwyd-group-who-are-dedicated-to-reviving-the-welsh-tradition.jpg"
 title: "Eerie stories from the world of folklore - Mari Lwyd"
 date: 2024-12-01

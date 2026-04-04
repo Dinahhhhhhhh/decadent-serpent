@@ -1,4 +1,5 @@
 ---
+author: "Jack Salvadori"
 image: "/images/uploads/2025/07/image-42.png"
 title: "Star Power and Auteur Swagger: Inside the Venice 2025 Lineup"
 date: 2025-07-30

@@ -1,4 +1,5 @@
 ---
+author: "Casey Morris"
 image: "/images/uploads/2026/01/image.png"
 title: "'Cold War Legacies': An Explication"
 date: 2026-01-07

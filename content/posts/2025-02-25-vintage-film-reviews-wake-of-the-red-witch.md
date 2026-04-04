@@ -1,4 +1,5 @@
 ---
+author: "Shieldmaiden"
 image: "/images/uploads/2025/02/mv5bzde3ogu1mgutnwzmoc00mjflltgwyzitowexowzhodflnmu2xkeyxkfqcgc40._v1_.jpg"
 title: "Vintage Film Reviews: Wake of the Red Witch"
 date: 2025-02-25

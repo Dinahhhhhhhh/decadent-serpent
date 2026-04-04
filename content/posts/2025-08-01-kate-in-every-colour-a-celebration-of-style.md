@@ -1,4 +1,5 @@
 ---
+author: "Sarah Stook"
 image: "/images/uploads/2025/07/image-58.png"
 title: "Kate In Every Colour: A Celebration of Style"
 date: 2025-08-01

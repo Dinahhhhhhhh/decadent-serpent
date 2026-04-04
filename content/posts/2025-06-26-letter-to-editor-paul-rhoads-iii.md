@@ -1,4 +1,5 @@
 ---
+author: "Paul Rhoads"
 image: "/images/uploads/2025/06/image-48-e1750892055623.png"
 title: "Letter to Editor: Paul Rhoads III"
 date: 2025-06-26

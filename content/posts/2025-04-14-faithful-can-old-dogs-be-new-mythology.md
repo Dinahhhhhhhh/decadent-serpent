@@ -1,4 +1,5 @@
 ---
+author: "Jaedon Abbott"
 image: "/images/uploads/2025/04/mv5bogflmjqxm2qtytzioc00nwe5lwi4mzutnjm1mzy4zdi2n2eyxkeyxkfqcgc40._v1_.jpg"
 title: "Faithful: Can Old Dogs Be New Mythology?"
 date: 2025-04-14

@@ -1,4 +1,5 @@
 ---
+author: "Daniel Harding"
 image: "/images/uploads/2024/12/778fd70b-4219-4604-a556-5cc0b1c85afa.jpeg"
 title: "Bridging the Personal and Philosophical: An Intimate Portrait of Albert Camus"
 date: 2024-12-17

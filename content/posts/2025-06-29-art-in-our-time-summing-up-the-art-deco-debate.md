@@ -1,4 +1,5 @@
 ---
+author: "Amory Crane"
 image: "/images/uploads/2025/06/image-51.png"
 title: "Art in Our Time: Summing up the Art Deco Debate"
 date: 2025-06-29

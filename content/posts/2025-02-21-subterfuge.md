@@ -1,4 +1,5 @@
 ---
+author: "Cameron Aitken"
 image: "/images/uploads/2025/02/617153.jpeg"
 title: "Subterfuge"
 date: 2025-02-21

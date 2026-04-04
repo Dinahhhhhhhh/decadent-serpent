@@ -1,4 +1,5 @@
 ---
+author: "Adam Gorecki"
 image: "/images/uploads/2025/01/b953e00c-3b3a-4f98-8109-26e9e02edcc6.jpeg"
 title: "The Audience Comes Last."
 date: 2025-01-10

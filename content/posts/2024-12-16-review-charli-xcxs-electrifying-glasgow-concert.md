@@ -1,4 +1,5 @@
 ---
+author: "Christina Zaglis"
 image: "/images/uploads/2024/12/ac6ba569-1202-4987-a1c2-78e306eb1e00-1.jpg"
 title: "Review: Charli XCX's Electrifying Glasgow Concert"
 date: 2024-12-16

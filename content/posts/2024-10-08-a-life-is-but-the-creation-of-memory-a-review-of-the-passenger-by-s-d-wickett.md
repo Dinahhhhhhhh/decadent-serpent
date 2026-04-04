@@ -1,4 +1,5 @@
 ---
+author: "Dinah Kolka"
 image: "/images/uploads/2024/10/salisbury_cathedral_from_lower_marsh_close_1937.1.108.jpg"
 title: "‘A Life is but the Creation of Memory’ A review of The Passenger by S.D. Wickett"
 date: 2024-10-08

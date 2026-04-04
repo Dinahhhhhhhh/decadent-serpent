@@ -1,4 +1,5 @@
 ---
+author: "Giulia Prodiguerra"
 image: "/images/uploads/2025/01/poly-baggage-still-5-1.png"
 title: "Behind the Scenes of Poly Baggage: Interview with Emma Ramsay"
 date: 2025-01-28

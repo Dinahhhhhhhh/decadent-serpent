@@ -1,4 +1,5 @@
 ---
+author: "George Marsden"
 image: "/images/uploads/2025/04/paolo_uccello_heiliger_georg_und_der_drachen_1_470.jpg"
 title: "St George and the Dragon and the Skirt"
 date: 2025-04-23

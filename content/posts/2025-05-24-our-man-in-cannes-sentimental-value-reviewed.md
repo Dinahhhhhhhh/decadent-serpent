@@ -1,4 +1,5 @@
 ---
+author: "Jack Salvadori"
 image: "/images/uploads/2025/05/first-image-of-sentimental-value-directed-by-joachim-trier-v0-9rj9r9babzte1-e1747978926635.webp"
 title: "Our Man in Cannes: 'Sentimental Value' Reviewed"
 date: 2025-05-24

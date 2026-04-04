@@ -1,4 +1,5 @@
 ---
+author: "Casey Morris"
 image: "/images/uploads/2024/12/vincent_van_gogh_ebene_bei_auvers_1890_neue_pinakothek_munich.jpeg"
 title: "Joshua Mehigan's 'The Optimist': A Deep Dive"
 date: 2024-12-09

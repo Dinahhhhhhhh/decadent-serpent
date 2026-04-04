@@ -1,4 +1,5 @@
 ---
+author: "Nathan CJ Hood is a YouTuber and a graduate of the University of Edinburgh with a PhD in the History of Christianity"
 image: "/images/uploads/2024/11/frank-miller-the-dark-knight-returns.jpeg"
 title: "'The Dark Knight Returns' Interrogates Us All"
 date: 2024-11-09

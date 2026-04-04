@@ -1,4 +1,5 @@
 ---
+author: "Dinah Kolka"
 image: "/images/uploads/2024/10/1_fotor-7.jpg"
 title: "Top 10 Cosy Horror Films to Watch This Halloween"
 date: 2024-10-22

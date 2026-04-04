@@ -1,4 +1,5 @@
 ---
+author: "Samuel Wild"
 image: "/images/uploads/2024/12/ce6ca16b-ecdf-4527-9c27-e1e5d1a99f1b.jpeg"
 title: "Perennial Artistry: Fantasy Art is Superior to Contemporary Art"
 date: 2024-12-01

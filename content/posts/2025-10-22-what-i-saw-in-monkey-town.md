@@ -1,4 +1,5 @@
 ---
+author: "Tyler Hummel"
 image: "/images/uploads/2025/10/image-5.png"
 title: "What I Saw In Monkey Town"
 date: 2025-10-22

@@ -1,4 +1,5 @@
 ---
+author: "Cameron Aitken"
 image: "/images/uploads/2025/01/3eaa0d7a-365f-481f-9d75-afaee4a7cafe.jpeg"
 title: "Nabokov Unravelled — A Book Review of 'Ada to Zembla: The Novels of Vladimir Nabokov' by Dr David Vernon"
 date: 2025-01-16

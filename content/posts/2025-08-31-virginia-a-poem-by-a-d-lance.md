@@ -1,4 +1,5 @@
 ---
+author: "A. D. Lance"
 image: "/images/uploads/2025/08/image-31-e1756641990502.png"
 title: "Virginia, A Poem by A. D. Lance"
 date: 2025-08-31

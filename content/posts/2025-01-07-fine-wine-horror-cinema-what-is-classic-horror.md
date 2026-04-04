@@ -1,4 +1,5 @@
 ---
+author: "Ross Hepburn"
 image: "/images/uploads/2025/01/mv5bmtazmdg5odg4njfeqtjeqwpwz15bbwu4mdc2ndexntix._v1_.jpg"
 title: "Fine Wine Horror Cinema: What is Classic Horror?"
 date: 2025-01-07

@@ -1,4 +1,5 @@
 ---
+author: "Weston Newbell"
 image: "/images/uploads/2026/02/image-15.png"
 title: "A Song to the Airplane: A Poem"
 date: 2026-02-08

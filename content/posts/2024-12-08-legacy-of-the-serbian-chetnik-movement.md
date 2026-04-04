@@ -1,4 +1,5 @@
 ---
+author: "Gavin Duffy"
 image: "/images/uploads/2024/12/d092d0bed198d0b2d0bed0b4d0b0_d092d183d0ba_d181d0b0_d181d0b2d0bed198d0b8d0bc_d187d0b5d182d0bdd0b8d186d0b8d0bcd0b0.jpg"
 title: "Legacy of the Serbian Chetnik Movement"
 date: 2024-12-08

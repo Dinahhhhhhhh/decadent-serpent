@@ -1,4 +1,5 @@
 ---
+author: "Casey Morris"
 image: "/images/uploads/2025/01/john_martin_-_the_great_day_of_his_wrath_-_google_art_project.jpg"
 title: "Exploring Dylan Thomas: A Maverick Poet's Legacy"
 date: 2025-01-22

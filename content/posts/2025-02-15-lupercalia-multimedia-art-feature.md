@@ -1,4 +1,5 @@
 ---
+author: "Sam Wild, Eva McFarlane, Gavin Duffy"
 image: "/images/uploads/2025/02/150f3453-ea07-434b-b2d0-cc4cc2ed2de1.jpeg"
 title: "Lupercalia: Multimedia Art Feature"
 date: 2025-02-15

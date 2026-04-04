@@ -1,4 +1,5 @@
 ---
+author: "Mat Brown"
 image: "/images/uploads/2026/02/image-1.png"
 title: "History as Magical Unrealism:A review of 'The Indian Caliphate'"
 date: 2026-02-02

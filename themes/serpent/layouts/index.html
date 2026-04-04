@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{/* ── Carousel: 5 most recent posts with images ── */}}
+{{/* ── Carousel ── */}}
 {{ $allPosts := where .Site.RegularPages "Section" "posts" }}
 {{ $withImages := where $allPosts ".Params.image" "!=" "" }}
 {{ $featured := first 5 $withImages }}
@@ -16,6 +16,7 @@
           <span class="carousel-cat">{{ index . 0 | humanize }}</span>
           {{ end }}
           <h2 class="carousel-title">{{ .Title }}</h2>
+          {{ with .Params.author }}<span class="carousel-author">{{ . }}</span>{{ end }}
         </div>
       </a>
     </div>
@@ -30,7 +31,7 @@
   </div>
 </section>
 
-{{/* ── Section Grid — hardcoded curated images ── */}}
+{{/* ── Section Grid ── */}}
 <section class="section-grid">
   <div class="section-grid-inner">
     <a href="/categories/literature/" class="section-card">
@@ -79,6 +80,7 @@
           <span class="post-card-cat">{{ index . 0 | humanize }}</span>
           {{ end }}
           <h3 class="post-card-title">{{ .Title }}</h3>
+          {{ with .Params.author }}<span class="post-card-author">{{ . }}</span>{{ end }}
           <span class="post-card-date">{{ .Date.Format "2 January 2006" }}</span>
         </div>
       </a>

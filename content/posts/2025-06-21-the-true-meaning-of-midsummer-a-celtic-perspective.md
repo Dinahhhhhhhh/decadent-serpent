@@ -1,4 +1,5 @@
 ---
+author: "George Marsden"
 image: "/images/uploads/2025/06/image-25.png"
 title: "The True Meaning of Midsummer — A Celtic Perspective"
 date: 2025-06-21

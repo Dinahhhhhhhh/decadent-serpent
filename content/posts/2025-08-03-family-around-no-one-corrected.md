@@ -1,4 +1,5 @@
 ---
+author: "Jason Graff"
 image: "/images/uploads/2025/08/image.png"
 title: "Family Around, No One Corrected"
 date: 2025-08-03

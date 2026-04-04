@@ -1,4 +1,5 @@
 ---
+author: "Sarah Stook"
 image: "/images/uploads/2025/02/how-would-you-rank-the-tudor-consorts-not-just-the-6-wives-v0-ku24ogejjz6d1.jpeg"
 title: "How to be a Successful Consort"
 date: 2025-02-07

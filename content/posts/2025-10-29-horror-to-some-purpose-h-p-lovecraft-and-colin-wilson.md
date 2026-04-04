@@ -1,4 +1,5 @@
 ---
+author: "Luke Gilfedder"
 image: "/images/uploads/2025/10/image-14.png"
 title: "Horror To Some Purpose: H.P. Lovecraft and Colin Wilson"
 date: 2025-10-29

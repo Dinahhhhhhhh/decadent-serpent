@@ -1,4 +1,5 @@
 ---
+author: "Sarah Stook"
 image: "/images/uploads/2024/12/catherine-aragon-henry-wife-loved-most.jpeg"
 title: "Alternate History: What if Henry, Duke of Cornwall Lived?"
 date: 2024-12-30

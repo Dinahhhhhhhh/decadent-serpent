@@ -1,4 +1,5 @@
 ---
+author: "Laura Scott"
 image: "/images/uploads/2025/06/joseph-schuster-stillleben-mit-stillleben-mit-disteln-glockenblumen-hagebutten-59bf46-640.jpg"
 title: "Tragic Love Poetry Competition Winning Entry: Laura Scott: 'A Sombre Sonnet on the Thistle'"
 date: 2025-06-14

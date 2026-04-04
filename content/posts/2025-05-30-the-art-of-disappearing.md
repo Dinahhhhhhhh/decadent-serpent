@@ -1,4 +1,5 @@
 ---
+author: "Dinah Kolka"
 image: "/images/uploads/2025/05/img_7004.jpg"
 title: "The Art of Disappearing"
 date: 2025-05-30

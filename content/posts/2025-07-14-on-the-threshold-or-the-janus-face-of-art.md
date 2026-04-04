@@ -1,4 +1,5 @@
 ---
+author: "Amory Crane"
 image: "/images/uploads/2025/07/image-22.png"
 title: "The Threshold of Our Selves; Or, The Janus Face of Art"
 date: 2025-07-14

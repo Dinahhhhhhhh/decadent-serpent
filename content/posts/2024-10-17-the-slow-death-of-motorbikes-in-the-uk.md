@@ -1,4 +1,5 @@
 ---
+author: "Чебурашка"
 image: "/images/uploads/2024/10/pexels-duc-nguyen-400576574-26733281.jpg"
 title: "The Slow Death of Motorbikes in the UK"
 date: 2024-10-17

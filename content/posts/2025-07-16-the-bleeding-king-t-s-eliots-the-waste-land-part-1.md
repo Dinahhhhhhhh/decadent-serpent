@@ -1,4 +1,5 @@
 ---
+author: "Casey Morris"
 image: "/images/uploads/2025/07/image-31-e1752627822661.png"
 title: "The Bleeding King: T.S. Eliot's \"The Waste Land\" Part 1"
 date: 2025-07-16

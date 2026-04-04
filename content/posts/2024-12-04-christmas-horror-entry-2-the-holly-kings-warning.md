@@ -1,4 +1,5 @@
 ---
+author: "Fraser Payne"
 image: "/images/uploads/2024/12/caspar_david_friedrich_-_winter_landscape_with_church_-_wga08245.jpg"
 title: "Christmas Horror Entry 2: The Holly King’s Warning"
 date: 2024-12-04

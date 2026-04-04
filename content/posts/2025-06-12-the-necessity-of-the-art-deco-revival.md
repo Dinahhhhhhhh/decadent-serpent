@@ -1,4 +1,5 @@
 ---
+author: "Sam Wild"
 image: "/images/uploads/2025/06/image-11-e1749714483704.png"
 title: "The Necessity of the Art Deco Revival"
 date: 2025-06-12

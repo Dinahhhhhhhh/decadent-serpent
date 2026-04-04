@@ -1,4 +1,5 @@
 ---
+author: "Ivor Starkey"
 image: "/images/uploads/2025/11/image-e1762085773295.png"
 title: "The Partisan: Part One"
 date: 2025-11-02

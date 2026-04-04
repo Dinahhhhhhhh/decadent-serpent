@@ -1,4 +1,5 @@
 ---
+author: "Dinah Kolka"
 image: "/images/uploads/2024/12/brown_viper_with_arum_lily_1731_wellcome_l0035357.jpg"
 title: "Decadent Serpent's 2024 in Review"
 date: 2024-12-31

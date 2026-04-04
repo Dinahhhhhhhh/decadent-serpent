@@ -1,4 +1,5 @@
 ---
+author: "Amory Crane"
 image: "/images/uploads/2025/02/a4503823-8409-40d5-aeee-71b29f3976e1.jpeg"
 title: "How We See Now: Memes as the Depiction of The New Digital World"
 date: 2025-02-03

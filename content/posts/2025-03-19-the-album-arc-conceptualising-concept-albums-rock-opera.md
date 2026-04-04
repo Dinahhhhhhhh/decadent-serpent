@@ -1,4 +1,5 @@
 ---
+author: "Adam Gorecki"
 image: "/images/uploads/2025/03/tumblr_94a28dd41f647fd07b407782b71e7974_09693635_1280.jpg"
 title: "The Album Arc: Conceptualising concept albums – Rock Opera"
 date: 2025-03-19

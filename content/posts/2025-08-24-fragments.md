@@ -1,4 +1,5 @@
 ---
+author: "Henry Cocteau"
 image: "/images/uploads/2025/08/image-27-e1756036326754.png"
 title: "Fragments"
 date: 2025-08-24

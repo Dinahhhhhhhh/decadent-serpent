@@ -1,4 +1,5 @@
 ---
+author: "Gavin Duffy graduated from Strathclyde University with an MSc in Historical Studies and has had a general thirst for knowledge from a very young age"
 image: "/images/uploads/2025/01/treblinka_-_rail_tracks.jpg"
 title: "The Treblinka Uprising: A Fight for Freedom"
 date: 2025-01-26

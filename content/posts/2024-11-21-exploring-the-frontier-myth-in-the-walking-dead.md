@@ -1,4 +1,5 @@
 ---
+author: "Nathan CJ Hood is a YouTuber and a graduate of the University of Edinburgh with a PhD in the History of Christianity"
 image: "/images/uploads/2024/11/img_2565.png"
 title: "Exploring The Frontier Myth in 'The Walking Dead'"
 date: 2024-11-21

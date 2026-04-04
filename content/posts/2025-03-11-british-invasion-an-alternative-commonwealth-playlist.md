@@ -1,4 +1,5 @@
 ---
+author: "George Marsden"
 image: "/images/uploads/2025/03/5fd9cf23-f440-475b-9be6-968940b4ebc3.jpeg"
 title: "British Invasion - An Alternative Commonwealth Playlist"
 date: 2025-03-11

@@ -1,4 +1,5 @@
 ---
+author: "Eva McFarlane"
 image: "/images/uploads/2024/12/edouard_manet_-_olympia_-_google_art_projectfxd.jpg"
 title: "Silence of the Night"
 date: 2024-12-03

@@ -1,4 +1,5 @@
 ---
+author: "Adam Gorecki"
 image: "/images/uploads/2025/06/image-13.png"
 title: "The Phoenician Scheme: A Review"
 date: 2025-06-14

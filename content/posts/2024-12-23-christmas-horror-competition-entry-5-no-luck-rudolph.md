@@ -1,4 +1,5 @@
 ---
+author: "Kevin Edgar"
 image: "/images/uploads/2024/12/deers-in-the-forest-at-fontainebleau-digital-remastered-edition-rosa-bonheur.jpglarge.jpg"
 title: "Christmas Horror Competition Entry 5: No Luck, Rudolph"
 date: 2024-12-23

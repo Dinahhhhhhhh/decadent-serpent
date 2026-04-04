@@ -1,4 +1,5 @@
 ---
+author: "Eva McFarlane"
 image: "/images/uploads/2024/12/b07b8fae-45d0-41ba-86bb-b41ede96a675.jpeg"
 title: "The Tinsel Serpent"
 date: 2024-12-24

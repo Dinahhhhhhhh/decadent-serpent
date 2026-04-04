@@ -1,4 +1,5 @@
 ---
+author: "Craig Ewan"
 image: "/images/uploads/2024/11/vrubel_demon.jpg"
 title: "The Voice in My Head"
 date: 2024-11-20

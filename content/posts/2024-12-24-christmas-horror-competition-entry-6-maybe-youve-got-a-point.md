@@ -1,4 +1,5 @@
 ---
+author: "Greg Beatty"
 image: "/images/uploads/2024/12/652122-tuckdb14-0-9c47136af3428ed8acb17132b881b6ce.jpeg"
 title: "Christmas Horror Competition Entry 6: Maybe You’ve Got a Point"
 date: 2024-12-24

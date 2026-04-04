@@ -1,4 +1,5 @@
 ---
+author: "Jack Salvadori"
 image: "/images/uploads/2025/05/die-my-love-film-still.webp"
 title: "Our Man in Cannes: 'Die My Love' Reviewed"
 date: 2025-05-23

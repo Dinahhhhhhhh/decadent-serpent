@@ -1,4 +1,5 @@
 ---
+author: "Ryan Shea"
 image: "/images/uploads/2026/03/image-1.png"
 title: "Our Other Modernity: Robert Sobel Remembered"
 date: 2026-03-06

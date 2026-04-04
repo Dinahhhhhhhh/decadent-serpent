@@ -1,4 +1,5 @@
 ---
+author: "Tyler Hummel"
 image: "/images/uploads/2025/05/thumbnail_outlook-hwtus4xu-e1747395638645.jpg"
 title: "Denying the Gods: A Review of 'The Return'"
 date: 2025-05-17

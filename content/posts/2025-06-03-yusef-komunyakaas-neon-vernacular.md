@@ -1,4 +1,5 @@
 ---
+author: "Adam Gorecki"
 image: "/images/uploads/2025/06/image-2-e1748895051202.png"
 title: "Yusef Komunyakaa's \"Neon Vernacular\""
 date: 2025-06-03

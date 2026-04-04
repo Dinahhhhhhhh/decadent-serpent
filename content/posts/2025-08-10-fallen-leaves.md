@@ -1,4 +1,5 @@
 ---
+author: "Casey Morris"
 image: "/images/uploads/2025/08/img_8589.jpg"
 title: "Fallen Leaves"
 date: 2025-08-10

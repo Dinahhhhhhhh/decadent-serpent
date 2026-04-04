@@ -1,4 +1,5 @@
 ---
+author: "Ivor Starkey"
 image: "/images/uploads/2025/04/1600px-samuel_richards_-_evangeline_discovering_her_affianced_in_the_hospital_c1887-89.jpg"
 title: "Accident and Emergency"
 date: 2025-04-27

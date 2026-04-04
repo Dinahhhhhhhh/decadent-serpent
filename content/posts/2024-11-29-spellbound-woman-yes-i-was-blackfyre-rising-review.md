@@ -1,4 +1,5 @@
 ---
+author: "Dinah Kolka"
 image: "/images/uploads/2024/11/img_0876-1.jpg"
 title: "‘Spellbound Woman’? Yes, I was – Blackfyre Rising Review"
 date: 2024-11-29

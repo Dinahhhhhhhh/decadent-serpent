@@ -1,4 +1,5 @@
 ---
+author: "Adam Gorecki"
 image: "/images/uploads/2024/12/picture-1.jpg"
 title: "London Reviews: Wild Tomfoolery of 'Dead Zebras' - The Macbeth, Hoxton"
 date: 2024-12-11

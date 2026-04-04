@@ -1,4 +1,5 @@
 ---
+author: "Tyler Hummel"
 image: "/images/uploads/2025/11/image-1.png"
 title: "The Millennial Moralism of 'Good Fortune'"
 date: 2025-11-10

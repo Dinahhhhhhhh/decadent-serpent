@@ -1,4 +1,5 @@
 ---
+author: "Dinah Kolka"
 image: "/images/uploads/2024/10/philipp_jakob_loutherbourg_d._j._002.jpg"
 title: "‘If some of the old England isn’t preserved, there’ll be no England at all’ – Machine in Lady Chatterley’s Lover"
 date: 2024-10-04

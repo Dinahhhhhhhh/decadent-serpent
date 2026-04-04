@@ -1,4 +1,5 @@
 ---
+author: "Amory Crane"
 image: "/images/uploads/2025/09/image.png"
 title: "A Few Good Men: On the Importance of Critics"
 date: 2025-09-01

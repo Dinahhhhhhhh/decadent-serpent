@@ -1,4 +1,5 @@
 ---
+author: "Adam Gorecki"
 image: "/images/uploads/2025/01/915d1e2d-308f-40b9-ab28-05c4c749ed8f.jpeg"
 title: "Michael Kiwanuka – Small Changes – Album Review"
 date: 2025-01-01

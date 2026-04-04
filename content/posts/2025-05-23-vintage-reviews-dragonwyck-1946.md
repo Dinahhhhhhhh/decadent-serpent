@@ -1,4 +1,5 @@
 ---
+author: "The Shieldmaiden"
 image: "/images/uploads/2025/05/dragonwyck.webp"
 title: "Vintage Reviews: 'Dragonwyck' (1946)"
 date: 2025-05-23

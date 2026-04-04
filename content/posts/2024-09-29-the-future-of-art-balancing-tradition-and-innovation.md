@@ -1,4 +1,5 @@
 ---
+author: "Samuel Wild"
 image: "/images/uploads/2024/09/vncszagr.jpeg"
 title: "The Future of Art: Balancing Tradition and Innovation"
 date: 2024-09-29

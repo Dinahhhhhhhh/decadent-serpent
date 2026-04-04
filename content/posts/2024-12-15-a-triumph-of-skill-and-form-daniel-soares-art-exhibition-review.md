@@ -1,4 +1,5 @@
 ---
+author: "Dinah Kolka"
 image: "/images/uploads/2024/12/img_1193.jpg"
 title: "A Triumph of Skill and Form: Daniel Soares' Art Exhibition Review"
 date: 2024-12-15

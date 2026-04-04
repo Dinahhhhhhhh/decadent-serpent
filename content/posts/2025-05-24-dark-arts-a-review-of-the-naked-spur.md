@@ -1,4 +1,5 @@
 ---
+author: "George Marsden"
 image: "/images/uploads/2025/05/adams-naked-spur-mockup-single.png"
 title: "Dark Arts: A Review of 'The Naked Spur'"
 date: 2025-05-24

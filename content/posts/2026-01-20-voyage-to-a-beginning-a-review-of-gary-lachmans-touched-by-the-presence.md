@@ -1,4 +1,5 @@
 ---
+author: "Luke Gilfedder"
 image: "/images/uploads/2026/01/image-5-e1768888162638.png"
 title: "Voyage to a Beginning: A review of Gary Lachman’s ‘Touched by the Presence’"
 date: 2026-01-20

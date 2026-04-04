@@ -1,4 +1,5 @@
 ---
+author: "Mateusz Kowalski"
 image: "/images/uploads/2025/02/8d97fd61-0eaf-4bf5-9d6e-be205f5dfde0.jpeg"
 title: "Lucy Learns to Fly"
 date: 2025-02-01

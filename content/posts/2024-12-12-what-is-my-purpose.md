@@ -1,4 +1,5 @@
 ---
+author: "Eva McFarlane"
 image: "/images/uploads/2024/12/fd1106f0-6e9d-4843-8207-7953795d4fae.jpeg"
 title: "What is my Purpose?"
 date: 2024-12-12

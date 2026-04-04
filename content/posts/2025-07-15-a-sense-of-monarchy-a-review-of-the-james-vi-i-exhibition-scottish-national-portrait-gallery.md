@@ -1,4 +1,5 @@
 ---
+author: "Gavin Duffy"
 image: "/images/uploads/2025/07/image-30-e1752565082530.png"
 title: "A Sense of Monarchy: A Review of the James VI/I exhibition, Scottish National Portrait Gallery"
 date: 2025-07-15

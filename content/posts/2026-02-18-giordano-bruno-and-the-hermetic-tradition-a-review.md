@@ -1,4 +1,5 @@
 ---
+author: "David Banic"
 image: "/images/uploads/2026/02/image-18.png"
 title: "Giordano Bruno and the Hermetic Tradition: A Review"
 date: 2026-02-18

@@ -1,4 +1,5 @@
 ---
+author: "Adam Gorecki"
 image: "/images/uploads/2025/07/image-12.png"
 title: "Black Rain’s A-Gonna Fall: A Review of Their Debut Album"
 date: 2025-07-09

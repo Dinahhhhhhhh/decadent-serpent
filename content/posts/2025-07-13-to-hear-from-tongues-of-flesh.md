@@ -1,4 +1,5 @@
 ---
+author: "A. R. Duncan"
 image: "/images/uploads/2025/07/image-17.png"
 title: "To Hear from Tongues of Flesh"
 date: 2025-07-13

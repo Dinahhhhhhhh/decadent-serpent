@@ -1,4 +1,5 @@
 ---
+author: "Dinah Kolka"
 image: "/images/uploads/2024/10/img_6824.jpg"
 title: "Ash Rise: A Tribute to Scotland's Dying Ash Trees"
 date: 2024-10-06

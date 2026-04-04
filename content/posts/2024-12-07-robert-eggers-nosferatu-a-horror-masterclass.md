@@ -1,4 +1,5 @@
 ---
+author: "Jack Salvadori"
 image: "/images/uploads/2024/12/mv5bndy5zjflndetmmmznc00nmmzlthinjctyjgxmtg2mje5m2uzxkeyxkfqcgc40._v1_.jpg"
 title: "Robert Eggers' 'Nosferatu' Review: A Masterclass in Horror"
 date: 2024-12-07

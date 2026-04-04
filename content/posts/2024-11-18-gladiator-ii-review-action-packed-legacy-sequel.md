@@ -1,4 +1,5 @@
 ---
+author: "Blair Baleigh"
 image: "/images/uploads/2024/11/gladiator-ii-2024-2.jpeg"
 title: "Gladiator II Review: Action-Packed Legacy Sequel"
 date: 2024-11-18

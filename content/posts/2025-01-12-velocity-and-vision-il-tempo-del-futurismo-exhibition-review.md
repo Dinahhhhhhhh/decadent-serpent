@@ -1,4 +1,5 @@
 ---
+author: "Samuel Wild"
 image: "/images/uploads/2025/01/fcae15a2-2a44-4bb5-a52f-a804aea239cd.jpeg"
 title: "Velocity and Vision: “Il Tempo del Futurismo\" Exhibition Review"
 date: 2025-01-12

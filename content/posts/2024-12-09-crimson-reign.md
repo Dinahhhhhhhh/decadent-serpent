@@ -1,4 +1,5 @@
 ---
+author: "Eva McFarlane"
 image: "/images/uploads/2024/12/4cc2a6f3-4449-4027-8b44-eb32ab687dd2.jpeg"
 title: "Crimson Reign"
 date: 2024-12-09

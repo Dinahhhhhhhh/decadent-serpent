@@ -1,4 +1,5 @@
 ---
+author: "Adam Gorecki"
 image: "/images/uploads/2025/04/nostalgia.jpg"
 title: "Top Summer Albums to Revive Your Playlist in 2025"
 date: 2025-05-01

@@ -1,4 +1,5 @@
 ---
+author: "Amory Crane"
 image: "/images/uploads/2025/06/image-4.png"
 title: "Scandal in Bohemia"
 date: 2025-06-09

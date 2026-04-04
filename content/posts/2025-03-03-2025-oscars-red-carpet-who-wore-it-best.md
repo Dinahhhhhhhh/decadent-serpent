@@ -1,4 +1,5 @@
 ---
+author: "Sarah Stook"
 image: "/images/uploads/2025/03/gettyimages-2202363183-67c5cfc42b52b.jpeg"
 title: "2025 Oscars Red Carpet: Who Wore It Best?"
 date: 2025-03-03

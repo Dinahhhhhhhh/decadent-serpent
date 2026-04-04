@@ -1,4 +1,5 @@
 ---
+author: "Jack Salvadori"
 image: "/images/uploads/2025/05/cannes-film-festival-2025-poster.webp"
 title: "The Most Awaited Films at Cannes 2025"
 date: 2025-05-10

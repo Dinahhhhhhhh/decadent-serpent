@@ -1,4 +1,5 @@
 ---
+author: "Dinah Kolka"
 image: "/images/uploads/2024/11/img_8415.jpg"
 title: "Veneration of State and Religion: A Journey Through Bulgaria - Part 1"
 date: 2024-11-25

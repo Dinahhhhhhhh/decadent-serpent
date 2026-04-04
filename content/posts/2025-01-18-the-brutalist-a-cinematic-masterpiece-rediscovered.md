@@ -1,4 +1,5 @@
 ---
+author: "Jack Salvadori"
 image: "/images/uploads/2025/01/mv5byzc2m2iwztgtztm2zc00odviltg5mzitztuyodrhotk0yti0xkeyxkfqcgc40._v1_.jpg"
 title: "The Brutalist: A Cinematic Masterpiece Rediscovered"
 date: 2025-01-18

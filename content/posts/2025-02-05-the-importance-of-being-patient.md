@@ -1,4 +1,5 @@
 ---
+author: "Albert Mackenzie"
 image: "/images/uploads/2025/02/man-lying-on-a-wall-1957.jpg"
 title: "The Importance of Being Patient"
 date: 2025-02-05
