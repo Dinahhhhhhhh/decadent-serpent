@@ -1,7 +1,8 @@
 ---
 author: "Casey Morris"
 image: "/images/uploads/2025/07/image-31-e1752627822661.png"
-title: "The Bleeding King: T.S. Eliot's \"The Waste Land\" Part 1"
+title: "The Bleeding King: T.
+S. Eliot's \"The Waste Land\" Part 1"
 date: 2025-07-16
 categories: 
   - "features"
@@ -17,7 +18,8 @@ _Author: Casey Morris_
 
 In 1922, Europe was reeling from the First World War. The conflict saw unprecedented levels of destruction, mechanized warfare, and death. Its over 8 million casualties nearly doubled the combined total of the previous century, including the Napleonic and Balkan Wars. When fighting ended in 1918, the Treaty of Versailles brought the collapse of the German, Austro-Hungarian, and Ottoman Empires. An influx of new states and redrawn borders created a Europe not on the basis of imperialist conquest but ethnic, cultural, and national identity. The Bolshevist Revolution in October 1917 helped establish what became the interwar period’s leading geopolitical forces: communism and fascism. The influenza pandemic of 1918 claimed tens of millions of lives, while more than a century of industrialization transformed Europe's, especially Britain’s, market economies from agrarian to the mass production, factories, and division of labour of capitalism. Overcrowded cities, particularly London, swelled with the era’s injustices of poverty, low-wage and child labor, class stratification, and appalling living conditions. The hellscape of industrialized London, famously polemicized by Marx, features heavily in another modern masterpiece. 
 
-Thomas Stearns Eliot, born in St. Louis, Missouri and educated at Harvard, figured prominently in literary circles in London. After his move to England in 1914 to study at Oxford, Eliot soon met writers and artists including Ezra Pound and W.B. Yeats. He also married Vivienne Haigh-Wood in 1915, an experience that had a profound impact on his poetry. In a career spanning over fifty years, Eliot became renowned equally as a critic, editor, playwright, and poet. Receiving the Nobel Prize for Literature and the British Order of Merit, Eliot is cherished as a major contributor to the English canon. In perhaps no other poem is this better illustrated than _The Waste Land_. The five-part poem, written after a time of both personal and collective trauma, first appeared in October 1922 in _The Criterion_. Sadly, Eliot's marriage to Vivienne had broken down, brought on by physical and mental disorders both suffered for several years. More broadly, the Great War had radically changed Europe. For Eliot, the war’s devastation extended to Western culture and society. Its heritage, value-systems, and intellectual foundations were crumbling. 
+Thomas Stearns Eliot, born in St. Louis, Missouri and educated at Harvard, figured prominently in literary circles in London. After his move to England in 1914 to study at Oxford, Eliot soon met writers and artists including Ezra Pound and W.
+B. Yeats. He also married Vivienne Haigh-Wood in 1915, an experience that had a profound impact on his poetry. In a career spanning over fifty years, Eliot became renowned equally as a critic, editor, playwright, and poet. Receiving the Nobel Prize for Literature and the British Order of Merit, Eliot is cherished as a major contributor to the English canon. In perhaps no other poem is this better illustrated than _The Waste Land_. The five-part poem, written after a time of both personal and collective trauma, first appeared in October 1922 in _The Criterion_. Sadly, Eliot's marriage to Vivienne had broken down, brought on by physical and mental disorders both suffered for several years. More broadly, the Great War had radically changed Europe. For Eliot, the war’s devastation extended to Western culture and society. Its heritage, value-systems, and intellectual foundations were crumbling. 
 
 Such a reality is expressed in the poem’s form and content. Eliot’s fragmentary and disorientating style moves unpredictably from image to image, from speaker to speaker, and from one narrative thread to another. Allusions and excerpts in foreign languages pepper the poem seemingly at random. However, as will become evident, these stylistic choices are very deliberate. They are meant to amplify the poem’s primary themes: disillusionment after the Great War, chaos and the striving for order, and, perhaps most powerfully, the vacuity of modern culture and society. In light of these, it’s natural to ask: does Eliot offer any resolution, any hint of a way forward? The answer is yes. But this is less a reassembling of truth, of cultural values and traditions, than a channeling of the storm. Less concerned with redemption or justification, Eliot forges a path through the mired roots of the present. In this sense, _The Waste Land_ evokes the modern ethos and dilemma still relevant today. It should also be noted that Eliot’s close friend and mentor, Ezra Pound, significantly aided in the poem’s development and composition. Its epigraph is partially attributed to Pound, the final Italian phrase “il miglior fabbro” translating to “the better craftsman.” 
 
@@ -30,7 +32,6 @@ _Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum 
 
 1. The Burial of the Dead
 
-```
 April is the cruellest month, breeding
 Lilacs out of the dead land, mixing
 Memory and desire, stirring 
@@ -67,9 +68,7 @@ I will show you fear in a handful of dust. 
                Der Heimat zu
                Mein Irisch Kind, 
                Wo weiles du?
-```
 
-```
 ‘You gave me hyacinths first a year ago; 
 ‘They called me the hyacinth girl.’
 —Yet when we came back, late, from the Hyacinth garden, 
@@ -78,7 +77,6 @@ Speak, and my eyes failed, I was neither
 Living nor dead, and I knew nothing, 
 Looking into the heart of light, the silence. 
 Oed’ und leer das Meer.
-```
 
 Two allusions immediately set the tone. The epigraph quotes the _Satyricon_, a Latin fictional work by Petronius Arbiter. The quotation relates a scene from the villa of Trimalchio, specifically a recounting of the mythical Sibyl of Cumae who was granted eternal life, not eternal youth, by Apollo. As time passed, the Sibyl grew fainter and weaker, diminishing so obscenely she finally admits, in Greek, “I want to die.” Secondly, the poem’s first line is a parody of Chaucer. In the prologue to _The Canterbury Tales,_ Chaucer sings of the bounty and freshness of spring. Hundreds of years later, and in the shadow of Europe’s entropic spiraling, Eliot betrays this most “cruellest” of seasons. Images of the “Starnbergersee” and “Hofgarten” speak to Eliot’s time in Munich in 1911, the tranquility of pre-war Europe. But these are overcome by scars of war, by “dead land” and “dull roots” only alleviated by winter. It is winter that “kept us warm.” Its silences of “forgetful snow,” perversely, sustain whatever life is left. In these lines, Eliot undoubtedly imagined the horrors of Passchendaele or the Somme. He’s also describing the psychological state many Europeans were left in, one tormented by a sense of lost identity and upheaval. The line in German speaks to this fracturing, translating as “I’m not Russian at all, I’m from Lithuania, pure German.” Something so secure as national identity is defined not by birth or ancestry, but fear. Even family life, the purest domain of experience, arouses fear in Marie. In reality, Austrian Countess Marie Larisch von Moennich was acquainted with Eliot and represented for him the old, aristocratic order in Europe. War harms more than the land and the dead. Social order and identity smolder in ruins. Memory and desire defile the broken Earth. Their fruits are no less unsatisfying. 
 
@@ -88,9 +86,7 @@ From love, Eliot turns to spirituality. This is not the beauty and sanctity of A
 
 From the spiritual, Eliot observes the physical. Stark descriptions of crowds crossing the London Bridge echo both Baudelaire and Dante’s _Inferno_: 
 
-```
 Unreal City, Under the brown fog of a winter dawn, A crowd flowed over London bridge, so many, I had not thought death had undone so many.
-```
 
 “Unreal City” is borrowed from Baudelaire’s poem “The Seven Old Men.” The phrase describes a city of swarming ghosts. Eliot goes farther, as London is populated by damned souls, a place where “death had undone so many.” Dante’s vision of hell, of corpses entangled and suffocating in their own filth, reflects the city’s interior. Hollow souls gaze from eyes fixed before their feet, flowing “up the hill and down King William Street.” Urban life, especially the bustling financial district where Eliot once worked as a bank clerk, is hellish and polluted. The rise of transportation technology, labor unrest, and persistent hardships for the working classes all influenced Eliot’s depiction of London as godless and mechanical. This leads to Part I’s disturbing final image. An anachronistic exchange between the speaker and a man named Stetson refers to the Battle of Mylae, which took place in 260 BC between Rome and Carthage. Discussion of a planted corpse, whether it's sprouted or bloomed, heightens the tension and ironic macabre: Eliot blurs the past and present, life and death with war as the tapestry between. War as a determinant of history brings chaos to order. Instead of chronicling civilization or human flourishing, history is the evolution of entropy. Such a vision drains Europe’s spiritual and cultural inheritance of its meaning: don’t bother with rituals or tradition. Just keep the dogs away. Keeping the dogs “far hence” _is_ a stay against destructive forces. It is also a reference to Jacobean writer John Webster’s play “The White Devil.” In Webster’s play, the phrase “keep the wolf far thence” refers to protecting a corpse denied a proper burial. This sense extends to Eliot’s image but not without the threat of desecration. Part I ends with another line from Baudelaire: “You, hypocrite reader! My likeness! My brother!” Baudelaire’s notorious cynicism on society, that when given a chance anyone would cheat or murder, concludes “The Burial of the Dead.” This is a burial without resolution of life’s reigning contradictions: life and death are indistinct. A broken culture pantomimes broken souls. Fortune’s wheel doesn’t discriminate. One wonders where the Grail actually went off to? The Fisher King bleeds on.
 
@@ -112,7 +108,8 @@ Caulfield, Brian. “April is the Cruellest Month.” The Human Life Foundation.
 
 “Cherubino Kirchmayr.” Christie’s. 2025. URL: [https://www.christies.com/en/lot/lot-5392761](https://www.christies.com/en/lot/lot-5392761)
 
-Eliot, T.S. “The Waste Land.” Poetry Foundation. 2025. URL: [https://www.poetryfoundation.org/poets/t-s-eliot](https://www.poetryfoundation.org/poets/t-s-eliot)
+Eliot, T.
+S. “The Waste Land.” Poetry Foundation. 2025. URL: [https://www.poetryfoundation.org/poets/t-s-eliot](https://www.poetryfoundation.org/poets/t-s-eliot)
 
 Esty, Jed. “Seven Things to Know About ‘The Wasteland’ at 100.” The University of Pennsylvania. 2022. URL: [https://omnia.sas.upenn.edu/story/seven-things-know-about-waste-land-100](https://omnia.sas.upenn.edu/story/seven-things-know-about-waste-land-100)
 
@@ -126,9 +123,11 @@ Libes, Liza. “T. S. Eliot’s The Waste Land Part 1.” Pens and Poison. 2025.
 
 Norris, Nichole. “Frisch weht der Wind/ Der Heimat zu/ Mein Irisch Kind,/ Wo weiles du?” WordPress. 2010. URL: [https://motionverse.wordpress.com/2010/04/04/frisch-weht-der-wind-der-heimat-zu-mein-irisch-kind-wo-weilest-du/](https://motionverse.wordpress.com/2010/04/04/frisch-weht-der-wind-der-heimat-zu-mein-irisch-kind-wo-weilest-du/)
 
-Pierce, Carole Ann. “Madame Sosostris’ Tarot Reading in T.S. Eliot’s The Waste Land.” WordPress. URL: [https://crossroadstarot.wordpress.com/2012/05/02/madame-sosostris-tarot-reading-in-t-s-eliots-the-waste-land/](https://crossroadstarot.wordpress.com/2012/05/02/madame-sosostris-tarot-reading-in-t-s-eliots-the-waste-land/)
+Pierce, Carole Ann. “Madame Sosostris’ Tarot Reading in T.
+S. Eliot’s The Waste Land.” WordPress. URL: [https://crossroadstarot.wordpress.com/2012/05/02/madame-sosostris-tarot-reading-in-t-s-eliots-the-waste-land/](https://crossroadstarot.wordpress.com/2012/05/02/madame-sosostris-tarot-reading-in-t-s-eliots-the-waste-land/)
 
-Tearle, Oliver Dr. “A Summary and Analysis of T.S. Eliot’s ‘The Burial of the Dead.’” Loughborough University. URL: [https://interestingliterature.com/2016/10/a-short-analysis-of-t-s-eliots-the-burial-of-the-dead/](https://interestingliterature.com/2016/10/a-short-analysis-of-t-s-eliots-the-burial-of-the-dead/)
+Tearle, Oliver Dr. “A Summary and Analysis of T.
+S. Eliot’s ‘The Burial of the Dead.’” Loughborough University. URL: [https://interestingliterature.com/2016/10/a-short-analysis-of-t-s-eliots-the-burial-of-the-dead/](https://interestingliterature.com/2016/10/a-short-analysis-of-t-s-eliots-the-burial-of-the-dead/)
 
 “The Great War and its aftermath.” Britannica. URL: [https://www.britannica.com/topic/history-of-Europe/The-Great-War-and-its-aftermath](https://www.britannica.com/topic/history-of-Europe/The-Great-War-and-its-aftermath)
 
@@ -138,11 +137,13 @@ Tearle, Oliver Dr. “A Summary and Analysis of T.S. Eliot’s ‘The Burial of 
 
 “The Waste Land and the Fisher King.” URL: [https://wasteland.windingway.org/title/the-waste-land-and-the-fisher-king](https://wasteland.windingway.org/title/the-waste-land-and-the-fisher-king)
 
-“The Waste Land by T.S. Eliot.” Loughborough University. 2025. URL: [https://www.lboro.ac.uk/subjects/english/undergraduate/study-guides/the-waste-land/](https://www.lboro.ac.uk/subjects/english/undergraduate/study-guides/the-waste-land/)
+“The Waste Land by T.
+S. Eliot.” Loughborough University. 2025. URL: [https://www.lboro.ac.uk/subjects/english/undergraduate/study-guides/the-waste-land/](https://www.lboro.ac.uk/subjects/english/undergraduate/study-guides/the-waste-land/)
 
 “The Waste Land, ‘The Hanged Man’ Allusion.” URL: [https://motionverse.wordpress.com/2010/03/31/the-waste-land-the-hanged-man-allusion/](https://motionverse.wordpress.com/2010/03/31/the-waste-land-the-hanged-man-allusion/)
 
-“T.S. Eliot.” Poetry Foundation. 2025. URL: [https://www.poetryfoundation.org/poets/t-s-eliot](https://www.poetryfoundation.org/poets/t-s-eliot)
+“T.
+S. Eliot.” Poetry Foundation. 2025. URL: [https://www.poetryfoundation.org/poets/t-s-eliot](https://www.poetryfoundation.org/poets/t-s-eliot)
 
 “Waste Land Translations.” British Literature Wiki. URL: [https://sites.udel.edu/britlitwiki/waste-land-translations/](https://sites.udel.edu/britlitwiki/waste-land-translations/)
 

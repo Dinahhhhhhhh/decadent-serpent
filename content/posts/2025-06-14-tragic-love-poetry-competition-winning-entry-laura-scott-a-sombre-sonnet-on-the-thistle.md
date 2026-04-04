@@ -39,5 +39,3 @@ sweet and potent; your musky scent.
 The patriotic tattoo, I no longer get to see,
 
 the thistle pierces, I plead on my knees.
-
-_Laura Scott lives near Glasgow and she is currently studying part-time in her final year of a Creative Writing degree with the Open University. She was widowed in 2018 which sparked her creative writing journey as she began journalling and experimenting with poetry to help cope with her grief. You can read more of her work [here](https://laurascott.substack.com/)._

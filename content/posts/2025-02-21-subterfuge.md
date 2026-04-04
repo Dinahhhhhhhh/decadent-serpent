@@ -51,5 +51,3 @@ contemplative of fawning indecision —
 subterfuge defined by strong elision.
 
 (5th September 2021)
-
-_Author: Cameron Aitken. Cameron is a First Class English Literature Graduate and Jazz Musician. He loves poetry and philosophy, and has a background in literary theory. He is also interested in psychoanalysis, and thinks about films through this lens. He is an Early Modernist at heart._

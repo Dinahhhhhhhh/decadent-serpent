@@ -168,7 +168,9 @@ Larkin, Philip. “An Arundel Tomb.” Poetry Foundation. 2025. URL: [https://ww
 
 Reece, Steve. “Homer’s Asphodel Meadow.” Greek, Roman, and Byzantine Studies. 2007. URL: file:///C:/Users/casey/Downloads/pkpadmin,+811-3281-1-CE.pdf
 
-Smith, Hart Monica. “The Sonnets from the Portuguese (1845 - 46; 1850).” The Texas A & M University System Open Digital Publishing. 2024. URL: [https://odp.library.tamu.edu/victorianpoetry/chapter/48/#:~:text=Sonnets%20from%20the%20Portuguese%20are,Let%20me%20count%20the%20ways](https://odp.library.tamu.edu/victorianpoetry/chapter/48/#:~:text=Sonnets%20from%20the%20Portuguese%20are,Let%20me%20count%20the%20ways)'.
+Smith, Hart Monica. “The Sonnets from the Portuguese (1845 - 46; 1850).” The Texas A & M University System Open Digital Publishing. 2024. URL: [https://odp.library.tamu.edu/victorianpoetry/chapter/48/#:~:text=Sonnets%20from%20the%20Portuguese%20are,
+Let%20me%20count%20the%20ways](https://odp.library.tamu.edu/victorianpoetry/chapter/48/#:~:text=Sonnets%20from%20the%20Portuguese%20are,
+Let%20me%20count%20the%20ways)'.
 
 “Sonnet 43.” Poetry Prof. 2019. URL: [https://poetryprof.com/sonnet-43/](https://poetryprof.com/sonnet-43/)
 

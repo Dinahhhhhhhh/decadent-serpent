@@ -268,13 +268,15 @@ Sedia. Adam. “William Butler Yeats and the Occult: An Essay.” The Society of
 
 [https://classicalpoets.org/2020/05/19/william-butler-yeats-and-the-occult-an-essay-by-ad](https://classicalpoets.org/2020/05/19/william-butler-yeats-and-the-occult-an-essay-by-adam-sedia/) [am-sedia/](https://classicalpoets.org/2020/05/19/william-butler-yeats-and-the-occult-an-essay-by-adam-sedia/)
 
-The Burkean. “W.B. Yeats: Irish Revolutionary Conservative.” URL: [https://www.theburkean.ie/articles/2018/01/24/w-b-yeats-irish-revolutionary-conservative](https://www.theburkean.ie/articles/2018/01/24/w-b-yeats-irish-revolutionary-conservative)
+The Burkean. “W.
+B. Yeats: Irish Revolutionary Conservative.” URL: [https://www.theburkean.ie/articles/2018/01/24/w-b-yeats-irish-revolutionary-conservative](https://www.theburkean.ie/articles/2018/01/24/w-b-yeats-irish-revolutionary-conservative)
 
 The Christopher Hill Gallery. “Adam Shaw _Perne in a Gyre_.” 2023. URL:
 
 [https://chgalleries.com/art/perne-in-a-gyre-by-adam-shaw#:~:text=The%20phrase%2C](https://chgalleries.com/art/perne-in-a-gyre-by-adam-shaw#:~:text=The%20phrase%2C%20perne%20in%20a,through%20the%20cone%20of%20time) [%20perne%20in%20a,through%20the%20cone%20of%20time](https://chgalleries.com/art/perne-in-a-gyre-by-adam-shaw#:~:text=The%20phrase%2C%20perne%20in%20a,through%20the%20cone%20of%20time).
 
-The London Magazine. “W.B. Yeats and Sailing to Byzantium.” URL:
+The London Magazine. “W.
+B. Yeats and Sailing to Byzantium.” URL:
 
 [https://thelondonmagazine.org/article/w-b-yeats-and-sailing-to-byzantium/](https://thelondonmagazine.org/article/w-b-yeats-and-sailing-to-byzantium/)
 

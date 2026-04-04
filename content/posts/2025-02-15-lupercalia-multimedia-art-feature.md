@@ -22,7 +22,9 @@ Lupercalia involved a sacrifice of goats and a dog, performed by the special pri
 
 ‘All the literary evidence makes it clear that the Lupercalia ritual was an occasion for laughter and enjoyment: the words used are paidia, gelos, hilaritas, lusus, and lascivia. Naked young men, their bodies oiled or smeared with mud, ran about striking anyone who got in their way. The fertility ritual introduced in 276 made the fun more brutal, and no doubt more exciting for the onlookers: the young women were no longer to run away, but to offer themselves to a flagellation that was a metaphor for sexual union. It was a female divinity who demanded a carnal remedy, and a male interpreter of the divine will.’
 
-What is the connection between Romulus and Remus and Lupercalia though? This has been hotly debated. As claimed by P.M.W Tennant ‘The basic hypothesis is that originally wolves played a central role in the ceremony, but that in the course of time the importance of that fact was almost totally obscured by the changed nature and interpretation of the rites.’
+What is the connection between Romulus and Remus and Lupercalia though? This has been hotly debated. As claimed by P.
+M.
+W Tennant ‘The basic hypothesis is that originally wolves played a central role in the ceremony, but that in the course of time the importance of that fact was almost totally obscured by the changed nature and interpretation of the rites.’
 
 The Lupercalia were celebrated all the way up into the late Roman Empire but Christians didn’t appreciate its deviant and primitive elements and actively sought to suppress it and Pope Gelasius I subsequently banned the celebration in 494 AD.
 
@@ -78,6 +80,8 @@ _Eva McFarlane is a graduate of Edinburgh Napier University with a BA (Hons) deg
 
 ## SOURCES
 
-Tennant, P.M.W. “THE LUPERCALIA AND THE ROMULUS AND REMUS LEGEND.” _Acta Classica_ 31 (1988): 81–93. http://www.jstor.org/stable/24591847.
+Tennant, P.
+M.
+W. “THE LUPERCALIA AND THE ROMULUS AND REMUS LEGEND.” _Acta Classica_ 31 (1988): 81–93. http://www.jstor.org/stable/24591847.
 
 Wiseman, T. P. “The God of the Lupercal.” _The Journal of Roman Studies_ 85 (1995): 1–22. https://doi.org/10.2307/301054.

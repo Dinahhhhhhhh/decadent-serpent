@@ -36,17 +36,13 @@ Today, when the values of directness, of the seeming lack of affect, of having p
 
 Take the poem ‘Why I Am Not a Painter,’ first published in 1957:
 
-```
-I am not a painter, I am a poet.Why? I think I would rather bea painter, but I am not. Well,
-```
+I am not a painter, I am a poet.
+Why? I think I would rather bea painter, but I am not. Well,
 
-```
 for instance, Mike Goldbergis starting a painting. I drop in.“Sit down and have a drink” hesays. I drink; we drink. I lookup. “You have SARDINES in it.”“Yes, it needed something there.”“Oh.” I go and the days go byand I drop in again. The paintingis going on, and I go, and the daysgo by. I drop in. The painting isfinished. “Where’s SARDINES?”All that’s left is justletters, “It was too much,” Mike says.
-```
 
-```
-But me? One day I am thinking ofa color: orange. I write a lineabout orange. Pretty soon it is awhole page of words, not lines.Then another page. There should beso much more, not of orange, ofwords, of how terrible orange isand life. Days go by. It is even inprose, I am a real poet. My poemis finished and I haven’t mentionedorange yet. It’s twelve poems, I callit ORANGES. And one day in a galleryI see Mike’s painting, called SARDINES.
-```
+But me? One day I am thinking ofa color: orange. I write a lineabout orange. Pretty soon it is awhole page of words, not lines.
+Then another page. There should beso much more, not of orange, ofwords, of how terrible orange isand life. Days go by. It is even inprose, I am a real poet. My poemis finished and I haven’t mentionedorange yet. It’s twelve poems, I callit ORANGES. And one day in a galleryI see Mike’s painting, called SARDINES.
 
 The way O’Hara presents the informal relations between practitioners of art is mirrored by his own address to us, and we are brought into the composition of his poetry in a similar way to how he is with Mike Goldberg’s painting. The present tense ‘I drop in’ is of course a useful conceit to relay the story, for this is a poem that appears to address us as if in the corner of a bar, or on a bus, or as we’re walking casually along a busy street, and convinces us it fell into its telling the way one does in conversation with a friend. It also mirrors the way O’Hara presents both painter and poet falling out of and back into their subjects despite themselves. 
 
@@ -54,59 +50,35 @@ If one feels slightly lost then by the time you reach the final line it becomes 
 
 Yet if the gentle flippancy of tone in that poem fails to disarm you, then I suggest you take a look at a poem like ‘The Day Lady Died’ from his 1964 collection _Lunch Poems_. Ostensibly a kind of elegy for the singer Billie Holiday, the poem is also a recollection of an individual as one has heard from countless friends, family members, and acquaintances in the genre of ‘I remember where I was when JFK was shot,’ or the queen died, or whomever else that grants a _frisson_ of drama to the otherwise mundane activities of their daily life. By such means does O’Hara render the way public events weave their way into our hearts: 
 
-```
 It is 12:20 in New York a Friday
-```
 
-```
 three days after Bastille day, yes
-```
 
-```
 it is 1959 and I go get a shoeshine
-```
 
-```
 because I will get off the 4:19 in Easthampton  
-```
 
 This opening, with its when, where, and what immediacy, establishing itself in the present tense, has a slightly different effect than that of the previous poem. Before, where one has the distinct impression of an interlocutor almost stumbling onto an anecdote, here the register is the same but as if we are eavesdropping on the poet’s thoughts as he goes about his day. Yet, paradoxically, much of it is merely telling us where he goes, as if he is addressing us. This is the kind of inherent tension, between the supposed authenticity of common language and its application in high art. So we hear of his shopping for magazines and newspapers and books and booze and cigarettes, a little tale of consumption which is construed in such a way as to be redolent not of the excitement offered by choice, by a profusion of opportunity, whether by ‘a little Verlaine / . . . with drawings by Bonnard’ or ‘Brendan Behan’s new play or _Le Balcon_ or _Les Nègres_ / of Genet’ but of enervation brought on by what he denotes as ‘quandariness’. 
 
 It’s this enervated indecision, along with the tension in tone, that charges the poem and leaves one reading until a very late and quite exquisite volta. For what began and continues until nearly the very end of the poem as a listless lulling rhythm, once again disarming the reader with its ubiquitous diction (‘quandariness’ being our only shock) then disturbs by that final line which seems to void our own breath as well as it is recollected:
 
-```
 then I go back where I came from to 6th Avenue   
-```
 
-```
 and the tobacconist in the Ziegfeld Theatre and   
-```
 
-```
 casually ask for a carton of Gauloises and a carton
-```
 
-```
 of Picayunes, and a NEW YORK POST with her face on it
-```
 
 —
 
-```
 and I am sweating a lot by now and thinking of
-```
 
-```
 leaning on the john door in the 5 SPOT
-```
 
-```
 while she whispered a song along the keyboard
-```
 
-```
 to Mal Waldron and everyone and I stopped breathing
-```
 
 The rhythm itself, after its catalogue and receipt of a day’s purchases and destinations, ends abruptly with a note not of acquisition but of loss, both of Billie Holiday and of the recollected lack of breath. That final line seems to imbue those previous with a kind of retrospective depth, just as wineglasses sparkle in the slanting light of a dining room. 
 
@@ -123,5 +95,3 @@ We come, in a sense, full circle; for while we associate that conversational mod
 It is for those lost souls then, with _Friends_ forever on repeat, that it is perhaps worth recalling when the expression of our time was impossible to consume unthinkingly. For poetry demands attention from those who read it, and this poetry offers not a simulacrum but the charged language of what we most prize. Its rhetoric is _our_ rhetoric. And when we recall the old yardstick by which we measure the affability of a political candidate, 'could you go for a pint with him?' we can see both where tone and content meet to form whole modes of propaganda. For much rests on such a person using the cadence and deploying the language of authenticity. By reading where this mode of thought is deployed at its most charged we can see through such displays, and, at the same time, we may find ourselves, at the very least, in some kind of communion. For in the little pauses between lines can be heard the chink of martini glasses, the flick of lighters, and the laughter of pretty women.
 
 — Amory Crane
-
-_Amory Crane is Editor-in-Chief at Decadent Serpent. He covers such topics as Art, Literature, and the more broadly Cultural, reporting straight from the chamber of what Shelley once called the ‘unacknowledged legislators of the world’. You can follow him @LaughingCav1 on X or on [Substack](https://thelaughingcavalier.substack.com/). He also writes fiction._

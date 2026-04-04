@@ -20,56 +20,36 @@ _Author: C. Sandbatch_
 
 _(On the Bosporus, In Two Voices)_
 
-```
 Space is trembling again—hear the cannons awake—Smoke unravels the sky, stains the robe of the dawn.morning’s garments blackenedby smoke unspooling.
-```
 
-```
 Oars are tumbling and playing on waves that laugh back;In the thickets of Thrace, tiny birds trill and call.from Thrace, in the thickets,little birds gurgle and trill.
-```
 
-```
 The mind is made gentle; the senses ariseWith the whisper of wind and the cool of the hour.the cool breathof this world’s edge.
-```
 
-```
-Palace chambers of light, cut from alabaster,Greet the muezzin who sings to the vanishing star.royal chambers,alabaster-bright,welcome the muezzinswho praise the departing star.
-```
+Palace chambers of light, cut from alabaster,
+Greet the muezzin who sings to the vanishing star.royal chambers,alabaster-bright,welcome the muezzinswho praise the departing star.
 
-```
 Hear the hamal intone his slow ritual prayer;From Yildiz to the kiosks, reverberations ascend. the hamal intonesits ritual supplication;from Yildiz, to the kiosks,palace echoes arise.
-```
 
-```
 Aromas drift pure in the blue of the air;Pigeons flicker their wings over towers of stone.pure scents wanderthrough the blue expanse—pigeons scatteringtheir wings to the windabove Istanbul’s towers.
-```
 
-```
-Bright voices are rising through Genoese halls,While the sickle’s sharp laughter is lost in the wheat.bright voices ringfrom Genoese khans,and the sickle’s callspills through the ripened fields.
-```
+Bright voices are rising through Genoese halls,
+While the sickle’s sharp laughter is lost in the wheat.bright voices ringfrom Genoese khans,and the sickle’s callspills through the ripened fields.
 
-```
 All the ruins grow bright, lose their sorrow and gloom;Butterflies spiral up, and the insects hum low.ruins lose their gloom,their sorrowful aspect—butterflies are loosed, mariposas spinning—and insects buzz their secrets.
-```
 
-```
 Now the kadinas tune up their idle headscarvesIn the jangle of the harem; black swallows awake. headdresses tunethe idle kadinasin the hush of the harem;black swallows awakenin the murmuring chambers.
-```
 
-```
 Flowers unfold and stand tall on the stalk;
 Seraglio’s razored brow blazing with color.
 petals unfold,
 lifting along the stalk—
 se inunda de colores 
 la Punta del Serrallo.
-```
 
-```
-Melodies run with the waves on the sea,Touching columns and brushing the heights of the minarets.melodies streamover the ocean,slipping into colonnades,rozando en alminares.
-```
+Melodies run with the waves on the sea,
+Touching columns and brushing the heights of the minarets.melodies streamover the ocean,slipping into colonnades,rozando en alminares.
 
-```
 There is music that fills every court with its peace—
 But a siren’s long wail stirs the calm in the bay.
 a tranquil concert
@@ -77,14 +57,11 @@ fills every courtyard;
 in the harbor’s waters,
 a siren’s note
 disturbs the calm.
-```
 
-```
 Now delight in the clamor, the clarion’s ring
 That is torn from the barracks where Selim’s men sing.
 Turkish battalions are lifting their voices
 And the glory of morning resounds in their song.
-```
 
 ## A Note on Translation
 
@@ -109,5 +86,3 @@ Yet there remain names, professions, flavors—_hamal_, _Yildiz_, _Selim’s bar
 In this way, I hope to keep Zayas’s dawn alive in English — not a domesticated sunrise, but one that arrives across languages — with dawnbreak in the City of the World's Desire bearing the charge and bloom of the original, changed as all travellers are, but still unmistakably itself.
 
 A small bit of advice to the "out loud" reader: the _italics_ are scored for a woman's voice, but in the case of a solo reading may be improvised or excised entirely.
-
-_C. Sandbatch is an American writer and poet based in New Orleans._
