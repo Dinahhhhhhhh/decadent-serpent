@@ -25,9 +25,9 @@ a:hover { color: var(--crimson); }
 /* ── Header ── */
 .site-header { border-bottom: 1px solid var(--border); background: var(--bg); position: sticky; top: 0; z-index: 100; }
 .header-inner { display: flex; align-items: center; justify-content: space-between; padding: 0.85rem 2rem; max-width: var(--max); margin: 0 auto; }
-.site-title { font-family: var(--heading); font-size: 1.55rem; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase; color: var(--black); }
-.site-nav { display: flex; align-items: center; }
-.site-nav a { font-family: var(--body); font-size: 0.7rem; font-weight: 500; letter-spacing: 0.09em; text-transform: uppercase; color: var(--off-black); padding: 0.45rem 0.7rem; transition: color 0.15s; }
+.site-title { font-family: var(--heading); font-size: 1.55rem; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase; color: var(--black); white-space: nowrap; }
+.site-nav { display: flex; align-items: center; flex-wrap: nowrap; }
+.site-nav a { font-family: var(--body); font-size: 0.65rem; font-weight: 500; letter-spacing: 0.07em; text-transform: uppercase; color: var(--off-black); padding: 0.45rem 0.55rem; transition: color 0.15s; white-space: nowrap; }
 .site-nav a:hover { color: var(--crimson); }
 .nav-toggle { display: none; background: none; border: none; cursor: pointer; padding: 0.4rem; flex-direction: column; gap: 5px; }
 .nav-toggle span { display: block; width: 22px; height: 2px; background: var(--black); }
@@ -331,4 +331,119 @@ a:hover { color: var(--crimson); }
   margin-right: 0.4rem;
   position: relative;
   top: -1px;
+}
+
+/* ── Reading time ── */
+.post-meta-reading {
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--light-mid);
+}
+.post-meta-reading::before { content: "·"; margin: 0 0.4rem; }
+
+/* ── Pull quote ── */
+.pull-quote {
+  font-family: var(--heading);
+  font-size: 1.45rem;
+  font-style: italic;
+  line-height: 1.45;
+  color: var(--black);
+  border-left: 3px solid var(--crimson);
+  margin: 2.5rem 0;
+  padding: 0.5rem 0 0.5rem 1.5rem;
+  max-width: 580px;
+}
+
+/* ── Social share ── */
+.share-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin: 2.5rem 0 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+.share-label {
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--light-mid);
+  margin-right: 0.25rem;
+}
+.share-btn {
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.3rem 0.75rem;
+  border: 1px solid var(--border);
+  color: var(--mid);
+  transition: all 0.15s;
+}
+.share-btn:hover { border-color: var(--black); color: var(--black); }
+
+/* ── Related posts ── */
+.related-posts {
+  max-width: var(--max);
+  margin: 3rem auto 0;
+  padding: 2rem 2rem 0;
+  border-top: 1px solid var(--border);
+}
+.related-heading {
+  font-family: var(--heading);
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  margin-bottom: 1.5rem;
+}
+
+/* ── Archive page ── */
+.archive-year { margin-bottom: 3rem; }
+.archive-year-heading {
+  font-family: var(--heading);
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+.archive-season { margin-bottom: 2rem; }
+.archive-season-heading {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--crimson);
+  margin-bottom: 0.75rem;
+}
+.archive-list { display: flex; flex-direction: column; }
+.archive-item {
+  display: grid;
+  grid-template-columns: 3.5rem 1fr auto;
+  gap: 1rem;
+  align-items: baseline;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid var(--border);
+  color: var(--black);
+  font-size: 0.9rem;
+  transition: opacity 0.15s;
+}
+.archive-item:hover { opacity: 0.65; }
+.archive-item-date {
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--light-mid);
+  white-space: nowrap;
+}
+.archive-item-title { font-family: var(--heading); font-size: 0.95rem; }
+.archive-item-author {
+  font-size: 0.68rem;
+  color: var(--light-mid);
+  white-space: nowrap;
 }
