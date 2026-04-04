@@ -225,3 +225,30 @@ a:hover { color: var(--crimson); }
   font-size: 1rem;
   padding: 0.45rem 0.5rem !important;
 }
+
+/* ── List page layout ── */
+.list-page-body {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* ── Filter bar ── */
+.filter-bar {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 1.5rem 2rem 0;
+}
+.filter-input {
+  width: 100%;
+  max-width: 480px;
+  border: 1px solid var(--border);
+  padding: 0.5rem 0.9rem;
+  font-family: var(--body);
+  font-size: 0.9rem;
+  background: var(--bg);
+  color: var(--black);
+}
+.filter-input:focus {
+  outline: 1px solid var(--black);
+}

@@ -1,32 +1,67 @@
 {{ define "main" }}
 {{ $title := .Title | humanize }}
 {{ if or (eq .Title "Ideas-culture") (eq .Title "ideas-culture") (eq .Title "Ideas culture") }}{{ $title = "Ideas & Culture" }}{{ end }}
-{{ if or (eq .Title "History") (eq .Title "history") }}{{ $title = "History" }}{{ end }}
-{{ if or (eq .Title "Music") (eq .Title "music") }}{{ $title = "Music" }}{{ end }}
+{{ if eq .Title "History" }}{{ $title = "History" }}{{ end }}
+{{ if eq .Title "Music" }}{{ $title = "Music" }}{{ end }}
+
 <div class="list-header">
   <h1 class="list-title">{{ $title }}</h1>
   <p class="list-count">{{ len .Pages }} articles</p>
 </div>
-<div class="category-post-list">
-  {{ range .Paginator.Pages }}
-  <a href="{{ .RelPermalink }}" class="post-card">
-    {{ with .Params.image }}
-    <img class="post-thumb" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
-    {{ else }}
-    <div class="post-thumb-placeholder"></div>
-    {{ end }}
-    <div class="post-card-body">
-      {{ with .Params.categories }}
-      <span class="post-card-cat">{{ index . 0 | humanize }}</span>
-      {{ end }}
-      <h3 class="post-card-title">{{ .Title }}</h3>
-      {{ with .Params.author }}<span class="post-card-author">{{ . }}</span>{{ end }}
-      <span class="post-card-date">{{ .Date.Format "2 January 2006" }}</span>
-    </div>
-  </a>
-  {{ end }}
+
+{{/* ── Filter bar ── */}}
+<div class="filter-bar">
+  <input type="text" id="filter-search" placeholder="Search by title or author..." class="filter-input">
 </div>
+
+<div class="list-page-body">
+  <div class="post-list" id="filtered-list">
+    {{ range .Paginator.Pages }}
+    <a href="{{ .RelPermalink }}" class="post-card"
+       data-title="{{ .Title | lower }}"
+       data-author="{{ .Params.author | lower }}">
+      {{ with .Params.image }}
+      <img class="post-thumb" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      {{ else }}
+      <div class="post-thumb-placeholder"></div>
+      {{ end }}
+      <div class="post-card-body">
+        {{ with .Params.categories }}
+        <span class="post-card-cat">{{ index . 0 | humanize }}</span>
+        {{ end }}
+        <h3 class="post-card-title">{{ .Title }}</h3>
+        {{ with .Params.author }}<span class="post-card-author">{{ . }}</span>{{ end }}
+        <span class="post-card-date">{{ .Date.Format "2 January 2006" }}</span>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+  <div id="filter-empty" style="display:none;padding:2rem 0;color:var(--light-mid);font-size:0.9rem;">No articles found.</div>
+</div>
+
 {{ template "pagination" . }}
+
+<script>
+(function() {
+  var input = document.getElementById('filter-search');
+  var list = document.getElementById('filtered-list');
+  var empty = document.getElementById('filter-empty');
+  var cards = list.querySelectorAll('.post-card');
+
+  input.addEventListener('input', function() {
+    var q = this.value.toLowerCase().trim();
+    var visible = 0;
+    cards.forEach(function(card) {
+      var title = card.dataset.title || '';
+      var author = card.dataset.author || '';
+      var match = !q || title.includes(q) || author.includes(q);
+      card.style.display = match ? '' : 'none';
+      if (match) visible++;
+    });
+    empty.style.display = visible === 0 ? 'block' : 'none';
+  });
+})();
+</script>
 {{ end }}
 
 {{ define "pagination" }}
