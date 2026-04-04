@@ -1,53 +1,56 @@
 {{ define "main" }}
 {{ $allPosts := where .Site.RegularPages "Section" "posts" }}
 
+{{ $issues := slice
+  (dict "num" "Issue 7" "season" "Spring 2026"   "years" (slice 2026) "months" (slice 3 4 5))
+  (dict "num" "Issue 6" "season" "Winter 2025"   "years" (slice 2025 2026) "months" (slice 12 1 2))
+  (dict "num" "Issue 5" "season" "Autumn 2025"   "years" (slice 2025) "months" (slice 9 10 11))
+  (dict "num" "Issue 4" "season" "Summer 2025"   "years" (slice 2025) "months" (slice 6 7 8))
+  (dict "num" "Issue 3" "season" "Spring 2025"   "years" (slice 2025) "months" (slice 3 4 5))
+  (dict "num" "Issue 2" "season" "Winter 2024"   "years" (slice 2024 2025) "months" (slice 12 1 2))
+  (dict "num" "Issue 1" "season" "Autumn 2024"   "years" (slice 2024) "months" (slice 9 10 11))
+}}
+
 <div class="list-header">
-  <h1 class="list-title">Archive</h1>
-  <p class="list-count">{{ len $allPosts }} articles</p>
+  <h1 class="list-title">Issues</h1>
+  <p class="list-count">{{ len $allPosts }} articles across 7 issues</p>
 </div>
 
 <div class="list-page-body">
-{{ range ($allPosts.GroupByDate "2006") }}
-{{ $year := .Key }}
+{{ range $issues }}
+{{ $issue := . }}
+
+{{ $posts := slice }}
+{{ range $allPosts }}
+  {{ $y := .Date.Year }}
+  {{ $m := int .Date.Month }}
+  {{ $yearMatch := false }}
+  {{ $monthMatch := false }}
+  {{ range $issue.years }}{{ if eq . $y }}{{ $yearMatch = true }}{{ end }}{{ end }}
+  {{ range $issue.months }}{{ if eq . $m }}{{ $monthMatch = true }}{{ end }}{{ end }}
+  {{ if and $yearMatch $monthMatch }}
+    {{ $posts = $posts | append . }}
+  {{ end }}
+{{ end }}
+
+{{ if gt (len $posts) 0 }}
 <div class="archive-year">
-  <h2 class="archive-year-heading">{{ $year }}</h2>
-
-  {{ $spring := slice }}
-  {{ $summer := slice }}
-  {{ $autumn := slice }}
-  {{ $winter := slice }}
-
-  {{ range .Pages }}
-    {{ $m := .Date.Month }}
-    {{ if or (eq $m 3) (eq $m 4) (eq $m 5) }}
-      {{ $spring = $spring | append . }}
-    {{ else if or (eq $m 6) (eq $m 7) (eq $m 8) }}
-      {{ $summer = $summer | append . }}
-    {{ else if or (eq $m 9) (eq $m 10) (eq $m 11) }}
-      {{ $autumn = $autumn | append . }}
-    {{ else }}
-      {{ $winter = $winter | append . }}
-    {{ end }}
-  {{ end }}
-
-  {{ range (slice (dict "name" "Spring" "posts" $spring) (dict "name" "Summer" "posts" $summer) (dict "name" "Autumn" "posts" $autumn) (dict "name" "Winter" "posts" $winter)) }}
-  {{ if gt (len .posts) 0 }}
-  <div class="archive-season">
-    <h3 class="archive-season-heading">{{ .name }}</h3>
-    <div class="archive-list">
-      {{ range .posts }}
-      <a href="{{ .RelPermalink }}" class="archive-item">
-        <span class="archive-item-date">{{ .Date.Format "2 Jan" }}</span>
-        <span class="archive-item-title">{{ .Title }}</span>
-        {{ with .Params.author }}<span class="archive-item-author">{{ . }}</span>{{ end }}
-      </a>
-      {{ end }}
-    </div>
+  <div class="issue-header">
+    <span class="issue-number">{{ $issue.num }}</span>
+    <h2 class="archive-year-heading">{{ $issue.season }}</h2>
+    <span class="issue-count">{{ len $posts }} articles</span>
   </div>
-  {{ end }}
-  {{ end }}
-
+  <div class="archive-list">
+    {{ range $posts.ByDate.Reverse }}
+    <a href="{{ .RelPermalink }}" class="archive-item">
+      <span class="archive-item-date">{{ .Date.Format "2 Jan" }}</span>
+      <span class="archive-item-title">{{ .Title }}</span>
+      {{ with .Params.author }}<span class="archive-item-author">{{ . }}</span>{{ end }}
+    </a>
+    {{ end }}
+  </div>
 </div>
+{{ end }}
 {{ end }}
 </div>
 {{ end }}
