@@ -21,7 +21,10 @@
   {{ end }}
 
   <div class="post-content">
-    {{ .Content }}
+    {{ .Content
+      | replaceRE `(?s)<p><em>Author:.*?</em></p>\s*` ""
+      | replaceRE `(?s)<p><em>_Author:.*?</em></p>\s*` ""
+      | safeHTML }}
   </div>
 
   <!-- Social Share -->
@@ -33,7 +36,6 @@
     <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink | urlize }}" target="_blank" rel="noopener" class="share-btn share-linkedin">LinkedIn</a>
   </div>
 
-  <!-- Tags -->
   {{ with .Params.tags }}
   <div class="post-tags">
     {{ range . }}
