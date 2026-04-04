@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{ $name := .Params.author_name }}
-{{ $posts := where .Site.RegularPages ".Params.author" $name }}
+{{ $posts := where .Site.RegularPages ".Params.author" "eq" $name }}
+{{ $posts = $posts.ByDate.Reverse }}
 
 <div class="list-header">
   <h1 class="list-title">{{ $name }}</h1>

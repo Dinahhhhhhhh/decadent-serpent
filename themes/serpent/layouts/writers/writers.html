@@ -12,10 +12,7 @@
   <div class="writers-list" id="writers-list">
     {{ range .Pages.ByTitle }}
     {{ $name := .Params.author_name }}
-    {{ $count := 0 }}
-    {{ range $.Site.RegularPages }}
-      {{ if eq .Params.author $name }}{{ $count = add $count 1 }}{{ end }}
-    {{ end }}
+    {{ $count := len (where $.Site.RegularPages ".Params.author" "eq" $name) }}
     <a href="{{ .RelPermalink }}" class="writer-card" data-name="{{ $name | lower }}">
       <div class="writer-card-body">
         <h2 class="writer-name">{{ $name }}</h2>
