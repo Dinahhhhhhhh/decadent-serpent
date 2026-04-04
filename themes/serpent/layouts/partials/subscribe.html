@@ -1,10 +1,39 @@
 <div class="subscribe-box">
   <p>Don't miss new updates from Decadent Serpent.</p>
-  <form method="POST" action="https://a086d4b7.sibforms.com/serve/MUIFAGCxxxkNoZE575igpj9utDJ6fKMZ1lfDP5A8n8DkCK845D_8WwyDazOo8th7v48HO4Iefpgan1hNP1iyjUjAUoSlc0tiLF0mCcUcQqWSddrlALUVdLjJP3gedH0aKHI4wo81rt8UFdlGU_ryo1SDqY_eEOcfoMARXHNbLFTV-Sfb7CB1_hfrLngyCudqZldzQ847E-X0SAquHQ==" class="subscribe-form">
-    <input type="email" name="EMAIL" placeholder="Your email address" required>
+  <form id="brevo-subscribe-form" method="POST" action="https://a086d4b7.sibforms.com/serve/MUIFAGCxxxkNoZE575igpj9utDJ6fKMZ1lfDP5A8n8DkCK845D_8WwyDazOo8th7v48HO4Iefpgan1hNP1iyjUjAUoSlc0tiLF0mCcUcQqWSddrlALUVdLjJP3gedH0aKHI4wo81rt8UFdlGU_ryo1SDqY_eEOcfoMARXHNbLFTV-Sfb7CB1_hfrLngyCudqZldzQ847E-X0SAquHQ==" class="subscribe-form">
+    <input type="email" id="brevo-email" name="EMAIL" placeholder="Your email address" required>
     <input type="text" name="email_address_check" value="" style="display:none;">
     <input type="hidden" name="locale" value="en">
-    <input type="hidden" name="redirectionUrl" value="https://decadentserpent.com/?subscribed=true">
-    <button type="submit">Subscribe</button>
+    <input type="hidden" name="redirectionUrl" value="https://decadentserpent.netlify.app/?subscribed=true">
+    <button type="submit" id="brevo-submit-btn">Subscribe</button>
   </form>
+  <p id="already-subscribed-msg" style="display:none;font-size:0.8rem;color:var(--light-mid);margin-top:0.5rem;">You're already subscribed. Thank you!</p>
 </div>
+<script>
+(function() {
+  var btn = document.getElementById('brevo-submit-btn');
+  var msg = document.getElementById('already-subscribed-msg');
+  var form = document.getElementById('brevo-subscribe-form');
+
+  // Check if already subscribed
+  if (localStorage.getItem('ds_subscribed') === 'true') {
+    btn.disabled = true;
+    btn.textContent = 'Already subscribed';
+    btn.style.opacity = '0.45';
+    btn.style.cursor = 'default';
+    msg.style.display = 'block';
+  }
+
+  // Check if returning from successful subscription
+  if (window.location.search.indexOf('subscribed=true') !== -1) {
+    localStorage.setItem('ds_subscribed', 'true');
+    // Clean URL
+    window.history.replaceState({}, '', window.location.pathname);
+  }
+
+  // Mark as subscribed on submit
+  form.addEventListener('submit', function() {
+    localStorage.setItem('ds_subscribed', 'true');
+  });
+})();
+</script>
