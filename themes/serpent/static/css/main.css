@@ -623,3 +623,108 @@ a:hover { color: var(--crimson); }
   white-space: nowrap;
 }
 .dark-toggle:hover { color: var(--black); border-color: var(--black); }
+
+/* ── Back to top button ── */
+.back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  background: var(--black);
+  color: var(--bg);
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transform: translateY(1rem);
+  transition: opacity 0.3s, transform 0.3s;
+  z-index: 50;
+}
+.back-to-top.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+.back-to-top:hover { background: var(--crimson); }
+
+/* ── Reading progress bar ── */
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 2px;
+  width: 0%;
+  background: var(--crimson);
+  z-index: 200;
+  transition: width 0.1s linear;
+}
+
+/* ── Scroll fade-in animations ── */
+.fade-in {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity 0.55s ease, transform 0.55s ease;
+}
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ── Article hero parallax ── */
+.post-hero {
+  overflow: hidden;
+  height: 480px;
+  position: relative;
+}
+.post-hero-img {
+  width: 100%;
+  height: 120%;
+  object-fit: cover;
+  object-position: center;
+  position: absolute;
+  top: -10%;
+  will-change: transform;
+}
+
+/* ── Mobile nav drawer ── */
+@media (max-width: 768px) {
+  .site-nav {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 75vw;
+    max-width: 320px;
+    height: 100vh;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 4rem 2rem 2rem;
+    background: var(--bg);
+    box-shadow: -4px 0 24px rgba(0,0,0,0.12);
+    transition: right 0.3s ease;
+    z-index: 150;
+    overflow-y: auto;
+  }
+  .site-nav.open {
+    right: 0;
+  }
+  .site-nav a {
+    width: 100%;
+    padding: 0.85rem 0;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.75rem;
+  }
+  .dark-toggle {
+    margin-top: 1.5rem;
+  }
+  .nav-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.4);
+    z-index: 140;
+  }
+  .nav-overlay.open { display: block; }
+}

@@ -22,7 +22,7 @@
 
   {{ $isPoetry := false }}
   {{ range .Params.tags }}{{ if or (eq . "poetry") (eq . "poem") (eq . "poems") }}{{ $isPoetry = true }}{{ end }}{{ end }}
-  <div class="post-content{{ if $isPoetry }} poetry-content{{ end }}">
+  <div class="post-content fade-in{{ if $isPoetry }} poetry-content{{ end }}">
     {{ .Content
       | replaceRE `(?s)<p><em>\s*_?Author:.*?</em></p>\s*` ""
       | replaceRE `(?s)<p><em>\s*_?Author:.*?</em>\s*</p>\s*` ""
@@ -30,7 +30,7 @@
   </div>
 
   <!-- Social Share -->
-  <div class="share-bar">
+  <div class="share-bar fade-in">
     <span class="share-label">Share</span>
     <a href="https://twitter.com/intent/tweet?url={{ .Permalink | urlize }}&text={{ .Title | urlize }}" target="_blank" rel="noopener" class="share-btn share-twitter">X / Twitter</a>
     <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlize }}" target="_blank" rel="noopener" class="share-btn share-facebook">Facebook</a>
@@ -50,7 +50,7 @@
 <!-- Related Articles -->
 {{ $related := .Site.RegularPages.Related . | first 3 }}
 {{ with $related }}
-<div class="related-posts">
+<div class="related-posts fade-in">
   <h3 class="related-heading">You might also like</h3>
   <div class="post-list">
     {{ range . }}

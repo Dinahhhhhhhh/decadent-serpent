@@ -2,6 +2,9 @@
 <html lang="{{ .Site.LanguageCode | default "en" }}">
   {{ partial "head.html" . }}
   <body>
+<div class="progress-bar" id="progress-bar"></div>
+<button class="back-to-top" id="back-to-top" aria-label="Back to top">↑</button>
+<div class="nav-overlay" id="nav-overlay"></div>
     {{ partial "header.html" . }}
     <main>
       {{ block "main" . }}{{ end }}
