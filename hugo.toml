@@ -14,7 +14,7 @@ enableRobotsTXT = true
   donateURL = "https://buymeacoffee.com/decadentserpent"
   instagramURL = "https://www.instagram.com/decadentserpent"
   twitterURL = "https://www.x.com/decadentserpent"
-  googleAnalyticsID = "G-XXXXXXXXXX"
+  googleAnalyticsID = "G-7JG1T5WZ60"
 
 [markup]
   [markup.goldmark]
