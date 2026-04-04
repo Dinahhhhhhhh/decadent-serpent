@@ -1,5 +1,5 @@
 ---
-author: "Gomery Kimber is the author of six novels"
+author: "Gomery Kimber"
 image: "/images/uploads/2024/11/jan_steen_the_card_players_in_an_interior.jpg"
 title: "The Vampire of Munich - Part 1"
 date: 2024-11-23

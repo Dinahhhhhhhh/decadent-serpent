@@ -1,5 +1,5 @@
 ---
-author: "Jack Salvador"
+author: "Jack Salvadori"
 image: "/images/uploads/2025/08/image-13-e1755037905316.png"
 title: "The Naked Truth About The Naked Gun: Or, Our Sociological Need to Laugh"
 date: 2025-08-13

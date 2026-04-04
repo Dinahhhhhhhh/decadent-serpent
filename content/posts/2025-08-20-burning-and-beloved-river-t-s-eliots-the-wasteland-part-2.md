@@ -1,5 +1,5 @@
 ---
-author: "Casey Morri"
+author: "Casey Morris"
 image: "/images/uploads/2025/08/image-23-e1755675802542.png"
 title: "Burning and Beloved River: T. S. Eliot's 'The Waste Land' Part 2"
 date: 2025-08-20

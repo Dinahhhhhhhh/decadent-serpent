@@ -1,5 +1,5 @@
 ---
-author: "Andrew R Duncan"
+author: "Andrew R. Duncan"
 image: "/images/uploads/2024/10/river_landscape_1952.5.58.jpg"
 title: "A Dawn Red and Gold"
 date: 2024-10-01

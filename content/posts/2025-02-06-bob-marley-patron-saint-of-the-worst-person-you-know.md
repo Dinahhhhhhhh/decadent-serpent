@@ -1,5 +1,5 @@
 ---
-author: "George Marsden is a graduate of Glasgow University"
+author: "George Marsden"
 image: "/images/uploads/2025/02/f9a2c7aa-487b-42a9-a45a-eb6b2a9ce32b.jpeg"
 title: "Bob Marley - Patron Saint of The Worst Person You Know"
 date: 2025-02-06

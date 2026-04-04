@@ -1,7 +1,7 @@
 ---
 categories:
   - "music"
-author: "George Marsden is a graduate of Glasgow University"
+author: "George Marsden"
 image: "/images/uploads/2025/01/12b494c2-b93f-4d2a-a6df-fc3bd1887fc5.jpeg"
 title: "More Rhyme, Less Reason: Review of Lambrini Girls' New Album: ‘Who Let The Dogs Out’"
 date: 2025-01-20

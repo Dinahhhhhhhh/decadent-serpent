@@ -1,0 +1,42 @@
+{{ define "main" }}
+<div class="list-header">
+  <h1 class="list-title">Writers</h1>
+  <p class="list-count">{{ len .Pages }} contributors</p>
+</div>
+
+<div class="filter-bar">
+  <input type="text" id="writer-search" placeholder="Search writers..." class="filter-input">
+</div>
+
+<div class="list-page-body">
+  <div class="writers-list" id="writers-list">
+    {{ range .Pages.ByTitle }}
+    {{ $name := .Params.author_name }}
+    {{ $count := 0 }}
+    {{ range $.Site.RegularPages }}
+      {{ if eq .Params.author $name }}{{ $count = add $count 1 }}{{ end }}
+    {{ end }}
+    <a href="{{ .RelPermalink }}" class="writer-card" data-name="{{ $name | lower }}">
+      <div class="writer-card-body">
+        <h2 class="writer-name">{{ $name }}</h2>
+        {{ with .Params.bio }}<p class="writer-bio">{{ . }}</p>{{ end }}
+        <span class="writer-count">{{ $count }} {{ if eq $count 1 }}article{{ else }}articles{{ end }}</span>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+
+<script>
+(function() {
+  var input = document.getElementById('writer-search');
+  var cards = document.querySelectorAll('.writer-card');
+  input.addEventListener('input', function() {
+    var q = this.value.toLowerCase().trim();
+    cards.forEach(function(card) {
+      card.style.display = !q || (card.dataset.name || '').includes(q) ? '' : 'none';
+    });
+  });
+})();
+</script>
+{{ end }}

@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{ $name := .Params.author_name }}
+{{ $posts := where .Site.RegularPages ".Params.author" $name }}
+
+<div class="list-header">
+  <h1 class="list-title">{{ $name }}</h1>
+  {{ with .Params.bio }}<p class="writer-page-bio">{{ . }}</p>{{ end }}
+  <p class="list-count">{{ len $posts }} articles</p>
+</div>
+
+<div class="list-page-body">
+  <div class="post-list">
+    {{ range $posts }}
+    <a href="{{ .RelPermalink }}" class="post-card">
+      {{ with .Params.image }}
+      <img class="post-thumb" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      {{ else }}
+      <div class="post-thumb-placeholder"></div>
+      {{ end }}
+      <div class="post-card-body">
+        {{ with .Params.categories }}
+        <span class="post-card-cat">{{ index . 0 | humanize }}</span>
+        {{ end }}
+        <h3 class="post-card-title">{{ .Title }}</h3>
+        <span class="post-card-date">{{ .Date.Format "2 January 2006" }}</span>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

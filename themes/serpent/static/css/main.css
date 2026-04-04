@@ -282,3 +282,41 @@ a:hover { color: var(--crimson); }
   color: #fff;
   border-color: var(--black);
 }
+
+/* ── Writers page ── */
+.writers-list { display: flex; flex-direction: column; }
+.writer-card {
+  display: flex;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--border);
+  transition: opacity 0.2s;
+}
+.writer-card:hover { opacity: 0.72; }
+.writer-card-body { display: flex; flex-direction: column; gap: 0.35rem; }
+.writer-name {
+  font-family: var(--heading);
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--black);
+}
+.writer-bio {
+  font-size: 0.88rem;
+  color: var(--mid);
+  line-height: 1.55;
+  max-width: 640px;
+}
+.writer-count {
+  font-family: var(--body);
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--crimson);
+}
+.writer-page-bio {
+  font-size: 1rem;
+  color: var(--mid);
+  line-height: 1.65;
+  margin-top: 0.75rem;
+  max-width: 640px;
+}

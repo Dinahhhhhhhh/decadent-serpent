@@ -1,5 +1,5 @@
 ---
-author: "Gomery Kimber is the author of six novels"
+author: "Gomery Kimber"
 image: "/images/uploads/2024/12/the-murder.jpg"
 title: "Vampire of Munich - Part 3 (Final)"
 date: 2024-12-07

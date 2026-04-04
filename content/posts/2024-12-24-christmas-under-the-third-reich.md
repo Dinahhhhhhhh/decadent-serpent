@@ -1,7 +1,7 @@
 ---
 categories:
   - "history"
-author: "Gavin Duffy graduated from Strathclyde University with an MSc in Historical Studies and has had a general thirst for knowledge from a very young age"
+author: "Gavin Duffy"
 image: "/images/uploads/2024/12/foto-deutsches-historisches-museum-768x432-1.jpg"
 title: "Christmas under the Third Reich"
 date: 2024-12-24
