@@ -459,3 +459,90 @@ a:hover { color: var(--crimson); }
   margin-top: 0.06em;
   color: var(--black);
 }
+
+/* ── Issue header ── */
+.issue-header {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+.issue-number {
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--crimson);
+  white-space: nowrap;
+}
+.issue-count {
+  font-size: 0.62rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--light-mid);
+  margin-left: auto;
+}
+.archive-year-heading {
+  font-family: var(--heading);
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin: 0;
+  border: none;
+  padding: 0;
+}
+
+/* ── Print stylesheet ── */
+@media print {
+  .site-header, .site-footer, .share-bar, .related-posts,
+  .nav-toggle, .subscribe-box, .filter-bar, .post-tags { display: none !important; }
+
+  body { font-family: Georgia, serif; font-size: 12pt; color: #000; background: #fff; }
+
+  .post-wrapper { max-width: 100%; padding: 0; margin: 0; }
+
+  .post-title { font-size: 24pt; margin-bottom: 6pt; }
+
+  .post-byline, .post-meta { font-size: 10pt; color: #444; margin-bottom: 12pt; }
+
+  .post-content { font-size: 11pt; line-height: 1.6; }
+
+  .post-content a { color: #000; text-decoration: underline; }
+
+  .post-content a::after { content: " (" attr(href) ")"; font-size: 9pt; color: #666; }
+
+  .post-hero-img { max-width: 100%; margin-bottom: 18pt; }
+
+  .pull-quote {
+    border-left: 2pt solid #000;
+    font-size: 14pt;
+    padding-left: 12pt;
+    margin: 18pt 0;
+    font-style: italic;
+  }
+
+  h2, h3 { page-break-after: avoid; }
+  p { orphans: 3; widows: 3; }
+
+  @page {
+    margin: 2cm;
+    @bottom-center { content: "Decadent Serpent · decadentserpent.com"; font-size: 9pt; color: #666; }
+    @bottom-right { content: counter(page); font-size: 9pt; }
+  }
+}
+
+/* ── Poetry formatting ── */
+.poetry-content p {
+  white-space: pre-line;
+  font-family: var(--heading);
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+.poetry-content p::first-letter {
+  font-size: inherit;
+  font-weight: inherit;
+  float: none;
+  margin: 0;
+}

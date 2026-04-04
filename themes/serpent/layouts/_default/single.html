@@ -20,7 +20,9 @@
   <p class="post-byline">By {{ . }}</p>
   {{ end }}
 
-  <div class="post-content">
+  {{ $isPoetry := false }}
+  {{ range .Params.tags }}{{ if or (eq . "poetry") (eq . "poem") (eq . "poems") }}{{ $isPoetry = true }}{{ end }}{{ end }}
+  <div class="post-content{{ if $isPoetry }} poetry-content{{ end }}">
     {{ .Content
       | replaceRE `(?s)<p><em>Author:.*?</em></p>\s*` ""
       | replaceRE `(?s)<p><em>_Author:.*?</em></p>\s*` ""
