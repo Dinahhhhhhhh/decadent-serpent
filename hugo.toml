@@ -13,6 +13,7 @@ paginate = 12
   donateURL = "https://buymeacoffee.com/decadentserpent"
   instagramURL = "https://www.instagram.com/decadentserpent"
   twitterURL = "https://www.x.com/decadentserpent"
+  googleAnalyticsID = "G-XXXXXXXXXX"
 
 [markup]
   [markup.goldmark]

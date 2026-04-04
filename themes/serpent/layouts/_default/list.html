@@ -1,25 +1,28 @@
 {{ define "main" }}
 {{ $title := .Title | humanize }}
-{{ if eq .Title "Ideas-culture" }}{{ $title = "Ideas & Culture" }}{{ end }}
-{{ if eq .Title "ideas-culture" }}{{ $title = "Ideas & Culture" }}{{ end }}
-{{ if eq .Title "Ideas culture" }}{{ $title = "Ideas & Culture" }}{{ end }}
+{{ if or (eq .Title "Ideas-culture") (eq .Title "ideas-culture") (eq .Title "Ideas culture") }}{{ $title = "Ideas & Culture" }}{{ end }}
+{{ if or (eq .Title "History") (eq .Title "history") }}{{ $title = "History" }}{{ end }}
+{{ if or (eq .Title "Music") (eq .Title "music") }}{{ $title = "Music" }}{{ end }}
 <div class="list-header">
   <h1 class="list-title">{{ $title }}</h1>
   <p class="list-count">{{ len .Pages }} articles</p>
 </div>
-<div class="list-grid">
+<div class="category-post-list">
   {{ range .Paginator.Pages }}
-  <a href="{{ .RelPermalink }}" class="list-card">
+  <a href="{{ .RelPermalink }}" class="post-card">
     {{ with .Params.image }}
-    <img class="list-card-img" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+    <img class="post-thumb" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
     {{ else }}
-    <div class="list-card-placeholder"></div>
+    <div class="post-thumb-placeholder"></div>
     {{ end }}
-    {{ with .Params.categories }}
-    <span class="list-card-cat">{{ index . 0 | humanize }}</span>
-    {{ end }}
-    <h2 class="list-card-title">{{ .Title }}</h2>
-    <span class="list-card-date">{{ .Date.Format "2 January 2006" }}</span>
+    <div class="post-card-body">
+      {{ with .Params.categories }}
+      <span class="post-card-cat">{{ index . 0 | humanize }}</span>
+      {{ end }}
+      <h3 class="post-card-title">{{ .Title }}</h3>
+      {{ with .Params.author }}<span class="post-card-author">{{ . }}</span>{{ end }}
+      <span class="post-card-date">{{ .Date.Format "2 January 2006" }}</span>
+    </div>
   </a>
   {{ end }}
 </div>

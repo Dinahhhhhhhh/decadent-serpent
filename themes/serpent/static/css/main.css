@@ -210,3 +210,18 @@ a:hover { color: var(--crimson); }
   color: rgba(255,255,255,0.7);
   margin-top: 0.4rem;
 }
+
+/* ── Category page post list (same as homepage) ── */
+.category-post-list {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Search icon in nav ── */
+.nav-search {
+  font-size: 1rem;
+  padding: 0.45rem 0.5rem !important;
+}
