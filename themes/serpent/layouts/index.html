@@ -103,13 +103,7 @@
     </div>
     <div class="sidebar-block">
       <h3 class="sidebar-heading">Subscribe</h3>
-      <div class="subscribe-box">
-        <p>Don't miss new updates from Decadent Serpent.</p>
-        <form class="subscribe-form" action="https://buttondown.email/api/emails/embed-subscribe/decadentserpent" method="POST" target="popupwindow">
-          <input type="email" name="email" placeholder="Your email address" required>
-          <button type="submit">Subscribe</button>
-        </form>
-      </div>
+      {{ partial "subscribe.html" . }}
     </div>
     <div class="sidebar-block">
       <h3 class="sidebar-heading">Support Us</h3>
