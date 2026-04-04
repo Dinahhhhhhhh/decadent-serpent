@@ -3,6 +3,7 @@ languageCode = "en-gb"
 title = "Decadent Serpent"
 theme = "serpent"
 paginate = 12
+enableRobotsTXT = true
 
 [taxonomies]
   category = "categories"
@@ -37,3 +38,7 @@ paginate = 12
   [[related.indices]]
     name = "author"
     weight = 40
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
