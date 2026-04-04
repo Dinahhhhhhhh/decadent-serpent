@@ -547,3 +547,79 @@ a:hover { color: var(--crimson); }
   float: none;
   margin: 0;
 }
+
+/* ── Dark mode ── */
+[data-theme="dark"] {
+  --bg: #141414;
+  --black: #f0ede8;
+  --off-black: #d8d4cc;
+  --mid: #9a9488;
+  --light-mid: #6b6560;
+  --border: #2a2724;
+  --crimson: #c0504a;
+}
+
+[data-theme="dark"] .site-header {
+  background: #141414;
+  border-bottom-color: #2a2724;
+}
+
+[data-theme="dark"] .carousel-slide {
+  background: #1a1816;
+}
+
+[data-theme="dark"] .post-card:hover,
+[data-theme="dark"] .writer-card:hover {
+  opacity: 0.75;
+}
+
+[data-theme="dark"] .section-grid-item::after {
+  background: linear-gradient(to top, rgba(20,20,20,0.85), transparent);
+}
+
+[data-theme="dark"] .subscribe-box {
+  background: #1a1816;
+}
+
+[data-theme="dark"] .subscribe-form input {
+  background: #1f1d1b;
+  color: #f0ede8;
+}
+
+[data-theme="dark"] .filter-input {
+  background: #1f1d1b;
+  color: #f0ede8;
+}
+
+[data-theme="dark"] .filter-tag {
+  background: #1a1816;
+}
+
+[data-theme="dark"] .filter-tag.active {
+  background: #f0ede8;
+  color: #141414;
+  border-color: #f0ede8;
+}
+
+[data-theme="dark"] .pull-quote {
+  color: #f0ede8;
+  border-left-color: #c0504a;
+}
+
+[data-theme="dark"] .site-nav {
+  background: #141414;
+}
+
+/* ── Dark mode toggle ── */
+.dark-toggle {
+  background: none;
+  border: 1px solid var(--border);
+  cursor: pointer;
+  padding: 0.3rem 0.5rem;
+  color: var(--mid);
+  font-size: 0.75rem;
+  line-height: 1;
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.dark-toggle:hover { color: var(--black); border-color: var(--black); }
