@@ -4,6 +4,7 @@ image: "/images/uploads/2024/10/british-museum-in-london.webp"
 title: "A Guide to Uncovering Britain's Cultural Treasures"
 date: 2024-10-02
 categories: 
+  - "history"
   - "ideas-culture"
 tags: 
   - "art"

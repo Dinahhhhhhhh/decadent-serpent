@@ -1,4 +1,6 @@
 ---
+categories:
+  - "history"
 author: "Sarah Stook"
 image: "/images/uploads/2026/02/image-16-e1770554702897.png"
 title: "The Bastards of Charles II"

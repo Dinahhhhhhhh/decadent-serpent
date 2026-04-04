@@ -1,4 +1,6 @@
 ---
+categories:
+  - "history"
 author: "Gavin Duffy graduated from Strathclyde University with an MSc in Historical Studies and has had a general thirst for knowledge from a very young age"
 image: "/images/uploads/2025/01/battle_of_kosovo_adam_stefanovic_1870.jpg"
 title: "Fall of the Ottoman Empire in the Long 19th Century – Part 1: Revolutions in the Balkans"

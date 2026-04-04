@@ -4,6 +4,7 @@ image: "/images/uploads/2025/01/armada-portrait-of-elizabethi.jpg"
 title: "The Dynasty Factor: Queens and Their Legacy"
 date: 2025-01-13
 categories: 
+  - "history"
   - "ideas-culture"
 tags: 
   - "british-history"

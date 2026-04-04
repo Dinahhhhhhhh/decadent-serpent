@@ -4,6 +4,7 @@ image: "/images/uploads/2025/05/150244_widescreen.jpg"
 title: "A Journey Through Melancholy and Joy -  Album Review: Bon Iver 'SABLE/fABLE'"
 date: 2025-05-28
 categories: 
+  - "music"
   - "album-reviews"
 tags: 
   - "bon-iver"

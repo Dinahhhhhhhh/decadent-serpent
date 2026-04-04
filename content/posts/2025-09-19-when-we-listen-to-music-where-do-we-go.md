@@ -4,6 +4,7 @@ image: "/images/uploads/2025/09/image-11.png"
 title: "When We Listen To Music, Where Do We Go?"
 date: 2025-09-19
 categories: 
+  - "music"
   - "music-features"
 tags: 
   - "culture"

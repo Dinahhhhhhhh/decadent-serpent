@@ -4,6 +4,7 @@ image: "/images/uploads/2024/11/isola_alicudi_by_figiu.jpg"
 title: "Alicudi: Witches, Shapeshifters, and Hallucinogenic Bread"
 date: 2024-11-03
 categories: 
+  - "history"
   - "ideas-culture"
 tags: 
   - "alicudi"

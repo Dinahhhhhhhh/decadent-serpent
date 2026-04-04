@@ -4,6 +4,7 @@ image: "/images/uploads/2024/10/the_city_rises_by_umberto_boccioni_1910.jpg"
 title: "Eccentricities in Expression: Futurism"
 date: 2024-10-15
 categories: 
+  - "history"
   - "art-features"
   - "ideas-culture"
 tags: 

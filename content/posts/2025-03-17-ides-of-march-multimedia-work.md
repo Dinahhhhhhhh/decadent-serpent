@@ -4,6 +4,7 @@ image: "/images/uploads/2025/03/pxl_20250316_1654242013-1.jpg"
 title: "IDES OF MARCH - Multimedia Work"
 date: 2025-03-17
 categories: 
+  - "history"
   - "art"
   - "ideas-culture"
   - "literature"

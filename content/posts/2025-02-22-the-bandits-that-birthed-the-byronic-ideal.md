@@ -1,4 +1,6 @@
 ---
+categories:
+  - "history"
 author: "Roan Blake"
 image: "/images/uploads/2025/02/ce92cf81cf85ceb6ceaccebaceb7cf82_ce98ceb5cf8cceb4cf89cf81cebfcf82_-_ce97_cf85cf80cebfceb4cebfcf87ceae_cf84cebfcf85_ce9bcf8ccf81ceb4cebfcf85_ce92cf8dcf81cf89cebdceb1_cf83cf84cebf_ce9cceb5.jpg"
 title: "The Bandits That Birthed the Byronic Ideal"

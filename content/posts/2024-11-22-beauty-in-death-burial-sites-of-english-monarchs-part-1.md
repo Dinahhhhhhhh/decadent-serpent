@@ -4,6 +4,7 @@ image: "/images/uploads/2024/11/westminster_abbey_by_canaletto_1749.jpg"
 title: "Beauty in Death: Burial Sites of English Monarchs - Part 1"
 date: 2024-11-22
 categories: 
+  - "history"
   - "ideas-culture"
 tags: 
   - "beauty"

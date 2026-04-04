@@ -4,6 +4,7 @@ image: "/images/uploads/2025/07/image-36.png"
 title: "Dudes Being Dudes: Review of Blackfyre Rising EP"
 date: 2025-07-23
 categories: 
+  - "music"
   - "album-reviews"
 tags: 
   - "music"

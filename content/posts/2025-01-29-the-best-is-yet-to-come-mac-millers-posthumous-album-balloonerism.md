@@ -1,4 +1,6 @@
 ---
+categories:
+  - "music"
 author: "Adam Gorecki"
 image: "/images/uploads/2025/01/c0ec03b0-8c90-4b5d-846a-bb62231f5537.jpeg"
 title: "‘The Best Is Yet To Come’ – Mac Miller's Posthumous Album 'Balloonerism'"

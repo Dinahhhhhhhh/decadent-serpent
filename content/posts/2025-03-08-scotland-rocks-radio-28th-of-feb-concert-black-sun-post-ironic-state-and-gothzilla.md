@@ -4,6 +4,7 @@ image: "/images/uploads/2025/03/482209941_641683808610987_8997242798889753133_n.
 title: "Scotland Rocks Radio 28th of Feb Concert: Black Sun, Post-Ironic State and Gothzilla"
 date: 2025-03-08
 categories: 
+  - "music"
   - "concert-reviews"
   - "gig-reviews"
 tags: 

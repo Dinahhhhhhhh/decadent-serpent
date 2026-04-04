@@ -4,6 +4,7 @@ image: "/images/uploads/2025/06/image-24.png"
 title: "Letter to Editor: Paul Rhoads II"
 date: 2025-06-20
 categories: 
+  - "art"
   - "art-features"
 tags: 
   - "art-deco"

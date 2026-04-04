@@ -4,6 +4,7 @@ image: "/images/uploads/2025/04/mosaic_of_theodora_-_basilica_san_vitale_ravenna
 title: "31 Greatest Historical Women"
 date: 2025-04-06
 categories: 
+  - "history"
   - "ideas-culture"
 tags: 
   - "books"

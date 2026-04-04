@@ -4,6 +4,7 @@ image: "/images/uploads/2025/09/image-8.png"
 title: "Review: 'Early Modern Reading and the Imagined Self'"
 date: 2025-09-12
 categories: 
+  - "history"
   - "book-reviews"
 tags: 
   - "history"

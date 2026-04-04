@@ -4,6 +4,7 @@ image: "/images/uploads/2025/04/cole_thomas_the_oxbow_the_connecticut_river_near
 title: "Feature: New England Transcendentalism"
 date: 2025-05-03
 categories: 
+  - "history"
   - "features"
   - "literature"
 tags: 

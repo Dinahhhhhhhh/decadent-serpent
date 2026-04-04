@@ -4,6 +4,7 @@ image: "/images/uploads/2024/11/say-nothing-fx.jpg"
 title: "'Say Nothing' - A very Raw Review"
 date: 2024-11-28
 categories: 
+  - "history"
   - "film"
   - "film-reviews"
 tags: 

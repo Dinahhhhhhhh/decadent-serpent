@@ -4,6 +4,7 @@ image: "/images/uploads/2026/01/image-1.png"
 title: "The Names of Christmas"
 date: 2026-01-11
 categories: 
+  - "history"
   - "ideas-culture"
 tags: 
   - "christmas"

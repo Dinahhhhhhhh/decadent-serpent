@@ -4,6 +4,7 @@ image: "/images/uploads/2025/04/img_6509.jpg"
 title: "Concert Review: Ghost - Skeletour World Tour 2025, Glasgow, Hydro, 16th of April"
 date: 2025-04-20
 categories: 
+  - "music"
   - "gig-reviews"
 tags: 
   - "alternative"

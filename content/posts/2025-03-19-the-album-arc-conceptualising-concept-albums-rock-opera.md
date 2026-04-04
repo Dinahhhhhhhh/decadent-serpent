@@ -4,6 +4,7 @@ image: "/images/uploads/2025/03/tumblr_94a28dd41f647fd07b407782b71e7974_09693635
 title: "The Album Arc: Conceptualising concept albums – Rock Opera"
 date: 2025-03-19
 categories: 
+  - "music"
   - "album-reviews"
   - "music-features"
 tags: 

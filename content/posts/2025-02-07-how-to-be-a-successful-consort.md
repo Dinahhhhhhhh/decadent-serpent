@@ -4,6 +4,7 @@ image: "/images/uploads/2025/02/how-would-you-rank-the-tudor-consorts-not-just-t
 title: "How to be a Successful Consort"
 date: 2025-02-07
 categories: 
+  - "history"
   - "ideas-culture"
 tags: 
   - "anne-boleyn"

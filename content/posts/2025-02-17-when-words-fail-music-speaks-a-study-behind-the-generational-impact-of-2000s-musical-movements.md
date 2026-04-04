@@ -1,4 +1,6 @@
 ---
+categories:
+  - "music"
 author: "Adam Gorecki"
 image: "/images/uploads/2025/02/6527770a-a78a-4cd4-ba95-22889be24a91.jpeg"
 title: "When Words Fail, Music Speaks - A study behind the generational impact of 2000’s musical movements"

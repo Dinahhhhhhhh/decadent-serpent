@@ -1,4 +1,6 @@
 ---
+categories:
+  - "history"
 author: "Sarah Stook"
 image: "/images/uploads/2025/05/elizabeth1england.jpg"
 title: "The Virgin Queen: Elizabeth I and Her Suitors"

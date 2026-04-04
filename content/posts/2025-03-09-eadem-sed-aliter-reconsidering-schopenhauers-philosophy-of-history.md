@@ -4,6 +4,7 @@ image: "/images/uploads/2025/03/caspar_david_friedrich_-_das_eismeer_-_hamburger
 title: "‘Eadem, sed aliter’: Reconsidering Schopenhauer’s Philosophy of History"
 date: 2025-03-09
 categories: 
+  - "history"
   - "ideas-culture"
 tags: 
   - "books"
