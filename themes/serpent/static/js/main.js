@@ -147,3 +147,57 @@ if (window.netlifyIdentity) {
     }
   });
 })();
+
+// ── Carousel ──
+(function() {
+  var track = document.querySelector('.carousel-track');
+  var slides = document.querySelectorAll('.carousel-slide');
+  var dots = document.querySelectorAll('.carousel-dot');
+  var prev = document.querySelector('.carousel-btn.prev');
+  var next = document.querySelector('.carousel-btn.next');
+
+  if (!track || !slides.length) return;
+
+  var current = 0;
+  var total = slides.length;
+  var autoTimer;
+
+  function goTo(n) {
+    current = (n + total) % total;
+    track.style.transform = 'translateX(-' + (current * 100) + '%)';
+    dots.forEach(function(d, i) {
+      d.classList.toggle('active', i === current);
+    });
+  }
+
+  function startAuto() {
+    autoTimer = setInterval(function() { goTo(current + 1); }, 5000);
+  }
+
+  function resetAuto() {
+    clearInterval(autoTimer);
+    startAuto();
+  }
+
+  if (prev) prev.addEventListener('click', function() { goTo(current - 1); resetAuto(); });
+  if (next) next.addEventListener('click', function() { goTo(current + 1); resetAuto(); });
+
+  dots.forEach(function(dot, i) {
+    dot.addEventListener('click', function() { goTo(i); resetAuto(); });
+  });
+
+  // Touch/swipe support
+  var startX = 0;
+  track.addEventListener('touchstart', function(e) {
+    startX = e.touches[0].clientX;
+  }, { passive: true });
+  track.addEventListener('touchend', function(e) {
+    var diff = startX - e.changedTouches[0].clientX;
+    if (Math.abs(diff) > 50) {
+      goTo(diff > 0 ? current + 1 : current - 1);
+      resetAuto();
+    }
+  }, { passive: true });
+
+  startAuto();
+})();

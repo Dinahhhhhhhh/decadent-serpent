@@ -732,3 +732,9 @@ a:hover { color: var(--crimson); }
     line-height: 1;
   }
 }
+
+/* Hide mobile close button on desktop */
+.nav-close { display: none; }
+@media (max-width: 768px) {
+  .nav-close { display: block; }
+}
