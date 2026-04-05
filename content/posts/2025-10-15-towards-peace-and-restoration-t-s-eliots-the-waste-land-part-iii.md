@@ -1,8 +1,7 @@
 ---
 author: "Casey Morris"
 image: "/images/uploads/2025/10/image-1.png"
-title: "Towards Peace and Restoration: T.
-S. Eliot's 'The Waste Land' part III"
+title: "Towards Peace and Restoration: T.S. Eliot's The Waste Land — Part III"
 date: 2025-10-15
 categories: 
   - "features"
