@@ -1,7 +1,7 @@
 ---
 title: Events in April 2026
 date: 2026-04-05
-image: /images/uploads/cms/screenshot-2026-04-05-at-12.14.56.png
+image: ""
 categories:
   - events
 author: Dinah Kolka
