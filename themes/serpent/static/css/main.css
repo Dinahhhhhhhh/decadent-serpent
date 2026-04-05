@@ -695,15 +695,14 @@ a:hover { color: var(--crimson); }
     display: none;
     position: fixed;
     top: 0;
+    left: 0;
     right: 0;
-    width: 80vw;
-    max-width: 300px;
-    height: 100vh;
+    bottom: 0;
+    width: 100%;
     flex-direction: column;
     align-items: flex-start;
-    padding: 5rem 2rem 2rem;
+    padding: 4rem 2rem 2rem;
     background: var(--bg);
-    box-shadow: -4px 0 24px rgba(0,0,0,0.15);
     z-index: 200;
     overflow-y: auto;
   }
@@ -714,20 +713,22 @@ a:hover { color: var(--crimson); }
     width: 100%;
     padding: 0.85rem 0;
     border-bottom: 1px solid var(--border);
-    font-size: 0.75rem;
+    font-size: 0.85rem;
+    color: var(--black);
   }
   .dark-toggle {
     margin-top: 1.5rem;
   }
-  .nav-overlay {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 300px;
-    bottom: 0;
-    background: rgba(0,0,0,0.5);
-    z-index: 190;
+  .nav-overlay { display: none; }
+  .nav-close {
+    position: absolute;
+    top: 1rem;
+    right: 1.5rem;
+    font-size: 1.5rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--black);
+    line-height: 1;
   }
-  .nav-overlay.open { display: block; }
 }

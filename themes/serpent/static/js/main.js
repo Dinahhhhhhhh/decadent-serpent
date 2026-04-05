@@ -22,26 +22,29 @@
 // ── Mobile nav drawer ──
 (function() {
   var btn = document.querySelector('.nav-toggle');
+  var closeBtn = document.getElementById('nav-close');
   var nav = document.querySelector('.site-nav');
-  var overlay = document.getElementById('nav-overlay');
 
   if (!btn || !nav) return;
 
   function openNav() {
     nav.classList.add('open');
-    if (overlay) overlay.classList.add('open');
     document.body.style.overflow = 'hidden';
   }
   function closeNav() {
     nav.classList.remove('open');
-    if (overlay) overlay.classList.remove('open');
     document.body.style.overflow = '';
   }
 
   btn.addEventListener('click', function() {
     nav.classList.contains('open') ? closeNav() : openNav();
   });
-  if (overlay) overlay.addEventListener('click', closeNav);
+  if (closeBtn) closeBtn.addEventListener('click', closeNav);
+
+  // Close when a nav link is clicked
+  nav.querySelectorAll('a').forEach(function(link) {
+    link.addEventListener('click', closeNav);
+  });
 })();
 
 // ── Netlify Identity ──
