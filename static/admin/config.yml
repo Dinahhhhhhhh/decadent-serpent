@@ -69,11 +69,6 @@ collections:
         widget: list
         required: false
         hint: "Comma-separated tags e.g. modernism, poetry, scotland"
-      - label: Draft
-        name: draft
-        widget: boolean
-        default: false
-        required: false
       - label: Body
         name: body
         widget: markdown
