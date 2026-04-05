@@ -11,10 +11,6 @@ tags:
   - london
   - scotland
 ---
-# Events in April 2026
-
-**Events in April**
-
 **EDINBURGH**
 
 **Art**
