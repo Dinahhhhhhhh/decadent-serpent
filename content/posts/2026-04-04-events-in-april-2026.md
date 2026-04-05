@@ -13,8 +13,6 @@ tags:
 ---
 # Events in April 2026
 
-* events
-
 **Events in April**
 
 **EDINBURGH**
