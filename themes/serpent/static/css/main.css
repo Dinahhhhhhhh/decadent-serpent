@@ -704,7 +704,7 @@ a:hover { color: var(--crimson); }
     padding: 5rem 2rem 2rem;
     background: var(--bg);
     box-shadow: -4px 0 24px rgba(0,0,0,0.15);
-    z-index: 150;
+    z-index: 200;
     overflow-y: auto;
   }
   .site-nav.open {
@@ -724,7 +724,7 @@ a:hover { color: var(--crimson); }
     position: fixed;
     inset: 0;
     background: rgba(0,0,0,0.5);
-    z-index: 140;
+    z-index: 190;
   }
   .nav-overlay.open { display: block; }
 }
