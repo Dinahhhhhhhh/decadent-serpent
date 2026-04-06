@@ -7,29 +7,6 @@
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
-<script>
-  const _fetch = window.fetch;
-  window.fetch = async function(...args) {
-    const url = typeof args[0] === 'string' ? args[0] : args[0].url;
-    const method = (args[1] && args[1].method) || 'GET';
-    if (method !== 'GET') {
-      console.log(`[CMS REQUEST] ${method} ${url}`, args[1]?.body?.slice?.(0, 200) ?? '');
-    }
-    try {
-      const response = await _fetch(...args);
-      const clone = response.clone();
-      clone.text().then(body => {
-        if (method !== 'GET' || response.status >= 400) {
-          console.log(`[CMS RESPONSE] ${response.status} ${method} ${url}`, body.slice(0, 500));
-        }
-      });
-      return response;
-    } catch (err) {
-      console.error(`[CMS ERROR] ${method} ${url}`, err);
-      throw err;
-    }
-  };
-</script>
  <script src="https://unpkg.com/decap-cms@3.3.3/dist/decap-cms.js"></script>
 </body>
 </html>
