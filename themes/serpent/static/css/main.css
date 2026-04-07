@@ -664,21 +664,12 @@ a:hover { color: var(--crimson); }
 
 /* ── Scroll fade-in animations ── */
 .fade-in {
-  opacity: 0;
-  transform: translateY(18px);
-  transition: opacity 0.55s ease, transform 0.55s ease;
+  opacity: 1;
+  transform: translateY(0);
 }
 .fade-in.visible {
   opacity: 1;
   transform: translateY(0);
-}
-
-/* ── Disable fade-in inside article body ── */
-.post-content .fade-in,
-.post-content .fade-in.visible {
-  opacity: 1 !important;
-  transform: none !important;
-  transition: none !important;
 }
 
 /* ── Article hero parallax ── */
