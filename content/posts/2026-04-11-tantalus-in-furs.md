@@ -1,7 +1,7 @@
 ---
 title: Tantalus In Furs
 date: 2026-04-11
-image: https://en.wikipedia.org/wiki/Tantalus#/media/File:Underworld_Painter_-_RVAp_18-282_-_underworld_-_youth_and_man_in_naiskos_-_M%C3%BCnchen_AS_SH_3297_-_09.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/8/8d/Underworld_Painter_-_RVAp_18-282_-_underworld_-_youth_and_man_in_naiskos_-_M%C3%BCnchen_AS_SH_3297_-_09.jpg
 categories:
   - poetry
   - literature
