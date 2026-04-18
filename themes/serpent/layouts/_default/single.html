@@ -54,9 +54,10 @@
   <h3 class="related-heading">You might also like</h3>
   <div class="post-list">
     {{ range . }}
+    {{ $relPage := . }}
     <a href="{{ .RelPermalink }}" class="post-card">
       {{ with .Params.image }}
-      <img class="post-thumb" src="{{ . }}" alt="{{ .Title }}" loading="lazy">
+      <img class="post-thumb" src="{{ . }}" alt="{{ $relPage.Title }}" loading="lazy">
       {{ else }}
       <div class="post-thumb-placeholder"></div>
       {{ end }}
