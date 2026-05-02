@@ -1,0 +1,265 @@
+{{/* DS Popups: newsletter (sitewide, 8s) + donations (articles only, 50% scroll) */}}
+
+<link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
+
+<style>
+  #ds-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.65);
+    z-index: 9000;
+    cursor: pointer;
+  }
+
+  .ds-popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9001;
+    background: #111111;
+    color: #e8dfc9;
+    border: 1px solid #7a7060;
+    padding: 2.5rem 2rem 2rem;
+    max-width: 460px;
+    width: calc(100% - 2rem);
+    font-family: 'Cormorant Garamond', 'EB Garamond', Georgia, serif;
+    box-sizing: border-box;
+  }
+
+  .ds-popup-title {
+    font-family: 'Cormorant Garamond', 'EB Garamond', Georgia, serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #e8dfc9;
+    margin: 0 0 0.75rem;
+  }
+
+  .ds-popup-body {
+    font-size: 1rem;
+    line-height: 1.65;
+    color: #9a8b72;
+    margin: 0 0 1.25rem;
+  }
+
+  .ds-popup-close {
+    position: absolute;
+    top: 0.8rem;
+    right: 1rem;
+    background: none;
+    border: none;
+    color: #7a7060;
+    font-size: 1.4rem;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+    font-family: sans-serif;
+  }
+
+  .ds-popup-close:hover {
+    color: #e8dfc9;
+  }
+
+  .ds-popup-cta {
+    display: block;
+    background: #e8dfc9;
+    color: #111111;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Cormorant Garamond', 'EB Garamond', Georgia, serif;
+    font-size: 0.85rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    padding: 0.7rem 1rem;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 0.5rem;
+    transition: background 0.15s ease;
+  }
+
+  .ds-popup-cta:hover {
+    background: #9a8b72;
+    color: #111111;
+  }
+
+  /* Brevo form overrides */
+  #ds-newsletter-popup .sib-form,
+  #ds-newsletter-popup #sib-form-container,
+  #ds-newsletter-popup #sib-container {
+    background: transparent !important;
+    border: none !important;
+    border-radius: 0 !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+  }
+
+  #ds-newsletter-popup #EMAIL {
+    background: transparent !important;
+    border: 1px solid #7a7060 !important;
+    color: #e8dfc9 !important;
+    font-family: 'Cormorant Garamond', 'EB Garamond', Georgia, serif !important;
+    font-size: 1rem !important;
+    padding: 0.55rem 0.75rem !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+    border-radius: 0 !important;
+    outline: none !important;
+  }
+
+  #ds-newsletter-popup #EMAIL::placeholder {
+    color: #7a7060 !important;
+    font-family: 'Cormorant Garamond', 'EB Garamond', Georgia, serif !important;
+  }
+
+  #ds-newsletter-popup #EMAIL:focus {
+    border-color: #9a8b72 !important;
+  }
+
+  #ds-newsletter-popup .sib-form-block__button {
+    display: block !important;
+    width: 100% !important;
+    margin-top: 0.65rem !important;
+    background: #e8dfc9 !important;
+    color: #111111 !important;
+    font-family: 'Cormorant Garamond', 'EB Garamond', Georgia, serif !important;
+    font-size: 0.85rem !important;
+    letter-spacing: 0.12em !important;
+    text-transform: uppercase !important;
+    border: none !important;
+    border-radius: 0 !important;
+    padding: 0.7rem 1rem !important;
+    cursor: pointer !important;
+    text-align: center !important;
+    transition: background 0.15s ease !important;
+  }
+
+  #ds-newsletter-popup .sib-form-block__button:hover {
+    background: #9a8b72 !important;
+    color: #111111 !important;
+  }
+
+  #ds-newsletter-popup .entry__label,
+  #ds-newsletter-popup .entry__specification {
+    display: none !important;
+  }
+
+  #ds-newsletter-popup #error-message {
+    background: #2a0a0a !important;
+    border-color: #ff4949 !important;
+    color: #ffcccc !important;
+    border-radius: 0 !important;
+    font-family: 'Cormorant Garamond', 'EB Garamond', Georgia, serif !important;
+    font-size: 0.9rem !important;
+    margin-bottom: 0.75rem;
+  }
+
+  #ds-newsletter-popup #success-message {
+    background: #0a2a0a !important;
+    border-color: #13ce66 !important;
+    color: #ccffcc !important;
+    border-radius: 0 !important;
+    font-family: 'Cormorant Garamond', 'EB Garamond', Georgia, serif !important;
+    font-size: 0.9rem !important;
+    margin-bottom: 0.75rem;
+  }
+
+  #ds-newsletter-popup .entry__error {
+    background: transparent !important;
+    border: none !important;
+    color: #ff6666 !important;
+    font-family: 'Cormorant Garamond', 'EB Garamond', Georgia, serif !important;
+    font-size: 0.85rem !important;
+    border-radius: 0 !important;
+  }
+</style>
+
+<!-- Overlay -->
+<div id="ds-overlay"></div>
+
+<!-- Newsletter Popup (sitewide) -->
+<div id="ds-newsletter-popup" class="ds-popup" role="dialog" aria-modal="true" aria-labelledby="ds-newsletter-title">
+  <button class="ds-popup-close" id="ds-newsletter-close" aria-label="Close">&times;</button>
+  <p class="ds-popup-title" id="ds-newsletter-title">Decadent Serpent</p>
+  <p class="ds-popup-body">Lands in your inbox weekly. Essays, reviews, and cultural criticism.</p>
+  <div class="sib-form">
+    <div id="sib-form-container" class="sib-form-container">
+      <div id="error-message" class="sib-form-message-panel">
+        <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
+          <span class="sib-form-message-panel__inner-text">Your subscription could not be saved. Please try again.</span>
+        </div>
+      </div>
+      <div id="success-message" class="sib-form-message-panel">
+        <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
+          <span class="sib-form-message-panel__inner-text">Your subscription has been successful.</span>
+        </div>
+      </div>
+      <div id="sib-container" class="sib-container--large sib-container--vertical">
+        <form id="sib-form" method="POST"
+          action="https://a086d4b7.sibforms.com/serve/MUIFAGCxxxkNoZE575igpj9utDJ6fKMZ1lfDP5A8n8DkCK845D_8WwyDazOo8th7v48HO4Iefpgan1hNP1iyjUjAUoSlc0tiLF0mCcUcQqWSddrlALUVdLjJP3gedH0aKHI4wo81rt8UFdlGU_ryo1SDqY_eEOcfoMARXHNbLFTV-Sfb7CB1_hfrLngyCudqZldzQ847E-X0SAquHQ=="
+          data-type="subscription">
+          <div class="sib-input sib-form-block">
+            <div class="form__entry entry_block">
+              <div class="form__label-row">
+                <div class="entry__field">
+                  <input class="input" type="text" id="EMAIL" name="EMAIL"
+                    autocomplete="off" value=""
+                    placeholder="Your email address"
+                    data-required="true" required />
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary"></label>
+            </div>
+          </div>
+          <div class="sib-form-block">
+            <button class="sib-form-block__button sib-form-block__button-with-loader"
+              form="sib-form" type="submit">
+              <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512" aria-hidden="true">
+                <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.010z" />
+              </svg>
+              Subscribe
+            </button>
+          </div>
+          <input type="text" name="email_address_check" value="" class="input--hidden">
+          <input type="hidden" name="locale" value="en">
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ if .IsPage }}
+<!-- Donations Popup (articles only) -->
+<div id="ds-donations-popup" class="ds-popup" role="dialog" aria-modal="true" aria-labelledby="ds-donations-title">
+  <button class="ds-popup-close" id="ds-donations-close" aria-label="Close">&times;</button>
+  <p class="ds-popup-title" id="ds-donations-title">Support the work</p>
+  <p class="ds-popup-body">If you've read this far, you know what we're doing here. Decadent Serpent is independent, ad-free, and run on very little.</p>
+  <p class="ds-popup-body" style="margin-bottom: 0;">If you'd like to support it, we'd be grateful.</p>
+  <a href="https://buymeacoffee.com/decadentserpent" target="_blank" rel="noopener" class="ds-popup-cta">Buy us a coffee</a>
+</div>
+{{ end }}
+
+<!-- Brevo config -->
+<script>
+  window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
+  window.LOCALE = 'en';
+  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+  window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank.";
+  window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+  window.INVALID_DATE = "Please enter a valid date";
+  window.REQUIRED_MULTISELECT_MESSAGE = 'Please select at least 1 option';
+  window.translation = {
+    common: {
+      selectedList: '{quantity} list selected',
+      selectedLists: '{quantity} lists selected',
+      selectedOption: '{quantity} selected',
+      selectedOptions: '{quantity} selected'
+    }
+  };
+  var AUTOHIDE = Boolean(1);
+</script>
+<script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
+<script defer src="/js/popups.js"></script>
