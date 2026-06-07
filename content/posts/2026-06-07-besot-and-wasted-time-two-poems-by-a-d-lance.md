@@ -4,6 +4,7 @@ date: 2026-06-07
 image: /images/uploads/llance.jpg
 categories:
   - creative-writing
+  - poetry
 author: A. D. Lance
 tags:
   - Poetry
