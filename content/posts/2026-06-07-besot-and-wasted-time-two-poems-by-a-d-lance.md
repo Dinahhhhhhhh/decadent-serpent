@@ -1,5 +1,5 @@
 ---
-title: "'Besot' and 'Wasted Time': Two Poems by A. D. Lance"
+title: "'Besot' and 'On Wasted Time': Two Poems by A. D. Lance"
 date: 2026-06-07
 image: /images/uploads/llance.jpeg
 categories:
