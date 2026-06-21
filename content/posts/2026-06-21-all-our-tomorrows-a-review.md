@@ -1,7 +1,7 @@
 ---
 title: "All Our Tomorrows: A Review"
 date: 2026-06-21
-image: /images/uploads/aa467daa-1b0f-4932-9f28-92f385130a7c.jpeg
+image: /images/uploads/aa467daa-1b0f-4932-9f28-92f385130a7c-small.jpeg
 categories:
   - literature
   - book-reviews
